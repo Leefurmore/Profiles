@@ -341,6 +341,6 @@ host-suffix, umeng.com, reject
 host-suffix, umengcloud.com, reject
 host-suffix, getui.com, reject
 host-suffix, sdk.open.talk.getui.com, reject
-# host-suffix, i.apps.sina.cn, reject
+host-suffix, i.apps.sina.cn, reject
 host-suffix, forecast.sina.cn, reject
-# host-suffix, api.sina.cn, reject
+host-suffix, api.sina.cn, reject
