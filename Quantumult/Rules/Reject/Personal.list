@@ -323,3 +323,23 @@ IP-CIDR,118.89.204.198/32, reject
 IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
 # > 中国联通
 HOST-SUFFIX, m1.ad.10010.com, reject
+
+# ======= 其他 ======= #
+host-suffix, iadsdk.apple.com, reject
+host-suffix, mi.gdt.qq.com, reject
+host-suffix, sdk.e.qq.com, reject
+host-suffix, api.touchxd.com, reject
+host-suffix, ctobsnssdk.com, reject
+host-suffix, gdfp.gifshow.com, reject
+host-suffix, qzs.gdtimg.com, reject
+host-suffix, open.e.kuaishou.cn, reject
+host-suffix, zijieapi.com, reject
+host-suffix, pangolin.snssdk.com, reject
+host-suffix, pangolin-sdk-toutiao.com, reject
+host-suffix, pglstatp-toutiao.com, reject
+host-suffix, dm.toutiao.com, reject
+host-suffix, umeng.com, reject
+host-suffix, umengcloud.com, reject
+host-suffix, getui.com, reject
+host-suffix, sdk.open.talk.getui.com, reject
+host-suffix, wanzjhb.com, reject
