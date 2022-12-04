@@ -1,51 +1,51 @@
 payload:
 # ======= A ======= #
 # > 爱奇艺
-  - domain,t7z.cupid.iqiyi.com
-  - domain,t7z.cupid.ptqy.gitv.tv
+  - DOMAIN,t7z.cupid.iqiyi.com
+  - DOMAIN,t7z.cupid.ptqy.gitv.tv
   - IP-CIDR,203.107.63.154/32
   - IP-CIDR,101.227.97.240/32
   - IP-CIDR,101.227.200.11/32
   - IP-CIDR,101.227.200.28/32
   - IP-CIDR,124.192.153.42/32
-  - domain,cr-status.iqiyi.com
-  - domain-suffix,cupid.iqiyi.com
-  - domain,f74f7f7765f8a2f6.ngaa.net.cn
-  - domain,ef-dongfeng.tanx.com
-  - domain,iqiyim.adtrack.enlightent.cn
-  - domain,dig.bdurl.net
-  - domain,ads3-normal-lq.zijieapi.com
-  - domain,ads5-normal-lq.zijieapi.com
+  - DOMAIN,cr-status.iqiyi.com
+  - DOMAIN-SUFFIX,cupid.iqiyi.com
+  - DOMAIN,f74f7f7765f8a2f6.ngaa.net.cn
+  - DOMAIN,ef-dongfeng.tanx.com
+  - DOMAIN,iqiyim.adtrack.enlightent.cn
+  - DOMAIN,dig.bdurl.net
+  - DOMAIN,ads3-normal-lq.zijieapi.com
+  - DOMAIN,ads5-normal-lq.zijieapi.com
 
 # ======= B ======= #
 # > 百词斩
-  - domain,advertise.baicizhan.com
-  - domain,advertise.baicizhan.org
+  - DOMAIN,advertise.baicizhan.com
+  - DOMAIN,advertise.baicizhan.org
 # > 哔哩哔哩
-  - domain-suffix,cm.bilibili.com
-  - domain-keyword,api.sobot.com
-  - domain-suffix,cm.ad.bilibili.com
-  - domain-suffix,cm.adcommon.bilibili.com
-  - domain-suffix,cm.game.bilibili.com
-  - domain-suffix,cm.track.biligame.bilibili.com
+  - DOMAIN-SUFFIX,cm.bilibili.com
+  - DOMAIN-KEYWORD,api.sobot.com
+  - DOMAIN-SUFFIX,cm.ad.bilibili.com
+  - DOMAIN-SUFFIX,cm.adcommon.bilibili.com
+  - DOMAIN-SUFFIX,cm.game.bilibili.com
+  - DOMAIN-SUFFIX,cm.track.biligame.bilibili.com
 
 
 # ======= C ======= #
 # > Camera360
-  - domain,dispatcher.360in.com
-  - domain,ad.360in.com
-  - domain,exp.360in.com
+  - DOMAIN,dispatcher.360in.com
+  - DOMAIN,ad.360in.com
+  - DOMAIN,exp.360in.com
 
 
 # ======= D ======= #
 # > 懂车帝
-  - domain-keyword,p3-pack.byteimg.com
-  - domain-keyword,p6-pack.byteimg.com
-  - domain-keyword,apimg.qunliao.info
+  - DOMAIN-KEYWORD,p3-pack.byteimg.com
+  - DOMAIN-KEYWORD,p6-pack.byteimg.com
+  - DOMAIN-KEYWORD,apimg.qunliao.info
 # > 抖音
-  - domain-keyword,bds.snssdk.com
-  - domain-keyword,p6-ad-sign.byteimg.com
-  - domain-keyword,p3.pstatp.com
+  - DOMAIN-KEYWORD,bds.snssdk.com
+  - DOMAIN-KEYWORD,p6-ad-sign.byteimg.com
+  - DOMAIN-KEYWORD,p3.pstatp.com
 
 
 # ======= E ======= #
@@ -56,20 +56,20 @@ payload:
 
 # ======= G ======= #
 # > 高德
-  - domain-suffix,adiu.amap.com
-  - domain,aboard.apilocate.amap.com
-  - domain,apiinit.amap.com
-  - domain,icloud-amap.com
-  - domain,logs.amap.com
-  - domain-suffix,dualstack-logs.amap.com
-  - domain-suffix,logs.amap.com
-  - domain-suffix,optimus-ads.amap.com
-  - domain-suffix,page.amap.com
-  - domain,optimus-ads.amap.com
-  - domain,optimus-ads.amap.com.w.alikunlun.com
-  - domain-suffix,shouji.sougou.com
-  - domain,u51.me
-  - domain-suffix,u51.me
+  - DOMAIN-SUFFIX,adiu.amap.com
+  - DOMAIN,aboard.apilocate.amap.com
+  - DOMAIN,apiinit.amap.com
+  - DOMAIN,icloud-amap.com
+  - DOMAIN,logs.amap.com
+  - DOMAIN-SUFFIX,dualstack-logs.amap.com
+  - DOMAIN-SUFFIX,logs.amap.com
+  - DOMAIN-SUFFIX,optimus-ads.amap.com
+  - DOMAIN-SUFFIX,page.amap.com
+  - DOMAIN,optimus-ads.amap.com
+  - DOMAIN,optimus-ads.amap.com.w.alikunlun.com
+  - DOMAIN-SUFFIX,shouji.sougou.com
+  - DOMAIN,u51.me
+  - DOMAIN-SUFFIX,u51.me
 
 
 # ======= H ======= #
@@ -80,42 +80,42 @@ payload:
 
 # ======= J ======= #
 # > 交管12123
-  - domain,static.122.gov.cn
-  - domain-suffix,v3.fstats.xyz
-  - domain-suffix,wss.haoyundmn.com
-  - domain-suffix,new.xiongzhangad.com
-  - domain-suffix,alexametrics.com
-  - domain-keyword,in-page-push
+  - DOMAIN,static.122.gov.cn
+  - DOMAIN-SUFFIX,v3.fstats.xyz
+  - DOMAIN-SUFFIX,wss.haoyundmn.com
+  - DOMAIN-SUFFIX,new.xiongzhangad.com
+  - DOMAIN-SUFFIX,alexametrics.com
+  - DOMAIN-KEYWORD,in-page-push
 # > 今日头条
-  - domain,dm.toutiao.com
-  - domain-keyword,ad.toutiao.com
-  - domain-keyword,clk.gentags.net
-  - domain-keyword,dm.toutiao.com
-  - domain-keyword,dm.pstatp.com
-  - domain-keyword,dm.bytedance.com
-  - domain-keyword,uop.umeng.com
-  - domain-keyword,policy.jd.com
-  - domain-keyword,kepler.jd.com
-  - domain-keyword,bdsp.x.jd.com
-  - domain-keyword,keplerapi.jd.com
-  - domain-keyword,m.suning.com
-  - domain-keyword,adshare.toutiao.com
-  - domain-keyword,tunion-api.m.taobao.com
-  - domain-keyword,mapi.m.jd.com
-  - domain-keyword,s1.pstatp.com
-  - domain-keyword,s2.pstatp.com
-  - domain-keyword,s3.pstatp.com
-  - domain-keyword,a3.pstatp.com
-  - domain-keyword,a3.bytecdn.cn
-  - domain-keyword,ichannel.snssdk.com
+  - DOMAIN,dm.toutiao.com
+  - DOMAIN-KEYWORD,ad.toutiao.com
+  - DOMAIN-KEYWORD,clk.gentags.net
+  - DOMAIN-KEYWORD,dm.toutiao.com
+  - DOMAIN-KEYWORD,dm.pstatp.com
+  - DOMAIN-KEYWORD,dm.bytedance.com
+  - DOMAIN-KEYWORD,uop.umeng.com
+  - DOMAIN-KEYWORD,policy.jd.com
+  - DOMAIN-KEYWORD,kepler.jd.com
+  - DOMAIN-KEYWORD,bdsp.x.jd.com
+  - DOMAIN-KEYWORD,keplerapi.jd.com
+  - DOMAIN-KEYWORD,m.suning.com
+  - DOMAIN-KEYWORD,adshare.toutiao.com
+  - DOMAIN-KEYWORD,tunion-api.m.taobao.com
+  - DOMAIN-KEYWORD,mapi.m.jd.com
+  - DOMAIN-KEYWORD,s1.pstatp.com
+  - DOMAIN-KEYWORD,s2.pstatp.com
+  - DOMAIN-KEYWORD,s3.pstatp.com
+  - DOMAIN-KEYWORD,a3.pstatp.com
+  - DOMAIN-KEYWORD,a3.bytecdn.cn
+  - DOMAIN-KEYWORD,ichannel.snssdk.com
 
 
 # ======= K ======= #
 # > 快手
-  - domain-suffix,e.kuaishou.com
-  - domain-suffix,cm.downloader.commercial.kuaishou.com
-  - domain-suffix,cm.ad.gifshow.com
-  - domain-suffix,cm.kwad.com
+  - DOMAIN-SUFFIX,e.kuaishou.com
+  - DOMAIN-SUFFIX,cm.downloader.commercial.kuaishou.com
+  - DOMAIN-SUFFIX,cm.ad.gifshow.com
+  - DOMAIN-SUFFIX,cm.kwad.com
 
 
 # ======= L ======= #
@@ -123,22 +123,22 @@ payload:
 
 # ======= M ======= #
 # > 民生银行
-  - domain-keyword,cm-10-134.getui.com
-  - domain-keyword,sdk.open.talk.getui.com
-  - domain-keyword,cm-10-35.getui.com
-  - domain-keyword,c-hzgt2.getui.com
-  - domain-suffix,sdk.open.talk.igexin.com
+  - DOMAIN-KEYWORD,cm-10-134.getui.com
+  - DOMAIN-KEYWORD,sdk.open.talk.getui.com
+  - DOMAIN-KEYWORD,cm-10-35.getui.com
+  - DOMAIN-KEYWORD,c-hzgt2.getui.com
+  - DOMAIN-SUFFIX,sdk.open.talk.igexin.com
 # > 美团
-  - domain,flowplus.meituan.net
-  - domain-suffix,analytics.meituan.net
-  - domain-suffix,meituan.xn--io0a7i
-  - domain-suffix,meituan.yoga
-  - domain-suffix,meituangov.cn
-  - domain-suffix,report.meituan.com
-  - domain-suffix,wmlog.meituan.com
+  - DOMAIN,flowplus.meituan.net
+  - DOMAIN-SUFFIX,analytics.meituan.net
+  - DOMAIN-SUFFIX,meituan.xn--io0a7i
+  - DOMAIN-SUFFIX,meituan.yoga
+  - DOMAIN-SUFFIX,meituangov.cn
+  - DOMAIN-SUFFIX,report.meituan.com
+  - DOMAIN-SUFFIX,wmlog.meituan.com
 # > 美颜相机去首页和轮播广告
-  - domain,adui.tg.meitu.com
-  - domain,aaid.uyunad.com
+  - DOMAIN,adui.tg.meitu.com
+  - DOMAIN,aaid.uyunad.com
 
 
 # ======= N ======= #
@@ -152,19 +152,19 @@ payload:
 
 # ======= Q ======= #
 # > 汽车之家
-  - domain-keyword,adm3.autoimg.cn
-  - domain-keyword,audid-api.taobao.com
-  - domain-keyword,collectionpv.che168.com
-  - domain-keyword,adproxy.autohome.com
-  - domain-keyword,applogapi.autohome.com
-  - domain,adproxy.autohome.com.cn
-  - domain,rd.autohome.com.cn
-  - domain,al.autohome.com.cn
-  - domain,applogapi.autohome.com.cn
-  - domain,adm0.autoimg.cn
-  - domain,adm1.autoimg.cn
-  - domain,adm2.autoimg.cn
-  - domain,adm3.autoimg.cn
+  - DOMAIN-KEYWORD,adm3.autoimg.cn
+  - DOMAIN-KEYWORD,audid-api.taobao.com
+  - DOMAIN-KEYWORD,collectionpv.che168.com
+  - DOMAIN-KEYWORD,adproxy.autohome.com
+  - DOMAIN-KEYWORD,applogapi.autohome.com
+  - DOMAIN,adproxy.autohome.com.cn
+  - DOMAIN,rd.autohome.com.cn
+  - DOMAIN,al.autohome.com.cn
+  - DOMAIN,applogapi.autohome.com.cn
+  - DOMAIN,adm0.autoimg.cn
+  - DOMAIN,adm1.autoimg.cn
+  - DOMAIN,adm2.autoimg.cn
+  - DOMAIN,adm3.autoimg.cn
 
 
 # ======= R ======= #
@@ -175,51 +175,51 @@ payload:
 
 # ======= T ======= #
 # > 同花顺
-  - domain,adm.10jqka.com.cn
-  - domain,stat.10jqka.com.cn
+  - DOMAIN,adm.10jqka.com.cn
+  - DOMAIN,stat.10jqka.com.cn
 # > 腾讯视频
-  - domain-suffix,tetrack.qq.com
-  - domain-suffix,tpns.tencent.com
-  - domain-suffix,api.poll.video.qq.com
-  - domain-suffix,static-res.qq.com
-  - domain-suffix,stat.tpns.tencent.com
-  - domain,h.trace.qq.com
-  - domain-keyword,omgmta.qq.com
-  - domain-keyword,omgmta1.qq.com
+  - DOMAIN-SUFFIX,tetrack.qq.com
+  - DOMAIN-SUFFIX,tpns.tencent.com
+  - DOMAIN-SUFFIX,api.poll.video.qq.com
+  - DOMAIN-SUFFIX,static-res.qq.com
+  - DOMAIN-SUFFIX,stat.tpns.tencent.com
+  - DOMAIN,h.trace.qq.com
+  - DOMAIN-KEYWORD,omgmta.qq.com
+  - DOMAIN-KEYWORD,omgmta1.qq.com
 # > 淘宝
-  - domain-suffix,apoll.m.taobao.com
-  - domain-suffix,h-adashx.ut.taobao.com
-  - domain-suffix,w.m.taobao.com
-  - domain,tunion-api.m.taobao.com
-  - domain-suffix,ai.m.taobao.com
-  - domain-suffix,re.m.taobao.com
-  - domain-suffix,agoodm.m.taobao.com
-  - domain-suffix,ai.taobao.com
-  - domain-suffix,api.waptest.taobao.com
-  - domain-suffix,dsp.simba.taobao.com
-  - domain-suffix,fav.simba.taobao.com
-  - domain-suffix,m.simba.taobao.com
-  - domain-suffix,mclick.simba.taobao.com
-  - domain-suffix,re.taobao.com
-  - domain-suffix,redirect.simba.taobao.com
-  - domain-suffix,simba.m.taobao.com
-  - domain-suffix,srd.simba.taobao.com
-  - domain-suffix,temai.taobao.com
-  - domain-suffix,textlink.simba.taobao.com
-  - domain-suffix,unitacs.m.taobao.com
-  - domain-suffix,acs4baichuan.m.taobao.com
-  - domain-suffix,adashbc.ut.taobao.com
-  - domain-suffix,adash-c.ut.taobao.com
-  - domain-suffix,adashxgc.ut.taobao.com
-  - domain-suffix,adashx4yt.m.taobao.com
-  - domain-suffix,tunion-api.m.taobao.com
-  - domain-suffix,tns.simba.taobao.com
-  - domain-suffix,click.mz.simba.taobao.com
-  - domain-suffix,click.simba.taobao.com
-  - domain-suffix,click.tz.simba.taobao.com
-  - domain-suffix,stat.simba.taobao.com
-  - domain-suffix,m-adash.m.taobao.com
-  - domain-suffix,adashbc.m.taobao.com
+  - DOMAIN-SUFFIX,apoll.m.taobao.com
+  - DOMAIN-SUFFIX,h-adashx.ut.taobao.com
+  - DOMAIN-SUFFIX,w.m.taobao.com
+  - DOMAIN,tunion-api.m.taobao.com
+  - DOMAIN-SUFFIX,ai.m.taobao.com
+  - DOMAIN-SUFFIX,re.m.taobao.com
+  - DOMAIN-SUFFIX,agoodm.m.taobao.com
+  - DOMAIN-SUFFIX,ai.taobao.com
+  - DOMAIN-SUFFIX,api.waptest.taobao.com
+  - DOMAIN-SUFFIX,dsp.simba.taobao.com
+  - DOMAIN-SUFFIX,fav.simba.taobao.com
+  - DOMAIN-SUFFIX,m.simba.taobao.com
+  - DOMAIN-SUFFIX,mclick.simba.taobao.com
+  - DOMAIN-SUFFIX,re.taobao.com
+  - DOMAIN-SUFFIX,redirect.simba.taobao.com
+  - DOMAIN-SUFFIX,simba.m.taobao.com
+  - DOMAIN-SUFFIX,srd.simba.taobao.com
+  - DOMAIN-SUFFIX,temai.taobao.com
+  - DOMAIN-SUFFIX,textlink.simba.taobao.com
+  - DOMAIN-SUFFIX,unitacs.m.taobao.com
+  - DOMAIN-SUFFIX,acs4baichuan.m.taobao.com
+  - DOMAIN-SUFFIX,adashbc.ut.taobao.com
+  - DOMAIN-SUFFIX,adash-c.ut.taobao.com
+  - DOMAIN-SUFFIX,adashxgc.ut.taobao.com
+  - DOMAIN-SUFFIX,adashx4yt.m.taobao.com
+  - DOMAIN-SUFFIX,tunion-api.m.taobao.com
+  - DOMAIN-SUFFIX,tns.simba.taobao.com
+  - DOMAIN-SUFFIX,click.mz.simba.taobao.com
+  - DOMAIN-SUFFIX,click.simba.taobao.com
+  - DOMAIN-SUFFIX,click.tz.simba.taobao.com
+  - DOMAIN-SUFFIX,stat.simba.taobao.com
+  - DOMAIN-SUFFIX,m-adash.m.taobao.com
+  - DOMAIN-SUFFIX,adashbc.m.taobao.com
 
 
 # ======= U ======= #
@@ -230,119 +230,119 @@ payload:
 
 # ======= W ======= #
 # > 威锋
-  - domain-keyword,p3-be-pack-sign.pglstatp-toutiao.com
-  - domain-keyword,sf3-be-pack.pglstatp-toutiao.com
-  - domain-keyword,sf1-be-pack.pglstatp-toutiao.com
-  - domain-keyword,sf1-fe-tos.pglstatp-toutiao.com
-  - domain-keyword,sf1-ttcdn-tos.pstatp.com
-  - domain-keyword,sf3-fe-tos.pglstatp-toutiao.com
-  - domain-keyword,sf3-ttcdn-tos.pstatp.com
-  - domain-keyword,sf6-fe-tos.pglstatp-toutiao.com
-  - domain-keyword,s3-fe-scm.pglstatp-toutiao.com
-  - domain-keyword,sf6-be-pack.pglstatp-toutiao.com
-  - domain-keyword,p9-be-pack-sign.pglstatp-toutiao.com
+  - DOMAIN-KEYWORD,p3-be-pack-sign.pglstatp-toutiao.com
+  - DOMAIN-KEYWORD,sf3-be-pack.pglstatp-toutiao.com
+  - DOMAIN-KEYWORD,sf1-be-pack.pglstatp-toutiao.com
+  - DOMAIN-KEYWORD,sf1-fe-tos.pglstatp-toutiao.com
+  - DOMAIN-KEYWORD,sf1-ttcdn-tos.pstatp.com
+  - DOMAIN-KEYWORD,sf3-fe-tos.pglstatp-toutiao.com
+  - DOMAIN-KEYWORD,sf3-ttcdn-tos.pstatp.com
+  - DOMAIN-KEYWORD,sf6-fe-tos.pglstatp-toutiao.com
+  - DOMAIN-KEYWORD,s3-fe-scm.pglstatp-toutiao.com
+  - DOMAIN-KEYWORD,sf6-be-pack.pglstatp-toutiao.com
+  - DOMAIN-KEYWORD,p9-be-pack-sign.pglstatp-toutiao.com
 
 
 # ======= X ======= #
 # > 小米
-  - domain,data.mistat.xiaomi.com
-  - domain,tracking.intl.miui.com
+  - DOMAIN,data.mistat.xiaomi.com
+  - DOMAIN,tracking.intl.miui.com
 
 
 # ======= Y ======= #
 # > 云闪付
-  - domain-keyword,switch.cup.com.cn
-  - domain-keyword,sdk.open.talk.getui.net
-  - domain-keyword,sdk-conf.getui.com
-  - domain-keyword,cm-10-138.getui.com
-  - domain-keyword,ads.95516.com
+  - DOMAIN-KEYWORD,switch.cup.com.cn
+  - DOMAIN-KEYWORD,sdk.open.talk.getui.net
+  - DOMAIN-KEYWORD,sdk-conf.getui.com
+  - DOMAIN-KEYWORD,cm-10-138.getui.com
+  - DOMAIN-KEYWORD,ads.95516.com
 # > 优酷
-  - domain-suffix,atm.youku.com
-  - domain,ad.mobile.youku.com
-  - domain,iyes.youku.com
-  - domain,pl.cp31.ott.cibntv.net
-  - domain-suffix,actives.youku.com
-  - domain-suffix,ad.api.3g.tudou.com
-  - domain-suffix,ad.api.3g.youku.com
-  - domain-suffix,ad.api.mobile.youku.com
-  - domain-suffix,a-dxk.play.api.3g.youku.com
-  - domain-suffix,b.smartvideo.youku.com
-  - domain-suffix,c.yes.youku.com
-  - domain-suffix,das.api.youku.com
-  - domain-suffix,das.mobile.youku.com
-  - domain-suffix,dev-push.m.youku.com
-  - domain-suffix,dl.g.youku.com
-  - domain-suffix,dmapp.youku.com
-  - domain-suffix,gamex.mobile.youku.com
-  - domain-suffix,hudong.pl.youku.com
-  - domain-suffix,huodong.pl.youku.com
-  - domain-suffix,huodong.vip.youku.com
-  - domain-suffix,hz.youku.com
-  - domain-suffix,iyes.youku.com
-  - domain-suffix,l.ykimg.com
-  - domain-suffix,lstat.youku.com
-  - domain-suffix,m.yes.youku.com
-  - domain-suffix,mobilemsg.youku.com
-  - domain-suffix,msg.youku.com
-  - domain-suffix,myes.youku.com
-  - domain-suffix,p.l.youku.com
-  - domain-suffix,passport-log.youku.com
-  - domain-suffix,p-log.ykimg.com
-  - domain-suffix,push.m.youku.com
-  - domain-suffix,r.l.youku.com
-  - domain-suffix,s.p.youku.com
-  - domain-suffix,sdk.api.gamex.mobile.youku.com
-  - domain-suffix,sdk.m.youku.com
-  - domain-suffix,stat.youku.com
-  - domain-suffix,store.tv.api.3g.youku.com
-  - domain-suffix,store.xl.api.3g.youku.com
-  - domain-suffix,tdrec.youku.com
-  - domain-suffix,test.ott.youku.com
-  - domain-suffix,urchin.lstat.youku.com
-  - domain-suffix,v.l.youku.com
-  - domain-suffix,val.api.youku.com
-  - domain-suffix,wan.youku.com
-  - domain-suffix,ykatr.youku.com
-  - domain-suffix,ykrec.youku.com
+  - DOMAIN-SUFFIX,atm.youku.com
+  - DOMAIN,ad.mobile.youku.com
+  - DOMAIN,iyes.youku.com
+  - DOMAIN,pl.cp31.ott.cibntv.net
+  - DOMAIN-SUFFIX,actives.youku.com
+  - DOMAIN-SUFFIX,ad.api.3g.tudou.com
+  - DOMAIN-SUFFIX,ad.api.3g.youku.com
+  - DOMAIN-SUFFIX,ad.api.mobile.youku.com
+  - DOMAIN-SUFFIX,a-dxk.play.api.3g.youku.com
+  - DOMAIN-SUFFIX,b.smartvideo.youku.com
+  - DOMAIN-SUFFIX,c.yes.youku.com
+  - DOMAIN-SUFFIX,das.api.youku.com
+  - DOMAIN-SUFFIX,das.mobile.youku.com
+  - DOMAIN-SUFFIX,dev-push.m.youku.com
+  - DOMAIN-SUFFIX,dl.g.youku.com
+  - DOMAIN-SUFFIX,dmapp.youku.com
+  - DOMAIN-SUFFIX,gamex.mobile.youku.com
+  - DOMAIN-SUFFIX,hudong.pl.youku.com
+  - DOMAIN-SUFFIX,huodong.pl.youku.com
+  - DOMAIN-SUFFIX,huodong.vip.youku.com
+  - DOMAIN-SUFFIX,hz.youku.com
+  - DOMAIN-SUFFIX,iyes.youku.com
+  - DOMAIN-SUFFIX,l.ykimg.com
+  - DOMAIN-SUFFIX,lstat.youku.com
+  - DOMAIN-SUFFIX,m.yes.youku.com
+  - DOMAIN-SUFFIX,mobilemsg.youku.com
+  - DOMAIN-SUFFIX,msg.youku.com
+  - DOMAIN-SUFFIX,myes.youku.com
+  - DOMAIN-SUFFIX,p.l.youku.com
+  - DOMAIN-SUFFIX,passport-log.youku.com
+  - DOMAIN-SUFFIX,p-log.ykimg.com
+  - DOMAIN-SUFFIX,push.m.youku.com
+  - DOMAIN-SUFFIX,r.l.youku.com
+  - DOMAIN-SUFFIX,s.p.youku.com
+  - DOMAIN-SUFFIX,sdk.api.gamex.mobile.youku.com
+  - DOMAIN-SUFFIX,sdk.m.youku.com
+  - DOMAIN-SUFFIX,stat.youku.com
+  - DOMAIN-SUFFIX,store.tv.api.3g.youku.com
+  - DOMAIN-SUFFIX,store.xl.api.3g.youku.com
+  - DOMAIN-SUFFIX,tdrec.youku.com
+  - DOMAIN-SUFFIX,test.ott.youku.com
+  - DOMAIN-SUFFIX,urchin.lstat.youku.com
+  - DOMAIN-SUFFIX,v.l.youku.com
+  - DOMAIN-SUFFIX,val.api.youku.com
+  - DOMAIN-SUFFIX,wan.youku.com
+  - DOMAIN-SUFFIX,ykatr.youku.com
+  - DOMAIN-SUFFIX,ykrec.youku.com
 
 
 # ======= Z ======= #
 # > 字节跳动
-  - domain-suffix,pangolin-sdk-toutiao.com
-  - domain-suffix,pangolin-sdk-toutiao-b.com
-  - domain-suffix,api-access.pangolin-sdk-toutiao-b.com
-  - domain,ad.toutiao.com
-  - domain,dsp.toutiao.com
-  - domain-keyword,pangolin.snssdk.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+  - DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com
+  - DOMAIN,ad.toutiao.com
+  - DOMAIN,dsp.toutiao.com
+  - DOMAIN-KEYWORD,pangolin.snssdk.com
 # > 知乎
   - USER-AGENT,AVOS*
-  - domain,appcloud2.in.zhihu.com
-  - domain,mqtt.zhihu.com
-  - domain,sugar.zhihu.com
-  - domain,118.89.204.198
+  - DOMAIN,appcloud2.in.zhihu.com
+  - DOMAIN,mqtt.zhihu.com
+  - DOMAIN,sugar.zhihu.com
+  - DOMAIN,118.89.204.198
   - IP-CIDR,118.89.204.198/32
   - IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
 # > 中国联通
-  - domain-suffix,m1.ad.10010.com
+  - DOMAIN-SUFFIX,m1.ad.10010.com
 
 
 # ======= 其他 ======= #
-  - domain-suffix,mi.gdt.qq.com
-  - domain-suffix,sdk.e.qq.com
-  - domain-suffix,api.touchxd.com
-  - domain-suffix,ctobsnssdk.com
-  - domain-suffix,gdfp.gifshow.com
-  - domain-suffix,qzs.gdtimg.com
-  - domain-suffix,open.e.kuaishou.cn
-  - domain-suffix,zijieapi.com
-  - domain-suffix,pangolin.snssdk.com
-  - domain-suffix,pangolin-sdk-toutiao.com
-  - domain-suffix,pglstatp-toutiao.com
-  - domain-suffix,dm.toutiao.com
-  - domain-suffix,umeng.com
-  - domain-suffix,umengcloud.com
-  - domain-suffix,getui.com
-  - domain-suffix,sdk.open.talk.getui.com
-  - domain-suffix,i.apps.sina.cn
-  - domain-suffix,forecast.sina.cn
-  - domain-suffix,api.sina.cn
+  - DOMAIN-SUFFIX,mi.gdt.qq.com
+  - DOMAIN-SUFFIX,sdk.e.qq.com
+  - DOMAIN-SUFFIX,api.touchxd.com
+  - DOMAIN-SUFFIX,ctobsnssdk.com
+  - DOMAIN-SUFFIX,gdfp.gifshow.com
+  - DOMAIN-SUFFIX,qzs.gdtimg.com
+  - DOMAIN-SUFFIX,open.e.kuaishou.cn
+  - DOMAIN-SUFFIX,zijieapi.com
+  - DOMAIN-SUFFIX,pangolin.snssdk.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,dm.toutiao.com
+  - DOMAIN-SUFFIX,umeng.com
+  - DOMAIN-SUFFIX,umengcloud.com
+  - DOMAIN-SUFFIX,getui.com
+  - DOMAIN-SUFFIX,sdk.open.talk.getui.com
+  - DOMAIN-SUFFIX,i.apps.sina.cn
+  - DOMAIN-SUFFIX,forecast.sina.cn
+  - DOMAIN-SUFFIX,api.sina.cn
