@@ -339,6 +339,6 @@ payload:
   - DOMAIN-SUFFIX,umengcloud.com
   - DOMAIN-SUFFIX,getui.com
   - DOMAIN-SUFFIX,sdk.open.talk.getui.com
-  - DOMAIN-SUFFIX,i.apps.sina.cn
-  - DOMAIN-SUFFIX,forecast.sina.cn
-  - DOMAIN-SUFFIX,api.sina.cn
+#   - DOMAIN-SUFFIX,i.apps.sina.cn
+#   - DOMAIN-SUFFIX,forecast.sina.cn
+#   - DOMAIN-SUFFIX,api.sina.cn
