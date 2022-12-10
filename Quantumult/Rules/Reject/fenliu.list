@@ -4,13 +4,13 @@
 # 项目地址：https://github.com/fmz200/wool_scripts
 # 交流群组：https://t.me/quguanggao
 # 更新时间：2022.11.21 20:36
-###############################################################
+#############################################
 # > "reject"        策略返回 HTTP 状态码 404,不附带任何额外内容
 # > "reject-200"    策略返回 HTTP 状态码 200,不附带任何额外内容
 # > "reject-img"    策略返回 HTTP 状态码 200,同时附带 1px gif
 # > "reject-dict"   策略返回 HTTP 状态码 200,同时附带一个空的 JSON 对象
 # > "reject-array"  策略返回 HTTP 状态码 200,同时附带一个空的 JSON 数组
-###############################################################
+#############################################
 
 
 # > 光大银行阳光惠生活
@@ -318,9 +318,9 @@ host, tnc3-aliec2.snssdk.com, reject
 # > 交管12123
 host, static.122.gov.cn, reject
 HOST-SUFFIX, v3.fstats.xyz, reject
-HOST-SUFFIX, wss.haoyundmn.com, reject
-HOST-SUFFIX, new.xiongzhangad.com, reject
-HOST-SUFFIX, alexametrics.com, reject
+HOST-SUFFIX, wss.haoyundmn.com, reject 
+HOST-SUFFIX, new.xiongzhangad.com, reject  
+HOST-SUFFIX, alexametrics.com, reject 
 HOST-KEYWORD, in-page-push, reject
 # > 广告
 # > 51wnl
@@ -435,7 +435,7 @@ HOST-SUFFIX,cpu-admin.baidu.com, reject
 IP-CIDR,180.76.76.200/32,REJECT
 # > 百度贴吧屏蔽ws(副作用:消息通知功能失效,需手动进入查看),强制帖子接口走http
 HOST,im.tieba.baidu.com,REJECT
-## /*
+## /*  
 HOST-SUFFIX,10086.cn.baidu.cdn.yiwk.com, reject
 HOST-SUFFIX,360baidus.com, reject
 HOST-SUFFIX,app.ibaiducdn.com, reject
@@ -9708,3 +9708,4 @@ HOST-SUFFIX,gz-data.com, reject
 HOST-SUFFIX,giocdn.com, reject
 # > 深圳通微信小程序
 HOST-SUFFIX,wxsnsdythumb.wxs.qq.com, reject
+

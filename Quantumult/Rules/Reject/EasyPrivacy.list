@@ -1,10 +1,10 @@
 # NAME: EasyPrivacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-03 17:11:22
-# HOST: 15126
+# UPDATED: 2022-11-30 21:12:34
+# HOST: 15156
 # IP-CIDR: 7
-# TOTAL: 15133
+# TOTAL: 15163
 HOST,0-owazo4.net.zooplus.de,EasyPrivacy
 HOST,0.data.net.zooplus.de,EasyPrivacy
 HOST,0.net.zooplus.nl,EasyPrivacy
@@ -200,7 +200,6 @@ HOST,8147563.1954.bk.com,EasyPrivacy
 HOST,8147563.thekingdom.bk.com,EasyPrivacy
 HOST,8147563.your-way.bk.com,EasyPrivacy
 HOST,82o9v830.com,EasyPrivacy
-HOST,8672.site,EasyPrivacy
 HOST,8ag8k205ppci.app.alpacafinance.org,EasyPrivacy
 HOST,8ehhtsv9bo7i.monkeylearn.com,EasyPrivacy
 HOST,8ezc.sfr.fr,EasyPrivacy
@@ -1568,6 +1567,7 @@ HOST,activemarketingowa-ns-productions.apiserver.accect.net.zooplus.it,EasyPriva
 HOST,activeornorthamerica.tomcatactivemarketing.net.zooplus.it,EasyPrivacy
 HOST,activity.asce.org,EasyPrivacy
 HOST,activity.fiverr.com,EasyPrivacy
+HOST,activity.wisepops.com,EasyPrivacy
 HOST,acton.iriworldwide.com,EasyPrivacy
 HOST,acton.simpleviewinc.com,EasyPrivacy
 HOST,acton.unifilabs.com,EasyPrivacy
@@ -1704,6 +1704,7 @@ HOST,adex.naruko333.jp,EasyPrivacy
 HOST,adfooe.hofsilk.com,EasyPrivacy
 HOST,adfox.yandex.ru,EasyPrivacy
 HOST,adhudg.nec-lavie.jp,EasyPrivacy
+HOST,adl.bankofthewest.com,EasyPrivacy
 HOST,adless.io,EasyPrivacy
 HOST,adlog.com.com,EasyPrivacy
 HOST,adm-mail.net.zooplus.es,EasyPrivacy
@@ -2131,6 +2132,7 @@ HOST,an.worldbaseballclassic.com,EasyPrivacy
 HOST,an.yandex.ru,EasyPrivacy
 HOST,ana.tv5unis.ca,EasyPrivacy
 HOST,analitica.webrpp.com,EasyPrivacy
+HOST,analys.live,EasyPrivacy
 HOST,analyse.bcovery.com,EasyPrivacy
 HOST,analyse.hinemos.info,EasyPrivacy
 HOST,analyselog.dx.com,EasyPrivacy
@@ -2203,7 +2205,6 @@ HOST,analytics.boing.es,EasyPrivacy
 HOST,analytics.bolavip.com,EasyPrivacy
 HOST,analytics.boomerangtv.co.uk,EasyPrivacy
 HOST,analytics.box.com,EasyPrivacy
-HOST,analytics.brandcrumb.com,EasyPrivacy
 HOST,analytics.brave.com,EasyPrivacy
 HOST,analytics.buoyweather.com,EasyPrivacy
 HOST,analytics.canaltnt.es,EasyPrivacy
@@ -2246,7 +2247,6 @@ HOST,analytics.contentexchange.me,EasyPrivacy
 HOST,analytics.contents.by-fw.jp,EasyPrivacy
 HOST,analytics.convertlanguage.com,EasyPrivacy
 HOST,analytics.corusent.com,EasyPrivacy
-HOST,analytics.cynapse.com,EasyPrivacy
 HOST,analytics.daasrv.net,EasyPrivacy
 HOST,analytics.data.lloydsbankinggroup.com,EasyPrivacy
 HOST,analytics.datahc.com,EasyPrivacy
@@ -2264,8 +2264,6 @@ HOST,analytics.disneyplus.com,EasyPrivacy
 HOST,analytics.dogecoin.gg,EasyPrivacy
 HOST,analytics.dvidshub.net,EasyPrivacy
 HOST,analytics.ecosia.org,EasyPrivacy
-HOST,analytics.edgekey.net,EasyPrivacy
-HOST,analytics.edgesuite.net,EasyPrivacy
 HOST,analytics.eggoffer.com,EasyPrivacy
 HOST,analytics.eikko.ai,EasyPrivacy
 HOST,analytics.eikondigital.it,EasyPrivacy
@@ -2538,8 +2536,10 @@ HOST,analytics.yola.net,EasyPrivacy
 HOST,analytics.yolacdn.net,EasyPrivacy
 HOST,analytics.yomedia.vn,EasyPrivacy
 HOST,analytics.yourbankcard.com,EasyPrivacy
+HOST,analytics.yugen.to,EasyPrivacy
 HOST,analytics.ziftsolutions.com,EasyPrivacy
 HOST,analytics00.meride.tv,EasyPrivacy
+HOST,analytics2-3-meride-tv.akamaized.net,EasyPrivacy
 HOST,analytics2-meride-tv.akamaized.net,EasyPrivacy
 HOST,analyticsresults.bildungsforum.datev.de,EasyPrivacy
 HOST,analyticsresults.datev-karriereblog.de,EasyPrivacy
@@ -2776,7 +2776,6 @@ HOST,auriro.net,EasyPrivacy
 HOST,aurora-d3.herokuapp.com,EasyPrivacy
 HOST,ausclh.castlery.com,EasyPrivacy
 HOST,auspiciousyard.com,EasyPrivacy
-HOST,authcaptcha.com,EasyPrivacy
 HOST,autoimmunity.thermofisher.com,EasyPrivacy
 HOST,automate.opex.com,EasyPrivacy
 HOST,automaticairplane.com,EasyPrivacy
@@ -2846,7 +2845,6 @@ HOST,b2bmarketingsb.swisscom.com,EasyPrivacy
 HOST,b2bmkt.lge.co.kr,EasyPrivacy
 HOST,b5j6itccyluq.nofluffjobs.com,EasyPrivacy
 HOST,b7tp47v2nb3x-a.akamaihd.net,EasyPrivacy
-HOST,bab.frb.io,EasyPrivacy
 HOST,bablace.com,EasyPrivacy
 HOST,bacon.getcarro.com,EasyPrivacy
 HOST,bacon.section.io,EasyPrivacy
@@ -2916,7 +2914,6 @@ HOST,beacon.shazam.com,EasyPrivacy
 HOST,beacon.shutterfly.com,EasyPrivacy
 HOST,beacon.sina.com.cn,EasyPrivacy
 HOST,beacon.sojern.com,EasyPrivacy
-HOST,beacon.squixa.net,EasyPrivacy
 HOST,beacon.statful.com,EasyPrivacy
 HOST,beacon.tingyun.com,EasyPrivacy
 HOST,beacon.vertebrae-axis.com,EasyPrivacy
@@ -2950,7 +2947,6 @@ HOST,beneficialbeef.com,EasyPrivacy
 HOST,beneficios.davivienda.hn,EasyPrivacy
 HOST,benthose.com,EasyPrivacy
 HOST,bento.agoda.com,EasyPrivacy
-HOST,berateveng.ru,EasyPrivacy
 HOST,bestboundary.com,EasyPrivacy
 HOST,bestbuy.actonservice.com,EasyPrivacy
 HOST,beuniquelyinsured.selective.com,EasyPrivacy
@@ -3445,6 +3441,7 @@ HOST,clicktale.pantherssl.com,EasyPrivacy
 HOST,clicktrack.cmnetwork.co,EasyPrivacy
 HOST,clicktracker.iscan.nl,EasyPrivacy
 HOST,client-analytics.braintreegateway.com,EasyPrivacy
+HOST,client-analytics.mts.ru,EasyPrivacy
 HOST,client-log.box.com,EasyPrivacy
 HOST,client-metrics.chess.com,EasyPrivacy
 HOST,clientservice.alphasimplex.com,EasyPrivacy
@@ -3482,6 +3479,7 @@ HOST,clumsyrock.com,EasyPrivacy
 HOST,cm-exchange.toast.com,EasyPrivacy
 HOST,cm-mms.coachmag.co.uk,EasyPrivacy
 HOST,cm.bilibili.com,EasyPrivacy
+HOST,cm.nordvpn.com,EasyPrivacy
 HOST,cmass.massmedian.co.jp,EasyPrivacy
 HOST,cmhmpr.lolaliza.com,EasyPrivacy
 HOST,cmon.congress.gov,EasyPrivacy
@@ -3542,6 +3540,7 @@ HOST,cnt.trvdp.com,EasyPrivacy
 HOST,cnt.viptube.com,EasyPrivacy
 HOST,cnt.vivatube.com,EasyPrivacy
 HOST,cnt2.stroeerdp.de,EasyPrivacy
+HOST,cntxtfl.com,EasyPrivacy
 HOST,co.promo.skf.com,EasyPrivacy
 HOST,coachquartz.com,EasyPrivacy
 HOST,coatfood.com,EasyPrivacy
@@ -3569,6 +3568,7 @@ HOST,collect.cloudsponge.com,EasyPrivacy
 HOST,collect.elvia.ch,EasyPrivacy
 HOST,collect.helsana-preprod.ch,EasyPrivacy
 HOST,collect.helsana.ch,EasyPrivacy
+HOST,collect.igodigital.com,EasyPrivacy
 HOST,collect.iteam-dress.com,EasyPrivacy
 HOST,collect.meilleurtaux.com,EasyPrivacy
 HOST,collect.rewardstyle.com,EasyPrivacy
@@ -3605,7 +3605,6 @@ HOST,colossalclouds.com,EasyPrivacy
 HOST,colvk.viki.io,EasyPrivacy
 HOST,com.econa.com,EasyPrivacy
 HOST,combativedetail.com,EasyPrivacy
-HOST,combbelief.com,EasyPrivacy
 HOST,combbit.com,EasyPrivacy
 HOST,combclover.com,EasyPrivacy
 HOST,comfortablecheese.com,EasyPrivacy
@@ -3746,6 +3745,7 @@ HOST,contents-tracking.beop.io,EasyPrivacy
 HOST,contents2.00110.citi.com,EasyPrivacy
 HOST,continuenow.miami.edu,EasyPrivacy
 HOST,controlswim.com,EasyPrivacy
+HOST,convead.io,EasyPrivacy
 HOST,conversions.genieventures.co.uk,EasyPrivacy
 HOST,convocation.uwindsor.ca,EasyPrivacy
 HOST,convsgmp.taboola.com,EasyPrivacy
@@ -3829,6 +3829,8 @@ HOST,counter.yadro.ru,EasyPrivacy
 HOST,counter2.blog.livedoor.com,EasyPrivacy
 HOST,counters.freewebs.com,EasyPrivacy
 HOST,coverapparatus.com,EasyPrivacy
+HOST,cp.official-coupons.com,EasyPrivacy
+HOST,cp.official-deals.co.uk,EasyPrivacy
 HOST,cpgo.avatacar.com,EasyPrivacy
 HOST,cpi1supdqcxk.tapmyback.com,EasyPrivacy
 HOST,cpksvl.clarksusa.com,EasyPrivacy
@@ -3906,6 +3908,7 @@ HOST,ctp1.bforbank.com,EasyPrivacy
 HOST,ctr-iwb.nmg.de,EasyPrivacy
 HOST,ctr-opc.nmg.de,EasyPrivacy
 HOST,ctwqxs.autoscout24.at,EasyPrivacy
+HOST,ctx.citiservi.es,EasyPrivacy
 HOST,ctyjsf.cellphones.com.vn,EasyPrivacy
 HOST,cubchannel.com,EasyPrivacy
 HOST,cueohf.actieforum.com,EasyPrivacy
@@ -4002,6 +4005,7 @@ HOST,d0f.le-dauphin.com,EasyPrivacy
 HOST,d10gj7yjsfriaj.cloudfront.net,EasyPrivacy
 HOST,d10lpsik1i8c69.cloudfront.net,EasyPrivacy
 HOST,d11a2fzhgzqe7i.cloudfront.net,EasyPrivacy
+HOST,d12m6l63zd9etp.cloudfront.net,EasyPrivacy
 HOST,d15kdaxu5c0hfw.cloudfront.net,EasyPrivacy
 HOST,d169bbxks24g2u.cloudfront.net,EasyPrivacy
 HOST,d16fk4ms6rqz1v.cloudfront.net,EasyPrivacy
@@ -4258,6 +4262,7 @@ HOST,daten.union-investment.de,EasyPrivacy
 HOST,datum.appfleet.com,EasyPrivacy
 HOST,dayyfq.rapidonline.com,EasyPrivacy
 HOST,dbex-tracker-v2.driveback.ru,EasyPrivacy
+HOST,dbhsejcg-meetup-com.cdnjs.network,EasyPrivacy
 HOST,dbpbyh.americanas.com.br,EasyPrivacy
 HOST,dbv0r7a702yve.cloudfront.net,EasyPrivacy
 HOST,dbzgtg.infostrada.it,EasyPrivacy
@@ -4295,6 +4300,7 @@ HOST,dcclaa.elle.de,EasyPrivacy
 HOST,dcclaa.harpersbazaar.de,EasyPrivacy
 HOST,dcclaa.instyle.de,EasyPrivacy
 HOST,dcclaa.slowlyveggie.de,EasyPrivacy
+HOST,dcinfos-cache.abtasty.com,EasyPrivacy
 HOST,dckquo.holzprofi24.de,EasyPrivacy
 HOST,dcs.audi.com,EasyPrivacy
 HOST,dcs.esprit.at,EasyPrivacy
@@ -4524,6 +4530,7 @@ HOST,dioqto.totaljobs.com,EasyPrivacy
 HOST,direct-events-collector.spot.im,EasyPrivacy
 HOST,direct.colfondos.co,EasyPrivacy
 HOST,direct.t-mobile.com,EasyPrivacy
+HOST,directavenue.tech,EasyPrivacy
 HOST,disabled.owa-paywall.net.zooplus.fr,EasyPrivacy
 HOST,disabled.owa.betaarketing.net.zooplus.fr,EasyPrivacy
 HOST,disabled.owa.prod.net.zooplus.fr,EasyPrivacy
@@ -5182,6 +5189,7 @@ HOST,et.tidal.com,EasyPrivacy
 HOST,et.twyn.com,EasyPrivacy
 HOST,etcwmg.instant-gaming.com,EasyPrivacy
 HOST,etgkbu.unieuro.it,EasyPrivacy
+HOST,etop.ro,EasyPrivacy
 HOST,etui.fs.ml.com,EasyPrivacy
 HOST,etx.indiatimes.com,EasyPrivacy
 HOST,eu.groupondata.com,EasyPrivacy
@@ -5212,6 +5220,7 @@ HOST,eurogamer-it.eurogamer.it,EasyPrivacy
 HOST,eurogamer-pl.eurogamer.pl,EasyPrivacy
 HOST,eurogamer-pt.eurogamer.pt,EasyPrivacy
 HOST,eurogamer-uk.eurogamer.net,EasyPrivacy
+HOST,ev.stellarlabs.ai,EasyPrivacy
 HOST,ev.tpocdm.com,EasyPrivacy
 HOST,evaluateend.com,EasyPrivacy
 HOST,evanescentedge.com,EasyPrivacy
@@ -5464,6 +5473,7 @@ HOST,fp-cdn.azureedge.net,EasyPrivacy
 HOST,fp.measure.office.com,EasyPrivacy
 HOST,fp84rw0jinz7.blanc.ru,EasyPrivacy
 HOST,fpa-cdn.arstechnica.com,EasyPrivacy
+HOST,fpa-cdn.decrypt.co,EasyPrivacy
 HOST,fpa-events.decrypt.co,EasyPrivacy
 HOST,fpapi.io,EasyPrivacy
 HOST,fpaux.net,EasyPrivacy
@@ -5563,12 +5573,12 @@ HOST,g.msn.com,EasyPrivacy
 HOST,g.pcmag.com,EasyPrivacy
 HOST,g.siliconweek.es,EasyPrivacy
 HOST,g.yccdn.com,EasyPrivacy
+HOST,g10300385420.co,EasyPrivacy
 HOST,g11686975765.co,EasyPrivacy
 HOST,g1188506010.co,EasyPrivacy
 HOST,g11885060100.co,EasyPrivacy
 HOST,g12083144435.co,EasyPrivacy
 HOST,g12281228770.co,EasyPrivacy
-HOST,g12479313105.co,EasyPrivacy
 HOST,g1584674682.co,EasyPrivacy
 HOST,g1782759015.co,EasyPrivacy
 HOST,g1782759016.co,EasyPrivacy
@@ -5778,7 +5788,6 @@ HOST,gripcorn.com,EasyPrivacy
 HOST,grouchypush.com,EasyPrivacy
 HOST,grxsaq.tagheuer.com,EasyPrivacy
 HOST,gsbygc.clarks.eu,EasyPrivacy
-HOST,gsght.com,EasyPrivacy
 HOST,gsp1.baidu.com,EasyPrivacy
 HOST,gsyegj.shatura.com,EasyPrivacy
 HOST,gtgvze.chintai.net,EasyPrivacy
@@ -5871,7 +5880,6 @@ HOST,hesitanttoothpaste.com,EasyPrivacy
 HOST,hevqaz.submarino.com.br,EasyPrivacy
 HOST,hfc195b.com,EasyPrivacy
 HOST,hfd.bridgetowermedia.com,EasyPrivacy
-HOST,hfp.intuit.com,EasyPrivacy
 HOST,hgf4.zanzicar.fr,EasyPrivacy
 HOST,hhbxcs.tylko.com,EasyPrivacy
 HOST,hhhedv.luxauto.lu,EasyPrivacy
@@ -6083,6 +6091,7 @@ HOST,inbound-analytics.pixlee.co,EasyPrivacy
 HOST,incompetentjoke.com,EasyPrivacy
 HOST,indmetric.rediff.com,EasyPrivacy
 HOST,industry.promo.skf.com,EasyPrivacy
+HOST,ineed2s.ro,EasyPrivacy
 HOST,inencr.woodhouseclothing.com,EasyPrivacy
 HOST,infamousstream.com,EasyPrivacy
 HOST,infinityid.condenastdigital.com,EasyPrivacy
@@ -6322,6 +6331,7 @@ HOST,j93557g.com,EasyPrivacy
 HOST,jadedjoke.com,EasyPrivacy
 HOST,jailbulb.com,EasyPrivacy
 HOST,jambwe.transsibinfo.com,EasyPrivacy
+HOST,jams.wiki,EasyPrivacy
 HOST,jaomlf.giftmall.co.jp,EasyPrivacy
 HOST,jas.indeednps.com,EasyPrivacy
 HOST,javascriptcounter.appspot.com,EasyPrivacy
@@ -7339,12 +7349,14 @@ HOST,mas.nth.ch,EasyPrivacy
 HOST,massivebasket.com,EasyPrivacy
 HOST,mastertag.kpcustomer.de,EasyPrivacy
 HOST,mastertag.q-sis.de,EasyPrivacy
+HOST,mat.socy.es,EasyPrivacy
 HOST,materialexample.com,EasyPrivacy
 HOST,materialisticfan.com,EasyPrivacy
 HOST,materialisticmark.com,EasyPrivacy
 HOST,matheranalytics.com,EasyPrivacy
 HOST,matrix.hbo.com,EasyPrivacy
 HOST,matrix42.actonservice.com,EasyPrivacy
+HOST,matt.mercadolivre.com.br,EasyPrivacy
 HOST,maz.zba.jp,EasyPrivacy
 HOST,mbainfo.ust.hk,EasyPrivacy
 HOST,mbhs.hrm.healthgrades.com,EasyPrivacy
@@ -7375,6 +7387,7 @@ HOST,med.saphris.com,EasyPrivacy
 HOST,media.gotham.com,EasyPrivacy
 HOST,media.pirtek.co.uk,EasyPrivacy
 HOST,media.pirtek.nl,EasyPrivacy
+HOST,mediamathrdrt.com,EasyPrivacy
 HOST,mediametrics.mpsa.com,EasyPrivacy
 HOST,mediapxv.com,EasyPrivacy
 HOST,mediasolutions.netinsight.net,EasyPrivacy
@@ -7841,6 +7854,7 @@ HOST,mi.miliboo.it,EasyPrivacy
 HOST,mi.miliboo.lu,EasyPrivacy
 HOST,miao.baidu.com,EasyPrivacy
 HOST,micpn.com,EasyPrivacy
+HOST,midas.chase.com,EasyPrivacy
 HOST,mightyspiders.com,EasyPrivacy
 HOST,militaryverse.com,EasyPrivacy
 HOST,mimosamajor.com,EasyPrivacy
@@ -7932,6 +7946,7 @@ HOST,mseeru.faz.net,EasyPrivacy
 HOST,msg.71.am,EasyPrivacy
 HOST,msg.qy.net,EasyPrivacy
 HOST,msr.p-antiaging.com,EasyPrivacy
+HOST,mstm.motorsport.com,EasyPrivacy
 HOST,msufcu.actonservice.com,EasyPrivacy
 HOST,msz3.destinia.cn,EasyPrivacy
 HOST,mt48.net,EasyPrivacy
@@ -7990,6 +8005,7 @@ HOST,nats.xing.com,EasyPrivacy
 HOST,navigation-timing.meinestadt.de,EasyPrivacy
 HOST,ncc.nip-col.jp,EasyPrivacy
 HOST,nccer.actonservice.com,EasyPrivacy
+HOST,nct.ui-portal.de,EasyPrivacy
 HOST,nctrk.abmail.com.br,EasyPrivacy
 HOST,ncx2.voyage-prive.it,EasyPrivacy
 HOST,neathousepartners.actonservice.com,EasyPrivacy
@@ -8027,6 +8043,7 @@ HOST,newsletter.davey.com,EasyPrivacy
 HOST,newsletter.sst-apac.test.cjmadobe.com,EasyPrivacy
 HOST,newssuite.sony.net,EasyPrivacy
 HOST,nex.163.com,EasyPrivacy
+HOST,nexxtv-events.servicebus.windows.net,EasyPrivacy
 HOST,nffxqi.jorgebischoff.com.br,EasyPrivacy
 HOST,nfused.eobuv.com.ua,EasyPrivacy
 HOST,ngc1.nsm-corp.com,EasyPrivacy
@@ -8680,6 +8697,7 @@ HOST,plausible.reactpreview.com,EasyPrivacy
 HOST,plausible.redchamp.net,EasyPrivacy
 HOST,plausible.regex.help,EasyPrivacy
 HOST,plausible.riok.ch,EasyPrivacy
+HOST,plausible.safing.io,EasyPrivacy
 HOST,plausible.simplelogin.io,EasyPrivacy
 HOST,plausible.slope.io,EasyPrivacy
 HOST,plausible.staging.sketch.com,EasyPrivacy
@@ -8697,7 +8715,6 @@ HOST,plausible.west.io,EasyPrivacy
 HOST,plausible.wikiotics.org,EasyPrivacy
 HOST,plausible.zest.dev,EasyPrivacy
 HOST,plausible.zorin.com,EasyPrivacy
-HOST,play.mix.kinostuff.com,EasyPrivacy
 HOST,player-telemetry.vimeo.com,EasyPrivacy
 HOST,plotparent.com,EasyPrivacy
 HOST,plotrabbit.com,EasyPrivacy
@@ -8808,6 +8825,7 @@ HOST,pulse.delta.com,EasyPrivacy
 HOST,pumpkin.abine.com,EasyPrivacy
 HOST,punyplant.com,EasyPrivacy
 HOST,purchasesuggestion.com,EasyPrivacy
+HOST,push-sdk.net,EasyPrivacy
 HOST,pushmaster-cdn.xyz,EasyPrivacy
 HOST,puzzlingproperty.com,EasyPrivacy
 HOST,pv.hd.sohu.com,EasyPrivacy
@@ -8897,7 +8915,6 @@ HOST,quarterbean.com,EasyPrivacy
 HOST,qubitanalytics.appspot.com,EasyPrivacy
 HOST,quesid.com,EasyPrivacy
 HOST,questions.theanswerco.com,EasyPrivacy
-HOST,quickanalytics.ca,EasyPrivacy
 HOST,quickkoala.io,EasyPrivacy
 HOST,quicksandear.com,EasyPrivacy
 HOST,quidel.actonservice.com,EasyPrivacy
@@ -8967,6 +8984,7 @@ HOST,readingopera.com,EasyPrivacy
 HOST,readysnails.com,EasyPrivacy
 HOST,realcomm.actonservice.com,EasyPrivacy
 HOST,realm.hearst3pcc.com,EasyPrivacy
+HOST,realtimely.io,EasyPrivacy
 HOST,reauthenticator.com,EasyPrivacy
 HOST,rebelsubway.com,EasyPrivacy
 HOST,rec.udn.com,EasyPrivacy
@@ -9505,7 +9523,6 @@ HOST,sanalytics.visible.com,EasyPrivacy
 HOST,sanalytics.washingtoncountybank.com,EasyPrivacy
 HOST,sanalytics.wideroe.no,EasyPrivacy
 HOST,sananalytics.prod.ori.hayneedle.com,EasyPrivacy
-HOST,sandinsect.com,EasyPrivacy
 HOST,sanl.champssports.ca,EasyPrivacy
 HOST,sanl.champssports.com,EasyPrivacy
 HOST,sanl.eastbay.com,EasyPrivacy
@@ -11045,6 +11062,7 @@ HOST,smetrics.radioactiva.cl,EasyPrivacy
 HOST,smetrics.radiole.com,EasyPrivacy
 HOST,smetrics.ragsdaleair.com,EasyPrivacy
 HOST,smetrics.ralphlauren.co.kr,EasyPrivacy
+HOST,smetrics.ralphlauren.com,EasyPrivacy
 HOST,smetrics.ralphlauren.com.au,EasyPrivacy
 HOST,smetrics.ralphlauren.global,EasyPrivacy
 HOST,smetrics.ralphlauren.nl,EasyPrivacy
@@ -11404,6 +11422,7 @@ HOST,spmyma.moscowfresh.ru,EasyPrivacy
 HOST,spock.dom.codes,EasyPrivacy
 HOST,spongesalt.com,EasyPrivacy
 HOST,spookyexchange.com,EasyPrivacy
+HOST,spookyskate.com,EasyPrivacy
 HOST,spookysleet.com,EasyPrivacy
 HOST,spookyslope.com,EasyPrivacy
 HOST,spoonsilk.com,EasyPrivacy
@@ -11922,6 +11941,7 @@ HOST,stats.koehrer.de,EasyPrivacy
 HOST,stats.kongressen.com,EasyPrivacy
 HOST,stats.krauss.io,EasyPrivacy
 HOST,stats.kryptoslogic.com,EasyPrivacy
+HOST,stats.ksearchnet.com,EasyPrivacy
 HOST,stats.larsroettig.dev,EasyPrivacy
 HOST,stats.lastfm.matthiasloibl.com,EasyPrivacy
 HOST,stats.laxallstars.com,EasyPrivacy
@@ -12118,6 +12138,7 @@ HOST,stats.united-domains.de,EasyPrivacy
 HOST,stats.unox.com,EasyPrivacy
 HOST,stats.urban-media.com,EasyPrivacy
 HOST,stats.urbanfinn.com,EasyPrivacy
+HOST,stats.uscreen.io,EasyPrivacy
 HOST,stats.v4.agirpourlenvironnement.org,EasyPrivacy
 HOST,stats.vanityprojects.com,EasyPrivacy
 HOST,stats.varrando.com,EasyPrivacy
@@ -12453,6 +12474,7 @@ HOST,t.bimvid.com,EasyPrivacy
 HOST,t.birchlane.com,EasyPrivacy
 HOST,t.blablacar.com,EasyPrivacy
 HOST,t.brand-server.com,EasyPrivacy
+HOST,t.buyist.app,EasyPrivacy
 HOST,t.c4tw.net,EasyPrivacy
 HOST,t.castle.io,EasyPrivacy
 HOST,t.cfjump.com,EasyPrivacy
@@ -12493,6 +12515,7 @@ HOST,t.newsletter.thetimes.co.uk,EasyPrivacy
 HOST,t.nusports.com,EasyPrivacy
 HOST,t.nypost.com,EasyPrivacy
 HOST,t.ofsys.com,EasyPrivacy
+HOST,t.pagesix.com,EasyPrivacy
 HOST,t.paydirekt.de,EasyPrivacy
 HOST,t.perigold.com,EasyPrivacy
 HOST,t.pmu.fr,EasyPrivacy
@@ -12705,6 +12728,7 @@ HOST,te.your-look-for-less.se,EasyPrivacy
 HOST,teach.graduateprogram.org,EasyPrivacy
 HOST,technical.kyzen.com,EasyPrivacy
 HOST,ted.dailymail.co.uk,EasyPrivacy
+HOST,tediousticket.com,EasyPrivacy
 HOST,tedioustooth.com,EasyPrivacy
 HOST,teenytinyshirt.com,EasyPrivacy
 HOST,teenytinytongue.com,EasyPrivacy
@@ -12767,6 +12791,9 @@ HOST,tf.360.cn,EasyPrivacy
 HOST,tfdtpa.dot-st.com,EasyPrivacy
 HOST,tgt.maep.ibm.com,EasyPrivacy
 HOST,tgtgzo.otelz.com,EasyPrivacy
+HOST,tgw.gmx.ch,EasyPrivacy
+HOST,tgw.gmx.net,EasyPrivacy
+HOST,tgw.web.de,EasyPrivacy
 HOST,thaqyl.mediamarkt.nl,EasyPrivacy
 HOST,the-ozone-project.com,EasyPrivacy
 HOST,thefontzone.com,EasyPrivacy
@@ -12893,6 +12920,7 @@ HOST,tm.urssaf.fr,EasyPrivacy
 HOST,tm.vendemore.com,EasyPrivacy
 HOST,tmetrics.hdfcbank.com,EasyPrivacy
 HOST,tmetrics.webex.com,EasyPrivacy
+HOST,tmetrix.my.chick-fil-a.com,EasyPrivacy
 HOST,tmrhpl.nurse-agent.com,EasyPrivacy
 HOST,tms-st.cdn.ngenix.net,EasyPrivacy
 HOST,tms.dmp.wi-fi.ru,EasyPrivacy
@@ -13855,6 +13883,7 @@ HOST,tracking.lg.com,EasyPrivacy
 HOST,tracking.listhub.net,EasyPrivacy
 HOST,tracking.live.wetter.at,EasyPrivacy
 HOST,tracking.livingsocial.com,EasyPrivacy
+HOST,tracking.lqm.io,EasyPrivacy
 HOST,tracking.magnetmail.net,EasyPrivacy
 HOST,tracking.markethero.io,EasyPrivacy
 HOST,tracking.massierendeladies.de,EasyPrivacy
@@ -13919,6 +13948,7 @@ HOST,tracking.voordeeluitjes.nl,EasyPrivacy
 HOST,tracking.wao-corp.com,EasyPrivacy
 HOST,tracking.waterfrontmedia.com,EasyPrivacy
 HOST,tracking.webtradecenter.com,EasyPrivacy
+HOST,tracking.wisepops.com,EasyPrivacy
 HOST,tracking.wlscripts.net,EasyPrivacy
 HOST,tracking.zaertlicheladies.de,EasyPrivacy
 HOST,tracking.zierlicheladies.de,EasyPrivacy
@@ -14045,9 +14075,11 @@ HOST,tybfxw.puma.com,EasyPrivacy
 HOST,typicalairplane.com,EasyPrivacy
 HOST,tyvjyt.rivers.com.au,EasyPrivacy
 HOST,tyvuwf.lameteoagricole.net,EasyPrivacy
+HOST,tzegilo.com,EasyPrivacy
 HOST,tzwaw.pw,EasyPrivacy
 HOST,u0crsrah75fy.camberlion.com,EasyPrivacy
 HOST,u299.libelle-lekker.be,EasyPrivacy
+HOST,u44.pnc.com,EasyPrivacy
 HOST,u47.pnc.com,EasyPrivacy
 HOST,u652.myplainview.com,EasyPrivacy
 HOST,u927.sfgate.com,EasyPrivacy
@@ -14198,7 +14230,6 @@ HOST,v1.mail.net.zooplus.it,EasyPrivacy
 HOST,v1development.mgmt.chef.api-docsowazo4-transit-net.2lab-testbed.net.zooplus.de,EasyPrivacy
 HOST,v1machinevisiongwmarketing.cloudfront-dii1.sslengine.chef.net.zooplus.it,EasyPrivacy
 HOST,v1owa.opsadmins.net.zooplus.it,EasyPrivacy
-HOST,v1sts.me,EasyPrivacy
 HOST,v1svcapiserver.marketing.account.net.zooplus.de,EasyPrivacy
 HOST,v2api.alpha.net.zooplus.de,EasyPrivacy
 HOST,v2nginxowaoid.development.net.zooplus.nl,EasyPrivacy
@@ -14211,10 +14242,10 @@ HOST,vbe.voyage-prive.be,EasyPrivacy
 HOST,vch.voyage-prive.ch,EasyPrivacy
 HOST,vde1.voyage-prive.de,EasyPrivacy
 HOST,vdrn.redplum.com,EasyPrivacy
+HOST,vengefulgrass.com,EasyPrivacy
 HOST,venusgloria.com,EasyPrivacy
 HOST,venusrevival.com,EasyPrivacy
 HOST,verdantanswer.com,EasyPrivacy
-HOST,verifier.live,EasyPrivacy
 HOST,verifyvegetable.com,EasyPrivacy
 HOST,verseballs.com,EasyPrivacy
 HOST,vet0.carrefour-banque.fr,EasyPrivacy
@@ -14231,7 +14262,6 @@ HOST,video-ad-stats.googlesyndication.com,EasyPrivacy
 HOST,video-mia3-2.xx.fbcdn.net.iberostar.com,EasyPrivacy
 HOST,video.fcjs3-1.fna.fbcdn.net.iberostar.com,EasyPrivacy
 HOST,videoevents.outbrain.com,EasyPrivacy
-HOST,videoplayer2.xyz,EasyPrivacy
 HOST,videoplayerhub.com,EasyPrivacy
 HOST,videostat-new.index.hu,EasyPrivacy
 HOST,videostat.index.hu,EasyPrivacy
@@ -14374,6 +14404,7 @@ HOST,web-reco.marketing-ns.developer.net.zooplus.it,EasyPrivacy
 HOST,web-reco.marketing-ns.machinetrain-cvs.net.zooplus.it,EasyPrivacy
 HOST,web-t.9gag.com,EasyPrivacy
 HOST,web-trace.ksapisrv.com,EasyPrivacy
+HOST,web-tracker.smsbump.com,EasyPrivacy
 HOST,web.autobodytoolmart.com,EasyPrivacy
 HOST,web.bankofscotland.de,EasyPrivacy
 HOST,web.campaign.miriade.com,EasyPrivacy
@@ -14515,7 +14546,6 @@ HOST,wl-pixel.index.digital,EasyPrivacy
 HOST,wl.jd.com,EasyPrivacy
 HOST,wmgroup.us,EasyPrivacy
 HOST,woodpeckerlog.com,EasyPrivacy
-HOST,wordc.ga,EasyPrivacy
 HOST,workableachiever.com,EasyPrivacy
 HOST,workoperation.com,EasyPrivacy
 HOST,workwonders.hallstar.com,EasyPrivacy
@@ -15035,6 +15065,7 @@ HOST,yardianalytics.com,EasyPrivacy
 HOST,yast.rutube.ru,EasyPrivacy
 HOST,ydqv7yvf191i.www.logology.co,EasyPrivacy
 HOST,yf5.voyage-prive.at,EasyPrivacy
+HOST,yfp.intuit.com,EasyPrivacy
 HOST,ygsoeu.size.co.uk,EasyPrivacy
 HOST,yh6u.dealeusedevoyages.com,EasyPrivacy
 HOST,yhpknxzspo8a.kvest.ee,EasyPrivacy
@@ -15089,7 +15120,6 @@ HOST,zkmhhr1fr79z.dictionary.basabali.org,EasyPrivacy
 HOST,zkxmhc.carcam.ru,EasyPrivacy
 HOST,zlmapa.nestenn.com,EasyPrivacy
 HOST,zmhsxr.hometogo.com,EasyPrivacy
-HOST,zminer.zaloapp.com,EasyPrivacy
 HOST,zmtqmp.shoestock.com.br,EasyPrivacy
 HOST,znq9.destinia.mx,EasyPrivacy
 HOST,znrgrd.johndog.pl,EasyPrivacy
