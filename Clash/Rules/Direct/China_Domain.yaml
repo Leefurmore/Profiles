@@ -1,13 +1,13 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 22:38:56
+# UPDATED: 2023-01-09 02:10:17
 # DOMAIN: 18
-# DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 3511
+# DOMAIN-KEYWORD: 9
+# DOMAIN-SUFFIX: 3527
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 3553
+# TOTAL: 3568
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -60,6 +60,7 @@ payload:
   - '+.139.com'
   - '+.163.com'
   - '+.1637.com'
+  - '+.163cn.tv'
   - '+.163industry.com'
   - '+.163mail.com'
   - '+.163qiyukf.com'
@@ -140,6 +141,7 @@ payload:
   - '+.360top.com'
   - '+.360totalsecurity.com'
   - '+.360tpcdn.com'
+  - '+.360tres.com'
   - '+.360webcache.com'
   - '+.360zhyx.com'
   - '+.360zqaq.com'
@@ -580,6 +582,7 @@ payload:
   - '+.bjango.com'
   - '+.bjcathay.com'
   - '+.bjinfobank.com'
+  - '+.bjyouth.net'
   - '+.bkapigw.com'
   - '+.bkapps.com'
   - '+.bkclouds.cc'
@@ -808,6 +811,7 @@ payload:
   - '+.chuanke.com'
   - '+.chuansong.me'
   - '+.chuansongme.com'
+  - '+.chugou360.com'
   - '+.chuimg.com'
   - '+.chunbo.com'
   - '+.chunboimg.com'
@@ -1171,6 +1175,7 @@ payload:
   - '+.downyi.com'
   - '+.dpfile.com'
   - '+.dratio.com'
+  - '+.dreamcast.hk'
   - '+.dreams-travel.com'
   - '+.drivergenius.com'
   - '+.dtstatic.com'
@@ -1418,6 +1423,7 @@ payload:
   - '+.goufw.com'
   - '+.govqcloud.com'
   - '+.gowinamc.com'
+  - '+.gracg.com'
   - '+.gree.com'
   - '+.greenxiazai.com'
   - '+.growingio.com'
@@ -1881,6 +1887,7 @@ payload:
   - '+.jidian.im'
   - '+.jiemeng8.com'
   - '+.jiemian.com'
+  - '+.jikeiot.cloud'
   - '+.jikexueyuan.com'
   - '+.jikipedia.com'
   - '+.jindidata.com'
@@ -1937,6 +1944,7 @@ payload:
   - '+.jxksw.net'
   - '+.jxlog.istreamsche.com'
   - '+.jyimg.com'
+  - '+.jzfz.net'
   - '+.jzsec.com'
   - '+.k366.com'
   - '+.kaifayun.com'
@@ -2803,6 +2811,7 @@ payload:
   - '+.springsunday.net'
   - '+.springtour.com'
   - '+.sq.cc'
+  - '+.sqqnh.org'
   - '+.sseinfo.com'
   - '+.sslawy.com'
   - '+.sslibrary.com'
@@ -2818,6 +2827,8 @@ payload:
   - '+.steampp.net'
   - '+.stockstar.com'
   - '+.suanya.com'
+  - '+.sumkoo.com'
+  - '+.sumkoo.net'
   - '+.sun0769.com'
   - '+.suning.com'
   - '+.suningcloud.com'
@@ -3106,6 +3117,7 @@ payload:
   - '+.vcloudstc.net'
   - '+.vcloudvod.com'
   - '+.vdolady.com'
+  - '+.veeqi.net'
   - '+.veryhuo.com'
   - '+.veryzhun.com'
   - '+.vg.com'
@@ -3170,6 +3182,7 @@ payload:
   - '+.welltrend-edu.com'
   - '+.wenjuan.com'
   - '+.wenku8.net'
+  - '+.wenmingban.com'
   - '+.wenxin-ge.com'
   - '+.werewolf.53site.com'
   - '+.west95582.com'
@@ -3331,6 +3344,7 @@ payload:
   - '+.ybccode.com'
   - '+.yccdn.com'
   - '+.ycgame.com'
+  - '+.ycrx360.com'
   - '+.ydamc.com'
   - '+.ydstatic.com'
   - '+.yeah.net'
@@ -3538,3 +3552,5 @@ payload:
   - '+.zuoyebang.cc'
   - '+.zuoyebang.com'
   - '+.zybang.com'
+  - '+.zyh365.com'
+  - '+.zzdtec.com'
