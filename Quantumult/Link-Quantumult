@@ -1,4 +1,5 @@
 # Force Reject
+@Part1=/Users/Leefurmore/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Profiles/Quantumult/Rules/Reject
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Advertising/Advertising.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/EasyPrivacy/EasyPrivacy.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AllInOne/AllInOne.list
@@ -6,6 +7,7 @@ http://limbopro.com/Adblock4limbo.list
 https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list
 
 # Force Proxy
+@Part2=/Users/Leefurmore/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Profiles/Quantumult/Rules/Proxy
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Speedtest/Speedtest.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AppleDaily/AppleDaily.list
@@ -36,6 +38,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Global/Global.list
 
 # Force Direct
+@Part3=/Users/Leefurmore/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Profiles/Quantumult/Rules/Direct
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Microsoft/Microsoft.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Lenovo/Lenovo.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Dell/Dell.list
@@ -44,6 +47,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaASN/ChinaASN.list
 
 [rewrite_remote]
+@Part4=/Users/Leefurmore/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Profiles/Quantumult/Rewrite
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AllInOne/AllInOne.conf
 http://limbopro.com/Adblock4limbo.conf
 https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/chongxie.txt
