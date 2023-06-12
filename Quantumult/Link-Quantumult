@@ -49,5 +49,5 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 [rewrite_remote]
 @Part4=/Users/Leefurmore/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Profiles/Quantumult/Rewrite
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AllInOne/AllInOne.conf
-http://limbopro.com/Adblock4limbo.conf
 https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/chongxie.txt
+http://limbopro.com/Adblock4limbo.conf
