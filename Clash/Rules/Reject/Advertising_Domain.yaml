@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-16 02:07:54
+# UPDATED: 2023-07-17 02:07:36
 # DOMAIN: 15965
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 92319
+# DOMAIN-SUFFIX: 92334
 # IP-CIDR: 293
-# TOTAL: 108653
+# TOTAL: 108668
 payload:
   - '03.lzzncm.com'
   - '04.lzzncm.com'
@@ -16277,6 +16277,7 @@ payload:
   - '+.123-counter.de'
   - '+.123-movies.bz'
   - '+.123-tracker.com'
+  - '+.123.manga1001.top'
   - '+.12322app.com'
   - '+.123564.com'
   - '+.123camquiz.com'
@@ -22679,6 +22680,7 @@ payload:
   - '+.allayravage.com'
   - '+.allbn.net'
   - '+.allcommonblog.com'
+  - '+.allcommonstories.com'
   - '+.allcoolnewz.com'
   - '+.allcoolposts.com'
   - '+.allcuteboys.com'
@@ -26595,6 +26597,7 @@ payload:
   - '+.biemedia.com'
   - '+.bienlyclatchy.website'
   - '+.biforinslogs.life'
+  - '+.bifyeldv.top'
   - '+.big-bang-ads.com'
   - '+.big-hunter.com'
   - '+.big-loads.com'
@@ -27789,6 +27792,7 @@ payload:
   - '+.btsaffiliations.com'
   - '+.btserve.com'
   - '+.btstatic.com'
+  - '+.bttazsyk.icu'
   - '+.btttag.com'
   - '+.btvhdscr.com'
   - '+.btwasinlovewit.xyz'
@@ -33503,6 +33507,7 @@ payload:
   - '+.degaswassail.website'
   - '+.degeronium.com'
   - '+.deggerfletton.com'
+  - '+.deghooda.net'
   - '+.degjciidgieiaeigecb.ru'
   - '+.degmfmog.xyz'
   - '+.degrainbro.website'
@@ -36384,6 +36389,7 @@ payload:
   - '+.eqpzy.cyou'
   - '+.eqqi.cn'
   - '+.eqtaxag.ru'
+  - '+.equabilityassortshrubs.com'
   - '+.equabilitythereupon.com'
   - '+.equesk.com'
   - '+.equilibriumindifferentsoak.com'
@@ -41743,6 +41749,7 @@ payload:
   - '+.hightopnews.com'
   - '+.hightopnewstoday.com'
   - '+.hightrafficads.com'
+  - '+.highwaycpmrevenue.com'
   - '+.highwaydizzy.com'
   - '+.higseres.com'
   - '+.hiido.com'
@@ -42596,6 +42603,7 @@ payload:
   - '+.hypocrisysmallestbelieving.com'
   - '+.hypogeeinial.com'
   - '+.hypogynbalker.com'
+  - '+.hypots.com'
   - '+.hypozoabytes.life'
   - '+.hyprmx.com'
   - '+.hypwbv.xyz'
@@ -45077,6 +45085,7 @@ payload:
   - '+.js.hscollectedforms.net'
   - '+.js.iterable.com'
   - '+.js.kabutocho-dsp.net'
+  - '+.js.mangajp.top'
   - '+.js.medi-8.net'
   - '+.js.mscto.com'
   - '+.js.mulan.cloud'
@@ -45962,6 +45971,7 @@ payload:
   - '+.kmlxlkz.cn'
   - '+.kmmgoogle.oss-ap-southeast-1.aliyuncs.com'
   - '+.kmmsfoqbhc.xyz'
+  - '+.kmodukuleqasfo.info'
   - '+.kmp.twbymc.cn'
   - '+.kmpiframe.keepmeposted.com.mt'
   - '+.kmpjrjz.cn'
@@ -50818,6 +50828,7 @@ payload:
   - '+.mpstat.us'
   - '+.mpsuadv.ru'
   - '+.mptentry.com'
+  - '+.mptgate.com'
   - '+.mptri.net'
   - '+.mpuls.ru'
   - '+.mpununmrsiur.com'
@@ -52497,6 +52508,7 @@ payload:
   - '+.nossairt.net'
   - '+.nosselaune.space'
   - '+.nostalgia.onego.ru'
+  - '+.nostormidentification.com'
   - '+.nostrilquarryprecursor.com'
   - '+.nostromedia.com'
   - '+.not-only.info'
@@ -61096,6 +61108,7 @@ payload:
   - '+.sandelf.com'
   - '+.sandensi.ru'
   - '+.sandflyligules.com'
+  - '+.sandyconference.com'
   - '+.sange20221226.xyz'
   - '+.sanggilregard.com'
   - '+.sanglah.com'
@@ -67008,6 +67021,7 @@ payload:
   - '+.tools.islive.nl'
   - '+.toolsthwartgrim.com'
   - '+.toolsyjejune.com'
+  - '+.toolsyjejunen.com'
   - '+.toomeepi.xyz'
   - '+.toonoost.net'
   - '+.toorebutheh.xyz'
@@ -72408,6 +72422,7 @@ payload:
   - '+.wmober.com'
   - '+.wmolgnjo.xyz'
   - '+.wmptctl.com'
+  - '+.wmpuem.com'
   - '+.wmrmb.cn'
   - '+.wmrok.com'
   - '+.wmrok.net'
