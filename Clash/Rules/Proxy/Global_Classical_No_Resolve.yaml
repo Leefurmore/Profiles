@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-20 23:22:11
-# DOMAIN: 159
+# UPDATED: 2023-07-31 02:10:51
+# DOMAIN: 154
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 19161
+# DOMAIN-SUFFIX: 19156
 # IP-CIDR: 105
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19469
+# TOTAL: 19459
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -32,11 +32,9 @@ payload:
   - DOMAIN,cbsi.live.ott.irdeto.com
   - DOMAIN,cbsplaylistserver.aws.syncbak.com
   - DOMAIN,cbsservice.aws.syncbak.com
-  - DOMAIN,certs-lb.apple.com.akadns.net
   - DOMAIN,cisco.evergage.com
   - DOMAIN,clubhouse.pubnubapi.com
   - DOMAIN,courier-push-apple.com.akadns.net
-  - DOMAIN,crl-lb.apple.com.akadns.net
   - DOMAIN,crl.microsoft.com
   - DOMAIN,crl.versign.net
   - DOMAIN,databank.worldbank.org
@@ -47,7 +45,6 @@ payload:
   - DOMAIN,diablo3.nosdn.127.net
   - DOMAIN,dl.begellhouse.com
   - DOMAIN,download.visualstudio.microsoft.com
-  - DOMAIN,e122475.dscg.akamaiedge.net
   - DOMAIN,ea.tt.omtrdc.net
   - DOMAIN,elib.maruzen.co.jp
   - DOMAIN,espn.hb.omtrdc.net
@@ -71,7 +68,6 @@ payload:
   - DOMAIN,nationalaustraliaban.tt.omtrdc.net
   - DOMAIN,nvidia.tt.omtrdc.net
   - DOMAIN,ocsp.microsoft.com
-  - DOMAIN,ocsp2-lb.apple.com.akadns.net
   - DOMAIN,oneocsp.microsoft.com
   - DOMAIN,ood.opsource.net
   - DOMAIN,overwatch.nosdn.127.net
@@ -168,7 +164,6 @@ payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
   - DOMAIN,cloud.oracle.com
-  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN-SUFFIX,01.org
   - DOMAIN-SUFFIX,02weqj32.com
   - DOMAIN-SUFFIX,04647.club
@@ -559,12 +554,12 @@ payload:
   - DOMAIN-SUFFIX,adanaatikhaber.com
   - DOMAIN-SUFFIX,adbecrsl.com
   - DOMAIN-SUFFIX,adbkm.com
-  - DOMAIN-SUFFIX,adcdownload.apple.com.akadns.net
   - DOMAIN-SUFFIX,adcommerce.cn
   - DOMAIN-SUFFIX,addthiscdn.com
   - DOMAIN-SUFFIX,addtoany.com
   - DOMAIN-SUFFIX,addyoutube.com
   - DOMAIN-SUFFIX,adgoogle.net
+  - DOMAIN-SUFFIX,adguard-dns.com
   - DOMAIN-SUFFIX,adguard-vpn.com
   - DOMAIN-SUFFIX,adguard.com
   - DOMAIN-SUFFIX,adhelpnews.com
@@ -750,6 +745,7 @@ payload:
   - DOMAIN-SUFFIX,akadns6.net
   - DOMAIN-SUFFIX,akaeai.com
   - DOMAIN-SUFFIX,akafms.net
+  - DOMAIN-SUFFIX,akagtm.org
   - DOMAIN-SUFFIX,akahost.net
   - DOMAIN-SUFFIX,akaint.net
   - DOMAIN-SUFFIX,akam.net
@@ -768,6 +764,7 @@ payload:
   - DOMAIN-SUFFIX,akamai-thailand.net
   - DOMAIN-SUFFIX,akamai-trials.com
   - DOMAIN-SUFFIX,akamai.com
+  - DOMAIN-SUFFIX,akamaiedge.net
   - DOMAIN-SUFFIX,akamaientrypoint.net
   - DOMAIN-SUFFIX,akamaietpcnctest.com
   - DOMAIN-SUFFIX,akamaietpcompromisedcnctest.com
@@ -921,6 +918,7 @@ payload:
   - DOMAIN-SUFFIX,amazon-lantern.com
   - DOMAIN-SUFFIX,amazon-launchpad.com
   - DOMAIN-SUFFIX,amazon.cn
+  - DOMAIN-SUFFIX,amazon.dev
   - DOMAIN-SUFFIX,amazon.jobs
   - DOMAIN-SUFFIX,amazon.red
   - DOMAIN-SUFFIX,amazonalexavoxcon.com
@@ -1267,6 +1265,7 @@ payload:
   - DOMAIN-SUFFIX,arabysexy.mobi
   - DOMAIN-SUFFIX,arcadewank.com
   - DOMAIN-SUFFIX,arcgisonline.com
+  - DOMAIN-SUFFIX,archive-it.org
   - DOMAIN-SUFFIX,archiveofourown.net
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,archlinuxarm.org
@@ -1446,6 +1445,7 @@ payload:
   - DOMAIN-SUFFIX,avizoon.site
   - DOMAIN-SUFFIX,avizoone.com
   - DOMAIN-SUFFIX,avjb.com
+  - DOMAIN-SUFFIX,avjoy.me
   - DOMAIN-SUFFIX,avlulu.cc
   - DOMAIN-SUFFIX,avmoo.click
   - DOMAIN-SUFFIX,avn.com
@@ -1553,6 +1553,7 @@ payload:
   - DOMAIN-SUFFIX,azuredns-prd.info
   - DOMAIN-SUFFIX,azuredns-prd.org
   - DOMAIN-SUFFIX,azureedge-test.net
+  - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,azurehdinsight.cn
   - DOMAIN-SUFFIX,azureiotcentral.com
   - DOMAIN-SUFFIX,azureiotsolutions.com
@@ -2831,7 +2832,6 @@ payload:
   - DOMAIN-SUFFIX,cdnjs.com
   - DOMAIN-SUFFIX,cdnlab.live
   - DOMAIN-SUFFIX,cdnpure.com
-  - DOMAIN-SUFFIX,cds.apple.com.akadns.net
   - DOMAIN-SUFFIX,cebay.com
   - DOMAIN-SUFFIX,cegid-cloud.cn
   - DOMAIN-SUFFIX,ceicdata.com
@@ -2931,6 +2931,8 @@ payload:
   - DOMAIN-SUFFIX,cheapshoesvip.com
   - DOMAIN-SUFFIX,cheapwireless04.com
   - DOMAIN-SUFFIX,cheapwirelessbeats.com
+  - DOMAIN-SUFFIX,chegg.com
+  - DOMAIN-SUFFIX,cheggcdn.com
   - DOMAIN-SUFFIX,chemequations.com
   - DOMAIN-SUFFIX,chemnetbase.com
   - DOMAIN-SUFFIX,chengjuanseo.com
@@ -3034,10 +3036,6 @@ payload:
   - DOMAIN-SUFFIX,ckcdn.com
   - DOMAIN-SUFFIX,ckck.fun
   - DOMAIN-SUFFIX,ckss98.com
-  - DOMAIN-SUFFIX,cl1-cdn.origin-apple.com.akadns.net
-  - DOMAIN-SUFFIX,cl3-cdn.origin-apple.com.akadns.net
-  - DOMAIN-SUFFIX,cl4-cdn.origin-apple.com.akadns.net
-  - DOMAIN-SUFFIX,cl5-cdn.origin-apple.com.akadns.net
   - DOMAIN-SUFFIX,claravenger.com
   - DOMAIN-SUFFIX,clasporno.org
   - DOMAIN-SUFFIX,classicnike.com
@@ -3048,7 +3046,6 @@ payload:
   - DOMAIN-SUFFIX,click-url.com
   - DOMAIN-SUFFIX,clickserve.cc-dt.com
   - DOMAIN-SUFFIX,clickserver.googleads.com
-  - DOMAIN-SUFFIX,clientflow.apple.com.akadns.net
   - DOMAIN-SUFFIX,clincha.cn
   - DOMAIN-SUFFIX,clinical-videos.com
   - DOMAIN-SUFFIX,clinicalkey.com
@@ -3072,6 +3069,7 @@ payload:
   - DOMAIN-SUFFIX,cloudcraze.com
   - DOMAIN-SUFFIX,cloudcredibility.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,cloudflare-gateway.com
   - DOMAIN-SUFFIX,cloudflare-quic.com
   - DOMAIN-SUFFIX,cloudflare.net
   - DOMAIN-SUFFIX,cloudflareaccess.com
@@ -3080,6 +3078,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflareclient.com
   - DOMAIN-SUFFIX,cloudflareinsights.com
   - DOMAIN-SUFFIX,cloudflareok.com
+  - DOMAIN-SUFFIX,cloudflareportal.com
   - DOMAIN-SUFFIX,cloudflarepreview.com
   - DOMAIN-SUFFIX,cloudflareresolve.com
   - DOMAIN-SUFFIX,cloudflaressl.com
@@ -3090,6 +3089,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflarewarp.com
   - DOMAIN-SUFFIX,cloudfront-test.cn
   - DOMAIN-SUFFIX,cloudfront.cn
+  - DOMAIN-SUFFIX,cloudfront.com
   - DOMAIN-SUFFIX,cloudhealthtech.com
   - DOMAIN-SUFFIX,cloudinary.com
   - DOMAIN-SUFFIX,cloudinary.net
@@ -3103,6 +3103,7 @@ payload:
   - DOMAIN-SUFFIX,cloudyzgirl.com
   - DOMAIN-SUFFIX,cloupia.com
   - DOMAIN-SUFFIX,cloupia.net
+  - DOMAIN-SUFFIX,clubhouse.com
   - DOMAIN-SUFFIX,clubseventeen.com
   - DOMAIN-SUFFIX,clubsweethearts.com
   - DOMAIN-SUFFIX,clubtubes.com
@@ -3186,7 +3187,6 @@ payload:
   - DOMAIN-SUFFIX,computingreviews.com
   - DOMAIN-SUFFIX,comsoc.org
   - DOMAIN-SUFFIX,conair.me
-  - DOMAIN-SUFFIX,configuration.apple.com.akadns.net
   - DOMAIN-SUFFIX,connect-in-canada.com
   - DOMAIN-SUFFIX,connectcommerce.cn
   - DOMAIN-SUFFIX,connectcommerce.info
@@ -3436,7 +3436,6 @@ payload:
   - DOMAIN-SUFFIX,dcard.link
   - DOMAIN-SUFFIX,dcocsp.cn
   - DOMAIN-SUFFIX,dctbeatsbydre.com
-  - DOMAIN-SUFFIX,dd-cdn.origin-apple.com.akadns.net
   - DOMAIN-SUFFIX,ddd-smart.net
   - DOMAIN-SUFFIX,ddg.co
   - DOMAIN-SUFFIX,dditsadn.com
@@ -3705,6 +3704,7 @@ payload:
   - DOMAIN-SUFFIX,dlsitenews.com
   - DOMAIN-SUFFIX,dlsitestudio.com
   - DOMAIN-SUFFIX,dlyoutube.com
+  - DOMAIN-SUFFIX,dm-event.net
   - DOMAIN-SUFFIX,dmed.technology
   - DOMAIN-SUFFIX,dmm-extension.com
   - DOMAIN-SUFFIX,dmmapis.com
@@ -3745,6 +3745,7 @@ payload:
   - DOMAIN-SUFFIX,dnset.com
   - DOMAIN-SUFFIX,dnsvisa.com
   - DOMAIN-SUFFIX,dnvod.tv
+  - DOMAIN-SUFFIX,dnvodcdn.me
   - DOMAIN-SUFFIX,do.co
   - DOMAIN-SUFFIX,dobbyporn.com
   - DOMAIN-SUFFIX,doceapower.com
@@ -4265,6 +4266,7 @@ payload:
   - DOMAIN-SUFFIX,entrustdatacard.com
   - DOMAIN-SUFFIX,epicbrowser.com
   - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,epicgames.dev
   - DOMAIN-SUFFIX,epicreads.com
   - DOMAIN-SUFFIX,epigeum.com
   - DOMAIN-SUFFIX,epikporn.com
@@ -4974,6 +4976,7 @@ payload:
   - DOMAIN-SUFFIX,fontshop.com
   - DOMAIN-SUFFIX,fontsinuse.com
   - DOMAIN-SUFFIX,foofle.com
+  - DOMAIN-SUFFIX,footprintdns.com
   - DOMAIN-SUFFIX,footseen.com
   - DOMAIN-SUFFIX,footstockings.com
   - DOMAIN-SUFFIX,forbes.com
@@ -5729,8 +5732,6 @@ payload:
   - DOMAIN-SUFFIX,grupobmw.com
   - DOMAIN-SUFFIX,gscanada.info
   - DOMAIN-SUFFIX,gsccdn.com
-  - DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
-  - DOMAIN-SUFFIX,gspe19-cn.ls-apple.com.akadns.net
   - DOMAIN-SUFFIX,gstatic-cn.com
   - DOMAIN-SUFFIX,gstaticcnapps.cn
   - DOMAIN-SUFFIX,gsuite.com
@@ -6436,6 +6437,7 @@ payload:
   - DOMAIN-SUFFIX,iamakamai.net
   - DOMAIN-SUFFIX,iamremarkable.org
   - DOMAIN-SUFFIX,iana.org
+  - DOMAIN-SUFFIX,iavnight.com
   - DOMAIN-SUFFIX,ib.metapix.net
   - DOMAIN-SUFFIX,ibb.co
   - DOMAIN-SUFFIX,ibeats-uk.com
@@ -6454,7 +6456,6 @@ payload:
   - DOMAIN-SUFFIX,ichigocandy.com
   - DOMAIN-SUFFIX,ichineseporn.com
   - DOMAIN-SUFFIX,icloud-apple.cn
-  - DOMAIN-SUFFIX,icloud-cdn.icloud.com.akadns.net
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,icloud-isupport.com
   - DOMAIN-SUFFIX,icloud.com
@@ -6590,8 +6591,6 @@ payload:
   - DOMAIN-SUFFIX,imagecurl.com
   - DOMAIN-SUFFIX,imagecurl.org
   - DOMAIN-SUFFIX,imagepost.com
-  - DOMAIN-SUFFIX,images.apple.com.akadns.net
-  - DOMAIN-SUFFIX,images.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,imageshack.com
   - DOMAIN-SUFFIX,imagetwist.com
   - DOMAIN-SUFFIX,imageworks.com
@@ -6668,9 +6667,6 @@ payload:
   - DOMAIN-SUFFIX,ingyenszexvideo.top
   - DOMAIN-SUFFIX,inhumanity.com
   - DOMAIN-SUFFIX,inikesneakers.com
-  - DOMAIN-SUFFIX,init-p01md-lb.push-apple.com.akadns.net
-  - DOMAIN-SUFFIX,init-p01st-lb.push-apple.com.akadns.net
-  - DOMAIN-SUFFIX,init-s01st-lb.push-apple.com.akadns.net
   - DOMAIN-SUFFIX,init.shop
   - DOMAIN-SUFFIX,initiummall.com
   - DOMAIN-SUFFIX,initproducts.com
@@ -6827,7 +6823,6 @@ payload:
   - DOMAIN-SUFFIX,iphine.com
   - DOMAIN-SUFFIX,iphone-cd.com
   - DOMAIN-SUFFIX,iphone-cn.com
-  - DOMAIN-SUFFIX,iphone-ld.origin-apple.com.akadns.net
   - DOMAIN-SUFFIX,iphone-sh.com
   - DOMAIN-SUFFIX,iphone-vip1.com
   - DOMAIN-SUFFIX,iphone-vip2.com
@@ -6916,7 +6911,6 @@ payload:
   - DOMAIN-SUFFIX,itunbes.com
   - DOMAIN-SUFFIX,ituneas.com
   - DOMAIN-SUFFIX,itunes-apple.cn
-  - DOMAIN-SUFFIX,itunes-apple.com.akadns.net
   - DOMAIN-SUFFIX,itunes-radio.net
   - DOMAIN-SUFFIX,itunes.co
   - DOMAIN-SUFFIX,itunes.com
@@ -7825,6 +7819,7 @@ payload:
   - DOMAIN-SUFFIX,mat6tube.com
   - DOMAIN-SUFFIX,mathoverflow.net
   - DOMAIN-SUFFIX,matters.one
+  - DOMAIN-SUFFIX,matters.town
   - DOMAIN-SUFFIX,mature-amateur-sex.com
   - DOMAIN-SUFFIX,mature-porn-flix.com
   - DOMAIN-SUFFIX,matureclub.com
@@ -7909,8 +7904,6 @@ payload:
   - DOMAIN-SUFFIX,meridian.net
   - DOMAIN-SUFFIX,messengerdevelopers.com
   - DOMAIN-SUFFIX,messytube.com
-  - DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
-  - DOMAIN-SUFFIX,mesu-china.apple.com.akadns.net
   - DOMAIN-SUFFIX,met-nude.com
   - DOMAIN-SUFFIX,meta.com
   - DOMAIN-SUFFIX,metacloud.com
@@ -8417,6 +8410,7 @@ payload:
   - DOMAIN-SUFFIX,muncloud.dog
   - DOMAIN-SUFFIX,muryouav.net
   - DOMAIN-SUFFIX,musclegirlflix.com
+  - DOMAIN-SUFFIX,mushroomtrack.com
   - DOMAIN-SUFFIX,musicbay.net
   - DOMAIN-SUFFIX,musickit.net
   - DOMAIN-SUFFIX,musixmatch.com
@@ -9065,7 +9059,6 @@ payload:
   - DOMAIN-SUFFIX,obutsumania.com
   - DOMAIN-SUFFIX,ocbmwdealers.com
   - DOMAIN-SUFFIX,ocsp-certum.com
-  - DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
   - DOMAIN-SUFFIX,ocsp-responder.com
   - DOMAIN-SUFFIX,oculus-china.com
   - DOMAIN-SUFFIX,oculus2014.com
@@ -9111,6 +9104,7 @@ payload:
   - DOMAIN-SUFFIX,oldje.com
   - DOMAIN-SUFFIX,olehd.com
   - DOMAIN-SUFFIX,olelive.com
+  - DOMAIN-SUFFIX,olemovienews.com
   - DOMAIN-SUFFIX,olevodtv.com
   - DOMAIN-SUFFIX,oli-school.com
   - DOMAIN-SUFFIX,omafotze.com
@@ -9193,6 +9187,7 @@ payload:
   - DOMAIN-SUFFIX,opengraphprotocol.org
   - DOMAIN-SUFFIX,opengw.net
   - DOMAIN-SUFFIX,openjsf.org
+  - DOMAIN-SUFFIX,openlibrary.org
   - DOMAIN-SUFFIX,openmaps.org
   - DOMAIN-SUFFIX,openresty.org
   - DOMAIN-SUFFIX,opensource.guide
@@ -9236,7 +9231,6 @@ payload:
   - DOMAIN-SUFFIX,orsm.net
   - DOMAIN-SUFFIX,orzqwq.com
   - DOMAIN-SUFFIX,osakamotion.net
-  - DOMAIN-SUFFIX,oscdn.origin-apple.com.akadns.net
   - DOMAIN-SUFFIX,osdn.net
   - DOMAIN-SUFFIX,osiri-suki-club.com
   - DOMAIN-SUFFIX,osm.org
@@ -9604,6 +9598,8 @@ payload:
   - DOMAIN-SUFFIX,pifpafarabia.com
   - DOMAIN-SUFFIX,pigav.com
   - DOMAIN-SUFFIX,pikabu.monster
+  - DOMAIN-SUFFIX,pikpak.me
+  - DOMAIN-SUFFIX,pikpakdrive.com
   - DOMAIN-SUFFIX,pillbeatsblackfridaysale.com
   - DOMAIN-SUFFIX,pinduck.com
   - DOMAIN-SUFFIX,pinflix.com
@@ -10120,7 +10116,6 @@ payload:
   - DOMAIN-SUFFIX,privatemarketplaces.net
   - DOMAIN-SUFFIX,privatevoyeurvideos.com
   - DOMAIN-SUFFIX,proctoscopeexam.com
-  - DOMAIN-SUFFIX,prod-support.apple-support.akadns.net
   - DOMAIN-SUFFIX,prodrive-japan.com
   - DOMAIN-SUFFIX,profreeporno.com
   - DOMAIN-SUFFIX,projectapex.com
@@ -10229,6 +10224,7 @@ payload:
   - DOMAIN-SUFFIX,qmov.net
   - DOMAIN-SUFFIX,qmttqg3k.me
   - DOMAIN-SUFFIX,qombol.com
+  - DOMAIN-SUFFIX,qooqlevideo.com
   - DOMAIN-SUFFIX,qorno.com
   - DOMAIN-SUFFIX,qprize.com
   - DOMAIN-SUFFIX,qpx.googleflights.net
@@ -10304,6 +10300,7 @@ payload:
   - DOMAIN-SUFFIX,rarbgto.org
   - DOMAIN-SUFFIX,rarbgunblock.com
   - DOMAIN-SUFFIX,rarbgunblock.org
+  - DOMAIN-SUFFIX,rarbgunblocked.org
   - DOMAIN-SUFFIX,rarbgway.org
   - DOMAIN-SUFFIX,raspberrypi.org
   - DOMAIN-SUFFIX,raspbian.org
@@ -11041,11 +11038,9 @@ payload:
   - DOMAIN-SUFFIX,skyassets.com
   - DOMAIN-SUFFIX,skydweller.cn
   - DOMAIN-SUFFIX,skyoceanrescue.com
-  - DOMAIN-SUFFIX,skype-edf.akadns.net
   - DOMAIN-SUFFIX,skype.net
   - DOMAIN-SUFFIX,skypeassets.com
   - DOMAIN-SUFFIX,skypeassets.net
-  - DOMAIN-SUFFIX,skypedata.akadns.net
   - DOMAIN-SUFFIX,skyporn.online
   - DOMAIN-SUFFIX,skysports.com
   - DOMAIN-SUFFIX,skysportsonline.com
@@ -11317,12 +11312,9 @@ payload:
   - DOMAIN-SUFFIX,stockagainstphotography.com
   - DOMAIN-SUFFIX,stocking-tease.com
   - DOMAIN-SUFFIX,stockingfetishvideo.com
-  - DOMAIN-SUFFIX,stocks-sparkline-lb.apple.com.akadns.net
   - DOMAIN-SUFFIX,stonefoxlingerie.com
   - DOMAIN-SUFFIX,stonefoxproductions.com
   - DOMAIN-SUFFIX,store-bridgestonesports.com
-  - DOMAIN-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net
-  - DOMAIN-SUFFIX,store.storeimages.apple.com.akadns.net
   - DOMAIN-SUFFIX,storesense.com
   - DOMAIN-SUFFIX,storiesonline.net
   - DOMAIN-SUFFIX,storyful.com
@@ -11398,7 +11390,6 @@ payload:
   - DOMAIN-SUFFIX,superuser.com
   - DOMAIN-SUFFIX,supjav.com
   - DOMAIN-SUFFIX,supplybestjerseys.com
-  - DOMAIN-SUFFIX,support-china.apple-support.akadns.net
   - DOMAIN-SUFFIX,supportfacebook.com
   - DOMAIN-SUFFIX,supremacy.com
   - DOMAIN-SUFFIX,supremacy.net
@@ -11424,8 +11415,6 @@ payload:
   - DOMAIN-SUFFIX,swapsmut.com
   - DOMAIN-SUFFIX,sway-cdn.com
   - DOMAIN-SUFFIX,sway.com
-  - DOMAIN-SUFFIX,swcatalog-cdn.apple.com.akadns.net
-  - DOMAIN-SUFFIX,swdist.apple.com.akadns.net
   - DOMAIN-SUFFIX,sweetadult-tube.com
   - DOMAIN-SUFFIX,sweetmlif.net
   - DOMAIN-SUFFIX,sweetsext.com
@@ -11456,7 +11445,6 @@ payload:
   - DOMAIN-SUFFIX,swjfo.com
   - DOMAIN-SUFFIX,swoosh.com
   - DOMAIN-SUFFIX,swpr.livedoor.blog
-  - DOMAIN-SUFFIX,swscan-cdn.apple.com.akadns.net
   - DOMAIN-SUFFIX,swtor.com
   - DOMAIN-SUFFIX,swtor.net
   - DOMAIN-SUFFIX,sxarab.top
@@ -11715,6 +11703,7 @@ payload:
   - DOMAIN-SUFFIX,thomsonreutersmexico.com
   - DOMAIN-SUFFIX,thottok.com
   - DOMAIN-SUFFIX,thotvids.com
+  - DOMAIN-SUFFIX,threads.net
   - DOMAIN-SUFFIX,thrixxx.com
   - DOMAIN-SUFFIX,thtmod1.com
   - DOMAIN-SUFFIX,thumbnailseries.com
@@ -12142,7 +12131,6 @@ payload:
   - DOMAIN-SUFFIX,vaginapics.pro
   - DOMAIN-SUFFIX,vagrantcloud.com
   - DOMAIN-SUFFIX,vagrantup.com
-  - DOMAIN-SUFFIX,valid.origin-apple.com.akadns.net
   - DOMAIN-SUFFIX,valoryirene.com
   - DOMAIN-SUFFIX,valuegb.com
   - DOMAIN-SUFFIX,vanish.cn
@@ -12491,6 +12479,7 @@ payload:
   - DOMAIN-SUFFIX,wal.co
   - DOMAIN-SUFFIX,wallet.com
   - DOMAIN-SUFFIX,walmart-content.com
+  - DOMAIN-SUFFIX,walmart.cn
   - DOMAIN-SUFFIX,walmart.com
   - DOMAIN-SUFFIX,walmart.pharmacy
   - DOMAIN-SUFFIX,walmartimages.com
@@ -12537,7 +12526,6 @@ payload:
   - DOMAIN-SUFFIX,wdc.com
   - DOMAIN-SUFFIX,wdfiles.com
   - DOMAIN-SUFFIX,weareebay.com
-  - DOMAIN-SUFFIX,weather-data.apple.com.akadns.net
   - DOMAIN-SUFFIX,weav.xyz
   - DOMAIN-SUFFIX,web-instagram.net
   - DOMAIN-SUFFIX,web.app
@@ -12758,7 +12746,6 @@ payload:
   - DOMAIN-SUFFIX,www-facebook.com
   - DOMAIN-SUFFIX,www-paypal.info
   - DOMAIN-SUFFIX,www-sms-apple.com
-  - DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,www.destinationurl.com
   - DOMAIN-SUFFIX,www.pxcc.com
   - DOMAIN-SUFFIX,www8-hp.com
@@ -15525,6 +15512,7 @@ payload:
   - DOMAIN-SUFFIX,greenreadings.com
   - DOMAIN-SUFFIX,greenvpn.net
   - DOMAIN-SUFFIX,greenvpn.org
+  - DOMAIN-SUFFIX,grindr.com
   - DOMAIN-SUFFIX,grotty-monday.com
   - DOMAIN-SUFFIX,gs-discuss.com
   - DOMAIN-SUFFIX,gsearch.media
@@ -15919,6 +15907,7 @@ payload:
   - DOMAIN-SUFFIX,imb.org
   - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,img.ly
+  - DOMAIN-SUFFIX,imgasd.com
   - DOMAIN-SUFFIX,imgchili.net
   - DOMAIN-SUFFIX,imgmega.com
   - DOMAIN-SUFFIX,imgur.com
@@ -16015,7 +16004,6 @@ payload:
   - DOMAIN-SUFFIX,israbox.com
   - DOMAIN-SUFFIX,issuu.com
   - DOMAIN-SUFFIX,istars.co.nz
-  - DOMAIN-SUFFIX,istarshine.com
   - DOMAIN-SUFFIX,istef.info
   - DOMAIN-SUFFIX,istiqlalhewer.com
   - DOMAIN-SUFFIX,istockphoto.com
@@ -17132,6 +17120,7 @@ payload:
   - DOMAIN-SUFFIX,overcast.fm
   - DOMAIN-SUFFIX,overdaily.org
   - DOMAIN-SUFFIX,overplay.net
+  - DOMAIN-SUFFIX,oversea.istarshine.com
   - DOMAIN-SUFFIX,ovi.com
   - DOMAIN-SUFFIX,ovpn.com
   - DOMAIN-SUFFIX,ow.ly
@@ -19099,6 +19088,7 @@ payload:
   - DOMAIN-SUFFIX,xiaohexie.com
   - DOMAIN-SUFFIX,xiaolan.me
   - DOMAIN-SUFFIX,xiaoma.org
+  - DOMAIN-SUFFIX,xiaomi.eu
   - DOMAIN-SUFFIX,xiaxiaoqiang.net
   - DOMAIN-SUFFIX,xiezhua.com
   - DOMAIN-SUFFIX,xihua.es
