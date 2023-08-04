@@ -1,10 +1,10 @@
 # NAME: ChinaIPs
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-31 02:11:42
+# UPDATED: 2023-08-03 02:12:35
 # IP-ASN: 1216
-# IP-CIDR: 19557
-# TOTAL: 20773
+# IP-CIDR: 19560
+# TOTAL: 20776
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.32.0/19,no-resolve
@@ -1579,6 +1579,7 @@ IP-CIDR,103.219.84.0/22,no-resolve
 IP-CIDR,103.219.88.0/21,no-resolve
 IP-CIDR,103.219.88.0/22,no-resolve
 IP-CIDR,103.219.92.0/22,no-resolve
+IP-CIDR,103.219.92.0/24,no-resolve
 IP-CIDR,103.219.96.0/21,no-resolve
 IP-CIDR,103.219.96.0/22,no-resolve
 IP-CIDR,103.22.0.0/18,no-resolve
@@ -6613,6 +6614,7 @@ IP-CIDR,123.49.224.0/21,no-resolve
 IP-CIDR,123.49.232.0/22,no-resolve
 IP-CIDR,123.49.236.0/22,no-resolve
 IP-CIDR,123.49.240.0/21,no-resolve
+IP-CIDR,123.49.245.0/24,no-resolve
 IP-CIDR,123.49.248.0/22,no-resolve
 IP-CIDR,123.49.252.0/23,no-resolve
 IP-CIDR,123.49.254.0/23,no-resolve
@@ -18280,6 +18282,7 @@ IP-CIDR,45.250.180.0/23,no-resolve
 IP-CIDR,45.250.184.0/21,no-resolve
 IP-CIDR,45.250.184.0/22,no-resolve
 IP-CIDR,45.250.188.0/22,no-resolve
+IP-CIDR,45.250.188.0/24,no-resolve
 IP-CIDR,45.250.192.0/22,no-resolve
 IP-CIDR,45.250.28.0/22,no-resolve
 IP-CIDR,45.250.76.0/22,no-resolve
