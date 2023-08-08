@@ -1,5 +1,6 @@
 HOST-KEYWORD,openaicom,AI
 HOST-KEYWORD,openai-api,AI
+HOST-SUFFIX,statsig.com,AI
 HOST-SUFFIX,sentry.io,AI
 HOST-SUFFIX,msedge.net,AI
 HOST-SUFFIX,bot-framework.azureedge.net,AI

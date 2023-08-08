@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-08-01 02:12:32
+# UPDATED: 2023-08-07 02:11:53
 # DOMAIN: 154
 # DOMAIN-KEYWORD: 39
 # DOMAIN-SUFFIX: 19158
@@ -698,7 +698,6 @@ payload:
   - DOMAIN-SUFFIX,ahtranny.com
   - DOMAIN-SUFFIX,ahvideosexe.com
   - DOMAIN-SUFFIX,ahxxx.club
-  - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,aibaobei.me
   - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,aimei133.com
@@ -12472,6 +12471,7 @@ payload:
   - DOMAIN-SUFFIX,vulgarx.com
   - DOMAIN-SUFFIX,vxnbbrs.xyz
   - DOMAIN-SUFFIX,vxxsred.xyz
+  - DOMAIN-SUFFIX,w-mt.co
   - DOMAIN-SUFFIX,w.wiki
   - DOMAIN-SUFFIX,w0512.com
   - DOMAIN-SUFFIX,w6un.com
