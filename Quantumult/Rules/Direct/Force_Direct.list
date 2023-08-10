@@ -23,7 +23,7 @@ HOST-SUFFIX,sd-play.com,Force_Direct
 HOST-SUFFIX,shinystat.com,Force_Direct
 HOST-SUFFIX,youkuphoto.com,Force_Direct
 
-- IP-CIDR,104.21.233.212/32,Force_Direct
+IP-CIDR,104.21.233.212/32,Force_Direct
 
 # Others
 HOST-SUFFIX,dyndns.com,Force_Direct
