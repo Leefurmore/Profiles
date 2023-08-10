@@ -1,0 +1,28 @@
+payload:
+# Local
+  - DOMAIN-KEYWORD,announce,DIRECT
+  - DOMAIN-KEYWORD,torrent,DIRECT
+  - DOMAIN-KEYWORD,tracker,DIRECT
+  - DOMAIN-SUFFIX,smtp,DIRECT
+  - DOMAIN-SUFFIX,local,DIRECT
+
+# VPN
+  - DOMAIN-SUFFIX,bacida745.me,DIRECT
+  - DOMAIN-SUFFIX,merseine.org,DIRECT
+  - DOMAIN-SUFFIX,bnnodeservice.com,DIRECT
+  - DOMAIN-SUFFIX,steamdownload.top,DIRECT
+
+# Web Stream
+  - DOMAIN-SUFFIX,123123play.com
+  - DOMAIN-SUFFIX,brznetwork.com
+  - DOMAIN-SUFFIX,catopolice.com
+  - DOMAIN-SUFFIX,shinystat.com
+  - DOMAIN-SUFFIX,imgbox.com
+  - DOMAIN-SUFFIX,goguma.tv
+  - DOMAIN-SUFFIX,imgikzy.com
+  - DOMAIN-SUFFIX,youkuphoto.com
+
+# Others
+  - DOMAIN-SUFFIX,dyndns.com,DIRECT
+  - DOMAIN-SUFFIX,upyunso.com,DIRECT
+  - DOMAIN-SUFFIX,ugreengroup.com,DIRECT
