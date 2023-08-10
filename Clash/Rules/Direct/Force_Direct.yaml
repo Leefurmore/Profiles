@@ -1,28 +1,32 @@
 payload:
 # Local
-  - DOMAIN-KEYWORD,announce,DIRECT
-  - DOMAIN-KEYWORD,torrent,DIRECT
-  - DOMAIN-KEYWORD,tracker,DIRECT
-  - DOMAIN-SUFFIX,smtp,DIRECT
-  - DOMAIN-SUFFIX,local,DIRECT
+  - DOMAIN-KEYWORD,announce
+  - DOMAIN-KEYWORD,torrent
+  - DOMAIN-KEYWORD,tracker
+  - DOMAIN-SUFFIX,smtp
+  - DOMAIN-SUFFIX,local
 
 # VPN
-  - DOMAIN-SUFFIX,bacida745.me,DIRECT
-  - DOMAIN-SUFFIX,merseine.org,DIRECT
-  - DOMAIN-SUFFIX,bnnodeservice.com,DIRECT
-  - DOMAIN-SUFFIX,steamdownload.top,DIRECT
+  - DOMAIN-SUFFIX,bacida745.me
+  - DOMAIN-SUFFIX,merseine.org
+  - DOMAIN-SUFFIX,bnnodeservice.com
+  - DOMAIN-SUFFIX,steamdownload.top
 
 # Web Stream
   - DOMAIN-SUFFIX,123123play.com
   - DOMAIN-SUFFIX,brznetwork.com
   - DOMAIN-SUFFIX,catopolice.com
-  - DOMAIN-SUFFIX,shinystat.com
-  - DOMAIN-SUFFIX,imgbox.com
   - DOMAIN-SUFFIX,goguma.tv
+  - DOMAIN-SUFFIX,imgbox.com
   - DOMAIN-SUFFIX,imgikzy.com
+  - DOMAIN-SUFFIX,liangzipic.com
+  - DOMAIN-SUFFIX,sd-play.com
+  - DOMAIN-SUFFIX,shinystat.com
   - DOMAIN-SUFFIX,youkuphoto.com
 
+  - IP-CIDR,104.21.233.212/32
+
 # Others
-  - DOMAIN-SUFFIX,dyndns.com,DIRECT
-  - DOMAIN-SUFFIX,upyunso.com,DIRECT
-  - DOMAIN-SUFFIX,ugreengroup.com,DIRECT
+  - DOMAIN-SUFFIX,dyndns.com
+  - DOMAIN-SUFFIX,upyunso.com
+  - DOMAIN-SUFFIX,ugreengroup.com
