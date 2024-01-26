@@ -11,20 +11,6 @@ HOST-SUFFIX,merseine.org,Force_Direct
 HOST-SUFFIX,bnnodeservice.com,Force_Direct
 HOST-SUFFIX,steamdownload.top,Force_Direct
 
-# Web Stream
-HOST-SUFFIX,123123play.com,Force_Direct
-HOST-SUFFIX,brznetwork.com,Force_Direct
-HOST-SUFFIX,catopolice.com,Force_Direct
-HOST-SUFFIX,goguma.tv,Force_Direct
-HOST-SUFFIX,imgbox.com,Force_Direct
-HOST-SUFFIX,imgikzy.com,Force_Direct
-HOST-SUFFIX,liangzipic.com,Force_Direct
-HOST-SUFFIX,sd-play.com,Force_Direct
-HOST-SUFFIX,shinystat.com,Force_Direct
-HOST-SUFFIX,youkuphoto.com,Force_Direct
-
-IP-CIDR,104.21.233.212/32,Force_Direct
-
 # Others
 HOST-SUFFIX,dyndns.com,Force_Direct
 HOST-SUFFIX,upyunso.com,Force_Direct
