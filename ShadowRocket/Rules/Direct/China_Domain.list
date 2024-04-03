@@ -1,13 +1,13 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-24 02:13:48
-# DOMAIN: 19
+# UPDATED: 2024-03-26 02:11:44
+# DOMAIN: 14
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3680
+# DOMAIN-SUFFIX: 3675
 # IP-CIDR: 21
 # USER-AGENT: 31
-# TOTAL: 3760
+# TOTAL: 3750
 .00cdn.com
 .0123456789.com
 .0379home.com
@@ -758,7 +758,6 @@
 .chaoxingv.com
 .chashebao.com
 .chazhengla.com
-.chdbits.co
 .che168.com
 .checkzeit.com
 .cheng.xin
@@ -1449,7 +1448,6 @@
 .gongyi.xin
 .goodread.com
 .goofish.com
-.googletraveladservices.com
 .goosail.com
 .goproxy.io
 .goselling.com
@@ -1503,7 +1501,6 @@
 .haidilao.com
 .hainanairlines.com
 .haishun.com
-.hamreus.com
 .hanboshi.com
 .handanjob.com
 .hangjiayun.com
@@ -2453,6 +2450,7 @@
 .offcn.com
 .office.com
 .office.net
+.office365.com
 .officese.com
 .oi-wiki.com
 .oicq88.com
@@ -2549,9 +2547,6 @@
 .pipix.com
 .pkoplink.com
 .pkulaw.com
-.playstation.com
-.playstation.net
-.playstationnetwork.com
 .pmphmooc.com
 .pn1waq.com
 .pnas.org
@@ -3689,19 +3684,14 @@
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdn.angruo.com
-cdp.cloud.unity3d.com
 client.amplifi.com
-dl.google.com
 download.jetbrains.com
 images-cn.ssl-images-amazon.com
 ip.istatmenus.app
 kc.kexinshe.com
-mtalk.google.com
 origin-a.akamaihd.ne
 origin-a.akamaihd.net
-outlook.office365.com
 sms.imagetasks.com
-smtp.office365.com
 steamcommunity-a.akamaihd.net
 www.libvideo.com
 www.yxssp.com
