@@ -17,6 +17,11 @@ payload:
   - DOMAIN-SUFFIX,npm.leefurmore.link
   - DOMAIN-SUFFIX,chat.leefurmore.link
   - DOMAIN-SUFFIX,nas.leefurmore.link
+  - DOMAIN-SUFFIX,cf-et.leefurmore.link
+  - DOMAIN-SUFFIX,cf-sa.leefurmore.link
+  - DOMAIN-SUFFIX,cf-st.leefurmore.link
+  - DOMAIN-SUFFIX,cf-su.leefurmore.link
+  - DOMAIN-SUFFIX,cf-vs.leefurmore.link
   - DOMAIN-SUFFIX,dyndns.com
   - DOMAIN-SUFFIX,upyunso.com
   - DOMAIN-SUFFIX,ugreengroup.com
