@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,cf-st.leefurmore.link
   - DOMAIN-SUFFIX,cf-su.leefurmore.link
   - DOMAIN-SUFFIX,cf-vs.leefurmore.link
+  - DOMAIN-SUFFIX,openapi.leefurmore.link
   - DOMAIN-SUFFIX,dyndns.com
   - DOMAIN-SUFFIX,upyunso.com
   - DOMAIN-SUFFIX,ugreengroup.com
