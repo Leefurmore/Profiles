@@ -6,22 +6,14 @@ DOMAIN-KEYWORD,tracker
 DOMAIN-SUFFIX,smtp
 DOMAIN-SUFFIX,local
 
-# VPN
-DOMAIN-SUFFIX,bacida745.me
-DOMAIN-SUFFIX,merseine.org
-DOMAIN-SUFFIX,bnnodeservice.com
-DOMAIN-SUFFIX,steamdownload.top
-
 # Others
 DOMAIN-SUFFIX,leefurmore.com.cn
 DOMAIN-SUFFIX,npm.leefurmore.link
 DOMAIN-SUFFIX,chat.leefurmore.link
 DOMAIN-SUFFIX,nas.leefurmore.link
-DOMAIN-SUFFIX,cf-et.leefurmore.link
 DOMAIN-SUFFIX,cf-sa.leefurmore.link
-DOMAIN-SUFFIX,cf-st.leefurmore.link
+DOMAIN-SUFFIX,cf-sc.leefurmore.link
 DOMAIN-SUFFIX,cf-su.leefurmore.link
-DOMAIN-SUFFIX,cf-vs.leefurmore.link
 DOMAIN-SUFFIX,openapi.leefurmore.link
 DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,upyunso.com
