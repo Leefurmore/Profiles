@@ -6,6 +6,7 @@ HOST-SUFFIX,smtp,Force_Direct
 HOST-SUFFIX,local,Force_Direct
 
 # Others
+HOST-KEYWORD,epson,Force_Direct
 HOST-SUFFIX,leefurmore.com.cn,Force_Direct
 HOST-SUFFIX,npm.leefurmore.link,Force_Direct
 HOST-SUFFIX,chat.leefurmore.link,Force_Direct
