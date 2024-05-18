@@ -60,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,xliirdr.com
 
 # Rule-Supplement
-  - DOMAIN-SUFFIX,railway.app
-  - DOMAIN-SUFFIX,3gppnetwork.org
   - DOMAIN-KEYWORD,3gppnetwork
+  - DOMAIN-SUFFIX,3gppnetwork.org
+  - DOMAIN-SUFFIX,openwrt.ai
+  - DOMAIN-SUFFIX,railway.app
