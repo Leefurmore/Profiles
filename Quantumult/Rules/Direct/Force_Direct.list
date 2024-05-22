@@ -6,8 +6,9 @@ HOST-SUFFIX,smtp,Force_Direct
 HOST-SUFFIX,lan,Force_Direct
 HOST-SUFFIX,local,Force_Direct
 HOST-SUFFIX,localhost,Force_Direct
-HOST-SUFFIX,ip6-localhost,Force_Direct
+HOST-SUFFIX,localdomain,Force_Direct
 HOST-SUFFIX,ip6-loopback,Force_Direct
+HOST-SUFFIX,ip6-localhost,Force_Direct
 
 IP-CIDR,0.0.0.0/8,Force_Direct
 IP-CIDR,10.0.0.0/8,Force_Direct
