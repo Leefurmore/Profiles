@@ -3,7 +3,28 @@ HOST-KEYWORD,announce,Force_Direct
 HOST-KEYWORD,torrent,Force_Direct
 HOST-KEYWORD,tracker,Force_Direct
 HOST-SUFFIX,smtp,Force_Direct
+HOST-SUFFIX,lan,Force_Direct
 HOST-SUFFIX,local,Force_Direct
+HOST-SUFFIX,localhost,Force_Direct
+HOST-SUFFIX,ip6-localhost,Force_Direct
+HOST-SUFFIX,ip6-loopback,Force_Direct
+
+IP-CIDR,0.0.0.0/8,Force_Direct
+IP-CIDR,10.0.0.0/8,Force_Direct
+IP-CIDR,100.64.0.0/10,Force_Direct
+IP-CIDR,127.0.0.0/8,Force_Direct
+IP-CIDR,169.254.0.0/16,Force_Direct
+IP-CIDR,172.16.0.0/12,Force_Direct
+IP-CIDR,192.0.0.0/24,Force_Direct
+IP-CIDR,192.168.0.0/16,Force_Direct
+IP-CIDR,198.18.0.0/16,Force_Direct
+IP-CIDR,224.0.0.0/4,Force_Direct
+IP-CIDR,240.0.0.0/4,Force_Direct
+IP-CIDR,255.255.255.255/32,Force_Direct
+IP-CIDR6,::1/128,Force_Direct
+IP-CIDR6,fc00::/7,Force_Direct
+IP-CIDR6,fe80::/10,Force_Direct
+IP-CIDR6,fd00::/8,Force_Direct
 
 # Others
 HOST-KEYWORD,epson,Force_Direct
@@ -15,6 +36,3 @@ HOST-SUFFIX,cf-sa.leefurmore.link,Force_Direct
 HOST-SUFFIX,cf-sc.leefurmore.link,Force_Direct
 HOST-SUFFIX,cf-su.leefurmore.link,Force_Direct
 HOST-SUFFIX,openapi.leefurmore.link,Force_Direct
-HOST-SUFFIX,dyndns.com,Force_Direct
-HOST-SUFFIX,upyunso.com,Force_Direct
-HOST-SUFFIX,ugreengroup.com,Force_Direct
