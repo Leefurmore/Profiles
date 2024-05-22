@@ -22,10 +22,9 @@ IP-CIDR,198.18.0.0/16,Force_Direct
 IP-CIDR,224.0.0.0/4,Force_Direct
 IP-CIDR,240.0.0.0/4,Force_Direct
 IP-CIDR,255.255.255.255/32,Force_Direct
-IP-CIDR6,::1/128,Force_Direct
 IP-CIDR6,fc00::/7,Force_Direct
-IP-CIDR6,fe80::/10,Force_Direct
 IP-CIDR6,fd00::/8,Force_Direct
+IP-CIDR6,fe80::/10,Force_Direct
 
 # Others
 HOST-KEYWORD,epson,Force_Direct
