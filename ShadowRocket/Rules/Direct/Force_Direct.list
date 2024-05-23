@@ -29,6 +29,7 @@ IP-CIDR,fe80::/10
 
 # Others
 DOMAIN-KEYWORD,epson
+DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,leefurmore.com.cn
 DOMAIN-SUFFIX,npm.leefurmore.link
 DOMAIN-SUFFIX,chat.leefurmore.link
