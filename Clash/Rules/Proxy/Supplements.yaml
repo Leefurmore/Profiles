@@ -62,5 +62,8 @@ payload:
 # Rule-Supplement
   - DOMAIN-KEYWORD,3gppnetwork
   - DOMAIN-SUFFIX,3gppnetwork.org
+  - DOMAIN-KEYWORD,adspower
+  - DOMAIN-SUFFIX,adspower.com
+  - DOMAIN-SUFFIX,adspower.net
   - DOMAIN-SUFFIX,openwrt.ai
   - DOMAIN-SUFFIX,railway.app
