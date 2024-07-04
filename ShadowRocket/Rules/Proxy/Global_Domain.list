@@ -1,9 +1,9 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-06-16 02:10:48
-# DOMAIN: 80
-# DOMAIN-KEYWORD: 37
+# UPDATED: 2024-07-03 16:15:51
+# DOMAIN: 81
+# DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 24795
 # IP-CIDR: 116
 # USER-AGENT: 46
@@ -4034,6 +4034,7 @@
 .bookdepository.com
 .bookepub.com
 .bookfi.net
+.booking.com
 .booklive.jp
 .bookmark.xxx
 .bookmybridgestonetyre.com
@@ -4855,7 +4856,6 @@
 .charlotte-anime.jp
 .charmescorts.com
 .charticulator.com
-.chat.lmsys.org
 .chatango.com
 .chatgpt.com
 .chatgptvideo.xyz
@@ -5296,7 +5296,6 @@
 .cmule.org
 .cmx.im
 .cn-proxy.com
-.cn.com
 .cn6.eu
 .cna.com.tw
 .cnabc.com
@@ -13310,6 +13309,7 @@
 .llwht88.xyz
 .lmm167.shop
 .lmmbtc.com
+.lmsys.org
 .lncn.org
 .lnkd.in
 .lnstagram-help.com
@@ -24875,6 +24875,7 @@ push-apple.com.akadns.net
 qualcomm.sc.omtrdc.net
 self.events.data.microsoft.com
 tesla-cdn.thron.com
+translomatic.foxfortmobile.com
 vmware.tt.omtrdc.net
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
