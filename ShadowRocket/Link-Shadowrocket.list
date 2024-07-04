@@ -8,21 +8,21 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shado
 # Force Proxy
 @Part2=/Users/Leefurmore/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Profiles/ShadowRocket/Rules/Proxy
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Speedtest/Speedtest.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Apple/Apple.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Apple/Apple_Domain.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleDaily/AppleDaily.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleDev/AppleDev.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleID/AppleID.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/SystemOTA/SystemOTA.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Beats/Beats.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleProxy/AppleProxy.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/PlayStation/PlayStation.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Nintendo/Nintendo.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleMedia/AppleMedia.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleMusic/AppleMusic.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleNews/AppleNews.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleProxy/AppleProxy.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleTV/AppleTV.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/FitnessPlus/FitnessPlus.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Siri/Siri.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Google/Google.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/GoogleEarth/GoogleEarth.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/GoogleFCM/GoogleFCM.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Gemini/Gemini.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Chromecast/Chromecast.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BardAI/BardAI.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Gemini/Gemini.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/YouTube/YouTube.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/YouTubeMusic/YouTubeMusic.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Netflix/Netflix.list
@@ -50,6 +50,13 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shado
 
 # Force Direct
 @Part3=/Users/Leefurmore/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Profiles/ShadowRocket/Rules/Direct
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Apple/Apple.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Apple/Apple_Domain.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleDaily/AppleDaily.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleDev/AppleDev.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleID/AppleID.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/SystemOTA/SystemOTA.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Beats/Beats.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Microsoft/Microsoft.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Canon/Canon.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Dell/Dell.list
