@@ -33,6 +33,9 @@ HOST-SUFFIX,ugreengroup.com,Force_Direct
 HOST-SUFFIX,npm.leefurmore.link,Force_Direct
 HOST-SUFFIX,chat.leefurmore.link,Force_Direct
 HOST-SUFFIX,nas.leefurmore.link,Force_Direct
+HOST-SUFFIX,cf-npm.leefurmore.link,Force_Direct
+HOST-SUFFIX,cf-chat.leefurmore.link,Force_Direct
+HOST-SUFFIX,cf-nas.leefurmore.link,Force_Direct
 HOST-SUFFIX,cf-sc.leefurmore.link,Force_Direct
 HOST-SUFFIX,cf-su.leefurmore.link,Force_Direct
 HOST-SUFFIX,uniugame.com,Force_Direct
