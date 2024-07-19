@@ -11,8 +11,8 @@ payload:
   - DOMAIN-SUFFIX,discovery-v6.syncthing.net
   - DOMAIN-SUFFIX,delldisplaymanagerwindows.com
   - DOMAIN-KEYWORD,docker
+  - DOMAIN-KEYWORD,emby-data
   - DOMAIN-SUFFIX,xiaoya.pro
   - DOMAIN-SUFFIX,ddsrem.com
   - DOMAIN-SUFFIX,api.xhofe.top
-  - DOMAIN-SUFFIX,emby-data.f1rst.top
   - DOMAIN-SUFFIX,schemastore.org
