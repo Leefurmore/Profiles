@@ -1,5 +1,6 @@
 payload:
 # Rule-Supplement
+  - DOMAIN-SUFFIX,services.googleapis.cn
   - DOMAIN-KEYWORD,3gppnetwork
   - DOMAIN-SUFFIX,3gppnetwork.org
   - DOMAIN-KEYWORD,adspower

@@ -1,4 +1,5 @@
 # Rule-Supplement
+HOST-SUFFIX,services.googleapis.cn,Supplements
 HOST-KEYWORD,3gppnetwork,Supplements
 HOST-SUFFIX,3gppnetwork.org,Supplements
 HOST-KEYWORD,adspower,Supplements
