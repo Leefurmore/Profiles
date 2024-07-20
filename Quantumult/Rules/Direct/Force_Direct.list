@@ -30,6 +30,12 @@ IP6-CIDR,fe80::/10,Force_Direct
 HOST-KEYWORD,epson,Force_Direct
 HOST-SUFFIX,dyndns.com,Force_Direct
 HOST-SUFFIX,ugreengroup.com,Force_Direct
+HOST-SUFFIX,cfre-asia.leefurmore.link,Force_Direct
+HOST-SUFFIX,cfre-us.leefurmore.link,Force_Direct
+HOST-SUFFIX,etsks-asia.leefurmore.link,Force_Direct
+HOST-SUFFIX,etsks-us.leefurmore.link,Force_Direct
+HOST-SUFFIX,epeius-asia.leefurmore.link,Force_Direct
+HOST-SUFFIX,epeius-us.leefurmore.link,Force_Direct
 HOST-SUFFIX,npm.leefurmore.link,Force_Direct
 HOST-SUFFIX,chat.leefurmore.link,Force_Direct
 HOST-SUFFIX,nas.leefurmore.link,Force_Direct
