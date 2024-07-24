@@ -1,11 +1,5 @@
 payload:
 # Rule-Supplement
-  - DOMAIN-SUFFIX,cfre-asia.leefurmore.link
-  - DOMAIN-SUFFIX,cfre-us.leefurmore.link
-  - DOMAIN-SUFFIX,etsks-asia.leefurmore.link
-  - DOMAIN-SUFFIX,etsks-us.leefurmore.link
-  - DOMAIN-SUFFIX,epeius-asia.leefurmore.link
-  - DOMAIN-SUFFIX,epeius-us.leefurmore.link
   - DOMAIN-KEYWORD,3gppnetwork
   - DOMAIN-SUFFIX,3gppnetwork.org
   - DOMAIN-KEYWORD,adspower
