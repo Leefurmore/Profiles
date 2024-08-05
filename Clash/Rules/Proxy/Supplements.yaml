@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,api.xhofe.top
   - DOMAIN-SUFFIX,schemastore.org
   - DOMAIN-SUFFIX,addic7ed.com
+
 # IPTV
   - IP-CIDR,1.222.207.80/32
   - IP-CIDR,1.245.74.5/32
@@ -50,7 +51,6 @@ payload:
   - DOMAIN-SUFFIX,andong.webcasting.co.kr
   - DOMAIN-SUFFIX,bbstv.clouducs.com
   - DOMAIN-SUFFIX,bloomberg.com
-
   - DOMAIN-SUFFIX,broadcast.tvchosun.com
   - DOMAIN-SUFFIX,btn.nowcdn.co.kr
   - DOMAIN-SUFFIX,cdn-01.bonus-tv.ru
@@ -111,4 +111,3 @@ payload:
   - DOMAIN-SUFFIX,wowza.jejumbc.com
   - DOMAIN-SUFFIX,ythls.armelin.one
   - DOMAIN-SUFFIX,zindisorani.zaroktv.com.tr
-  
