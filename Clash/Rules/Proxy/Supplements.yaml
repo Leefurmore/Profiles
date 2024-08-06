@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,aptv.app
   - DOMAIN-SUFFIX,aws.dev
   - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,darkreader.org
   - DOMAIN-SUFFIX,pastenow.app
   - DOMAIN-SUFFIX,immersivetranslate.com
   - DOMAIN-SUFFIX,autoverify.pythonanywhere.com
