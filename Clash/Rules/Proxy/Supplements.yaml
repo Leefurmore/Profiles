@@ -17,6 +17,8 @@ payload:
   - DOMAIN-SUFFIX,adspower.com
   - DOMAIN-SUFFIX,aws.dev
   - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,pastenow.app
+  - DOMAIN-SUFFIX,immersivetranslate.com
   - DOMAIN-SUFFIX,autoverify.pythonanywhere.com
   - DOMAIN-SUFFIX,sb.scorecardresearch.com
   - DOMAIN-SUFFIX,discovery-v4.syncthing.net
