@@ -1,7 +1,5 @@
 payload:
 # Rule-Supplement
-  - DOMAIN-SUFFIX,cfre-asia.leefurmore.link
-  - DOMAIN-SUFFIX,cfre-us.leefurmore.link
   - DOMAIN-SUFFIX,etsks-asia.leefurmore.link
   - DOMAIN-SUFFIX,etsks-us.leefurmore.link
   - DOMAIN-SUFFIX,epeius-asia.leefurmore.link
