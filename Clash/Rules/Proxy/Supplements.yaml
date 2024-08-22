@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,cf-ec2-u.leefurmore.link
   - DOMAIN-SUFFIX,gc-asia.leefurmore.link
   - DOMAIN-SUFFIX,gc-us.leefurmore.link
+  - DOMAIN-SUFFIX,cf-aec-u.leefurmore.link
+  - DOMAIN-SUFFIX,gc-aec-u.leefurmore.link
   - DOMAIN-KEYWORD,3gppnetwork
   - DOMAIN-SUFFIX,3gppnetwork.org
   - DOMAIN-KEYWORD,adspower
