@@ -3,6 +3,7 @@ payload:
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
+  - DOMAIN-KEYWORD,transmissionbt
   - DOMAIN-SUFFIX,smtp
   - DOMAIN-SUFFIX,lan
   - DOMAIN-SUFFIX,local
@@ -32,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,dyndns.com
   - DOMAIN-SUFFIX,ugreengroup.com
   - DOMAIN-SUFFIX,shuhua.com
+  - DOMAIN-SUFFIX,uniugame.com
   - DOMAIN-SUFFIX,npm.leefurmore.link
   - DOMAIN-SUFFIX,chat.leefurmore.link
   - DOMAIN-SUFFIX,nas.leefurmore.link
@@ -43,5 +45,3 @@ payload:
   - DOMAIN-SUFFIX,cf-emby.leefurmore.link
   - DOMAIN-SUFFIX,cf-sc.leefurmore.link
   - DOMAIN-SUFFIX,cf-su.leefurmore.link
-  - DOMAIN-SUFFIX,uniugame.com
-  - DOMAIN-SUFFIX,transmissionbt.com

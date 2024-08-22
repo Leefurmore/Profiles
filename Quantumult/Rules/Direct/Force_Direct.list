@@ -2,6 +2,7 @@
 HOST-KEYWORD,announce,Force_Direct
 HOST-KEYWORD,torrent,Force_Direct
 HOST-KEYWORD,tracker,Force_Direct
+HOST-KEYWORD,transmissionbt,Force_Direct
 HOST-SUFFIX,smtp,Force_Direct
 HOST-SUFFIX,lan,Force_Direct
 HOST-SUFFIX,local,Force_Direct
@@ -31,6 +32,7 @@ HOST-KEYWORD,epson,Force_Direct
 HOST-SUFFIX,dyndns.com,Force_Direct
 HOST-SUFFIX,ugreengroup.com,Force_Direct
 HOST-SUFFIX,shuhua.com,Force_Direct
+HOST-SUFFIX,uniugame.com,Force_Direct
 HOST-SUFFIX,npm.leefurmore.link,Force_Direct
 HOST-SUFFIX,chat.leefurmore.link,Force_Direct
 HOST-SUFFIX,nas.leefurmore.link,Force_Direct
@@ -42,5 +44,3 @@ HOST-SUFFIX,cf-alist.leefurmore.link,Force_Direct
 HOST-SUFFIX,cf-emby.leefurmore.link,Force_Direct
 HOST-SUFFIX,cf-sc.leefurmore.link,Force_Direct
 HOST-SUFFIX,cf-su.leefurmore.link,Force_Direct
-HOST-SUFFIX,uniugame.com,Force_Direct
-HOST-SUFFIX,transmissionbt.com,Force_Direct
