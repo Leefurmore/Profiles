@@ -59,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,alist.leefurmore.link
   - DOMAIN-SUFFIX,emby.leefurmore.link
   - DOMAIN-SUFFIX,tools.leefurmore.link
+  - DOMAIN-SUFFIX,wgn.leefurmore.link
   - DOMAIN-SUFFIX,cf-npm.leefurmore.link
   - DOMAIN-SUFFIX,cf-alist.leefurmore.link
   - DOMAIN-SUFFIX,cf-emby.leefurmore.link

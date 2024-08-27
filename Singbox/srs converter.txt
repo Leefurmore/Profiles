@@ -1,0 +1,2 @@
+Json转换二进制命令：
+sing-box rule-set compile --output /rules.srs /rules.json

@@ -58,6 +58,7 @@ HOST-SUFFIX,nas.leefurmore.link,Force_Direct
 HOST-SUFFIX,alist.leefurmore.link,Force_Direct
 HOST-SUFFIX,emby.leefurmore.link,Force_Direct
 HOST-SUFFIX,tools.leefurmore.link,Force_Direct
+HOST-SUFFIX,wgn.leefurmore.link,Force_Direct
 HOST-SUFFIX,cf-npm.leefurmore.link,Force_Direct
 HOST-SUFFIX,cf-alist.leefurmore.link,Force_Direct
 HOST-SUFFIX,cf-emby.leefurmore.link,Force_Direct
