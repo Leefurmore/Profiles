@@ -1,4 +1,6 @@
+# Google-Plus
 payload:
+  - DOMAIN-SUFFIX,www.google.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,voice.telephony.goog
