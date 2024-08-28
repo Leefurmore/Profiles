@@ -12,6 +12,8 @@ HOST-SUFFIX,gc-aec-u.leefurmore.link,Supplements
 HOST-SUFFIX,cloudfront.net,Supplements
 HOST-SUFFIX,aws.dev,Supplements
 HOST-KEYWORD,3gppnetwork,Supplements
+HOST-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,Supplements
+HOST-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org,Supplements
 HOST-SUFFIX,3gppnetwork.org,Supplements
 HOST-KEYWORD,adspower,Supplements
 HOST-SUFFIX,adspower.net,Supplements
