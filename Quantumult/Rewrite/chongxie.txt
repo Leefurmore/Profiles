@@ -961,7 +961,6 @@ http:\/\/ad\.myfriday\.cn\/d\/json\/1\.1 url reject
 # hostname = m*.amap.com, optimus-ads.amap.com
 ^https?:\/\/m5\.amap\.com\/ws\/shield\/dsp\/app\/startup\/init\? url reject-dict
 ^https?:\/\/m5\.amap\.com\/ws\/valueadded\/ url reject
-^https?:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/ url reject-200
 ^https?:\/\/optimus-ads\.amap\.com\/uploadimg\/ url reject
 
 # > 国家地理
@@ -1642,13 +1641,12 @@ https?:\/\/helper\.2bulu\.com\/(greenPea\/queryTasks|proSpecial\/allData|saveSpl
 
 # > 马蜂窝
 # hostname = mapi.mafengwo.cn
-^https?:\/\/mapi\.mafengwo\.cn\/(travelguide\/)?ad url reject-200
+^https?:\/\/mapi\.mafengwo\.cn\/(travelguide\/)?ad url reject
 ^https?:\/\/mapi\.mafengwo\.cn\/widget\/note\/get_widget_note url reject
-^https?:\/\/mapi\.mafengwo\.cn\/system\/config\/mark_alert_config url reject-dict
-^https?:\/\/mapi\.mafengwo\.cn\/system\/config\/get_push_config url reject-dict
-^https?:\/\/mapi\.mafengwo\.cn\/system\/config\/get_alert_config url reject-dict
 ^https?:\/\/mapi\.mafengwo\.cn\/system\/update\/check_update url reject-dict
+^https?:\/\/mapi\.mafengwo\.cn\/system\/config\/(get|mark)_(push|alert)_config url reject-dict
 ^https?:\/\/mapi\.mafengwo\.cn\/system\/push\/get_local_push_config url reject
+^https?:\/\/mapi\.mafengwo\.cn\/user\/profile\/get_(list|profile) url script-response-body https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/mafengwo.js
 
 # > 马达出行
 # hostname = mada-travel.17u.cn, ebk.17u.cn
@@ -2571,7 +2569,7 @@ https://apis.lifeweek.com.cn/api/baseConfig/getIosNewConfig url reject
 # >>>>>>>>>>>>>>> ✅ W ✅ <<<<<<<<<<<<<<
 # > Weico(微博客户端)
 # hostname = overseas.weico.cc
-^https?:\/\/overseas.weico.cc\/portal.php\?a=get_coopen_ads url reject
+^https?:\/\/overseas\.weico\.cc\/portal\.php\?a=get_coopen_ads url reject-200
 
 # > WPS
 # hostname = ios.wps.cn, mobile-pic.cache.iciba.com
@@ -2862,7 +2860,7 @@ https://support.you.163.com/appversync/check.do url reject
 
 # > 小睡眠
 # hostname = api.psy-1.com
-^https?:\/\/api.psy-1.com\/cosleep\/startup url reject
+^https?:\/\/api\.psy-1\.com\/cosleep\/startup url reject
 
 # > 小特- 首选特斯拉中文社区
 # hostname = lcen.xiaote.net

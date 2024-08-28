@@ -46,6 +46,9 @@ payload:
   - IP-CIDR6,2a10:50c0::bad1:ff/32
   - IP-CIDR6,2a10:50c0::bad2:ff/32
 
+# Github Mirror
+  - DOMAIN-SUFFIX,ghproxy.com
+
 # Others
   - DOMAIN-KEYWORD,epson
   - DOMAIN-SUFFIX,dyndns.com
