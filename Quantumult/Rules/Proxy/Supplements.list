@@ -29,6 +29,7 @@ HOST-SUFFIX,discovery-v4.syncthing.net,Supplements
 HOST-SUFFIX,discovery-v6.syncthing.net,Supplements
 HOST-KEYWORD,docker,Supplements
 HOST-KEYWORD,emby-data,Supplements
+HOST-KEYWORD,embyxiaoya,Supplements
 HOST-SUFFIX,emby.raydoom.tk,Supplements
 HOST-SUFFIX,xiaoya.pro,Supplements
 HOST-SUFFIX,xiaoyahost.com,Supplements
