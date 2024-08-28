@@ -1,6 +1,8 @@
-# Goole-Plus
+# Google-Plus
 HOST-SUFFIX,www.google.com,Google-Plus
 HOST-SUFFIX,googleapis.com,Google-Plus
 HOST-SUFFIX,googleapis.cn,Google-Plus
 HOST-SUFFIX,voice.telephony.goog,Google-Plus
 HOST-SUFFIX,adservice.google.com,Google-Plus
+IP-CIDR,8.8.8.8/32,Google-Plus
+IP-CIDR,8.8.4.4/32,Google-Plus
