@@ -1,6 +1,6 @@
 # Special
 payload:
-# Github Mirror
+# Github
   - DOMAIN-SUFFIX,githubusercontent.com
 
 # Github Mirror
@@ -9,5 +9,5 @@ payload:
   - DOMAIN-SUFFIX,fastgit.org
 
 # Subscriptions
-  - DOMAIN-SUFFIX,fctahfbxlk.eastasia.cloudapp.azure.com
-  - DOMAIN-SUFFIX,api.stentvessel.top
+  - DOMAIN-SUFFIX,eastasia.cloudapp.azure.com
+  - DOMAIN-SUFFIX,stentvessel.top
