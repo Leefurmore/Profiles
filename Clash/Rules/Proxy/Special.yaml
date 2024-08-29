@@ -1,0 +1,13 @@
+# Special
+payload:
+# Github Mirror
+  - DOMAIN-SUFFIX,githubusercontent.com
+
+# Github Mirror
+  - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,fastgit.org
+
+# Subscriptions
+  - DOMAIN-SUFFIX,fctahfbxlk.eastasia.cloudapp.azure.com
+  - DOMAIN-SUFFIX,api.stentvessel.top
