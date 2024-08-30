@@ -46,6 +46,9 @@ IP-CIDR,94.140.15.16/32,Force_Direct
 IP6-CIDR,2a10:50c0::bad1:ff/32,Force_Direct
 IP6-CIDR,2a10:50c0::bad2:ff/32,Force_Direct
 
+# T-Mobile
+IP-ASN,21928,Force_Direct
+
 # Others
 HOST-KEYWORD,epson,Force_Direct
 HOST-SUFFIX,dyndns.com,Force_Direct
