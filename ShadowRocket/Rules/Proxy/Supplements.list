@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,3gppnetwork.org
+IP-ASN,21928
 DOMAIN-KEYWORD,adspower
 DOMAIN-SUFFIX,adspower.net
 DOMAIN-SUFFIX,adspower.com
