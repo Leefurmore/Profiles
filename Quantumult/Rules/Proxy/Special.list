@@ -1,6 +1,6 @@
 # Special
 # Github
-HOST-SUFFIX,githubusercontent.com,Special
+HOST-SUFFIX,raw.githubusercontent.com,Special
 
 # Github Mirror
 HOST-SUFFIX,ghproxy.com,Special
