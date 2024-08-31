@@ -23,10 +23,21 @@ IP-CIDR,192.168.0.0/16,Force_Direct
 IP-CIDR,224.0.0.0/4,Force_Direct
 IP-CIDR,240.0.0.0/4,Force_Direct
 IP-CIDR,255.255.255.255/32,Force_Direct
+
+IP6-CIDR,::/128,Force_Direct
 IP6-CIDR,::1/128,Force_Direct
+IP6-CIDR,::ffff:0:0/96,Force_Direct
+IP6-CIDR,::ffff:0:0:0/96,Force_Direct
+IP6-CIDR,64:ff9b::/96,Force_Direct
+IP6-CIDR,100::/64,Force_Direct
+IP6-CIDR,2001::/32,Force_Direct
+IP6-CIDR,2001:20::/28,Force_Direct
+IP6-CIDR,2001:db8::/32,Force_Direct
+IP6-CIDR,2002::/16,Force_Direct
 IP6-CIDR,fc00::/7,Force_Direct
 IP6-CIDR,fd00::/8,Force_Direct
 IP6-CIDR,fe80::/10,Force_Direct
+IP6-CIDR,ff00::/8,Force_Direct
 
 # AdGuard DNS Only
 IP-CIDR,94.140.14.140/32,Force_Direct
