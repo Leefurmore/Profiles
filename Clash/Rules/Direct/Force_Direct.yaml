@@ -58,9 +58,6 @@ payload:
   - IP-CIDR6,2a10:50c0::bad1:ff/32
   - IP-CIDR6,2a10:50c0::bad2:ff/32
 
-# T-Mobile
-  - IP-ASN,21928
-
 # Others
   - DOMAIN-KEYWORD,epson
   - DOMAIN-SUFFIX,dyndns.com
