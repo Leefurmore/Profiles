@@ -7,6 +7,9 @@ HOST-SUFFIX,ghproxy.com,Special
 HOST-SUFFIX,jsdelivr.net,Special
 HOST-SUFFIX,fastgit.org,Special
 
+# Docker
+HOST-KEYWORD,docker,Special
+
 # Subscriptions
 HOST-SUFFIX,eastasia.cloudapp.azure.com,Special
 HOST-SUFFIX,stentvessel.top,Special

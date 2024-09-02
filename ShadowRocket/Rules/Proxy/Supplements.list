@@ -40,7 +40,6 @@ DOMAIN-SUFFIX,pastenow.app
 DOMAIN-SUFFIX,autoverify.pythonanywhere.com
 DOMAIN-SUFFIX,discovery-v4.syncthing.net
 DOMAIN-SUFFIX,discovery-v6.syncthing.net
-DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,emby-data
 DOMAIN-KEYWORD,embyxiaoya
 DOMAIN-SUFFIX,emby.raydoom.tk

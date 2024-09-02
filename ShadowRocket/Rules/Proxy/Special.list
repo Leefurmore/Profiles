@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,fastgit.org
 
+# Docker
+DOMAIN-KEYWORD,docker
+
 # Subscriptions
 DOMAIN-SUFFIX,eastasia.cloudapp.azure.com
 DOMAIN-SUFFIX,stentvessel.top
