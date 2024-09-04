@@ -58,15 +58,7 @@ payload:
   - IP-CIDR6,2a10:50c0::bad1:ff/32
   - IP-CIDR6,2a10:50c0::bad2:ff/32
 
-# Others
-  - DOMAIN-KEYWORD,epson
-  - DOMAIN-SUFFIX,dyndns.com
-  - DOMAIN-SUFFIX,ugreengroup.com
-  - DOMAIN-SUFFIX,discovery-v4.syncthing.net
-  - DOMAIN-SUFFIX,discovery-v6.syncthing.net
-  - DOMAIN-SUFFIX,shuhua.com
-  - DOMAIN-SUFFIX,uniugame.com
-  - DOMAIN-SUFFIX,api.mguwp.net
+# Personal
   - DOMAIN-SUFFIX,npm.leefurmore.link
   - DOMAIN-SUFFIX,chat.leefurmore.link
   - DOMAIN-SUFFIX,nas.leefurmore.link
@@ -79,3 +71,15 @@ payload:
   - DOMAIN-SUFFIX,cf-emby.leefurmore.link
   - DOMAIN-SUFFIX,cf-sc.leefurmore.link
   - DOMAIN-SUFFIX,cf-su.leefurmore.link
+
+# Others
+  - DOMAIN-KEYWORD,printer
+  - DOMAIN-KEYWORD,canon
+  - DOMAIN-KEYWORD,epson
+  - DOMAIN-SUFFIX,dyndns.com
+  - DOMAIN-SUFFIX,ugreengroup.com
+  - DOMAIN-SUFFIX,discovery-v4.syncthing.net
+  - DOMAIN-SUFFIX,discovery-v6.syncthing.net
+  - DOMAIN-SUFFIX,shuhua.com
+  - DOMAIN-SUFFIX,uniugame.com
+  - DOMAIN-SUFFIX,api.mguwp.net

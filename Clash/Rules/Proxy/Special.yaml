@@ -1,19 +1,70 @@
 # Special
 payload:
+# DNS
+  - IP-CIDR,1.1.1.1/32
+  - IP-CIDR,1.0.0.1/32
+  - IP-CIDR,8.8.8.8/32
+  - IP-CIDR,8.8.4.4/32
+  - IP-CIDR,94.140.14.140/32
+  - IP-CIDR,94.140.14.141/32
+
+# T-Mobile
+  - DOMAIN-SUFFIX,config.rcs.mnc240.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,config.rcs.mnc260.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,epdg.epc.geo.mnc240.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc240.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,ss.epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,mnc240.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org
+  - IP-ASN,21928
+
 # Github
   - DOMAIN-SUFFIX,raw.githubusercontent.com
-
-# Github Mirror
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,fastgit.org
 
+# Personal
+  - DOMAIN-SUFFIX,etsks-asia.leefurmore.link
+  - DOMAIN-SUFFIX,etsks-us.leefurmore.link
+  - DOMAIN-SUFFIX,epeius-asia.leefurmore.link
+  - DOMAIN-SUFFIX,epeius-us.leefurmore.link
+  - DOMAIN-SUFFIX,aws-ec2-u.leefurmore.link
+  - DOMAIN-SUFFIX,cf-ec2-u.leefurmore.link
+  - DOMAIN-SUFFIX,gc-asia.leefurmore.link
+  - DOMAIN-SUFFIX,gc-us.leefurmore.link
+  - DOMAIN-SUFFIX,cf-aec-u.leefurmore.link
+  - DOMAIN-SUFFIX,gc-aec-u.leefurmore.link
+
+# Rule-Supplement
+  - DOMAIN-KEYWORD,adspower
+  - DOMAIN-SUFFIX,aptv.app
+  - DOMAIN-SUFFIX,aws.dev
+  - DOMAIN-KEYWORD,browserleaks
+  - DOMAIN-SUFFIX,cleanmymac.com
+  - DOMAIN-SUFFIX,darkreader.org
+  - DOMAIN-SUFFIX,delldisplaymanagerwindows.com
+  - DOMAIN-SUFFIX,immersivetranslate.com
+  - DOMAIN-SUFFIX,macbartender.com
+  - DOMAIN-SUFFIX,pastenow.app
+  - DOMAIN-SUFFIX,autoverify.pythonanywhere.com
+
 # Docker
   - DOMAIN-KEYWORD,docker
-
-# Subscriptions
-  - DOMAIN-SUFFIX,eastasia.cloudapp.azure.com
-  - DOMAIN-SUFFIX,stentvessel.top
+  - DOMAIN-KEYWORD,emby-data
+  - DOMAIN-KEYWORD,embyxiaoya
+  - DOMAIN-SUFFIX,emby.raydoom.tk
+  - DOMAIN-SUFFIX,xiaoya.pro
+  - DOMAIN-SUFFIX,xiaoyahost.com
+  - DOMAIN-SUFFIX,ddsrem.com
+  - DOMAIN-SUFFIX,api.xhofe.top
+  - DOMAIN-SUFFIX,schemastore.org
+  - DOMAIN-SUFFIX,addic7ed.com
 
 # IPTV
   - IP-CIDR,1.222.207.80/32
