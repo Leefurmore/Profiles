@@ -58,18 +58,7 @@ IP6-CIDR,2a10:50c0::bad1:ff/32,Force_Direct
 IP6-CIDR,2a10:50c0::bad2:ff/32,Force_Direct
 
 # Personal
-HOST-SUFFIX,npm.leefurmore.link,Force_Direct
-HOST-SUFFIX,chat.leefurmore.link,Force_Direct
-HOST-SUFFIX,nas.leefurmore.link,Force_Direct
-HOST-SUFFIX,alist.leefurmore.link,Force_Direct
-HOST-SUFFIX,emby.leefurmore.link,Force_Direct
-HOST-SUFFIX,tools.leefurmore.link,Force_Direct
-HOST-SUFFIX,wgn.leefurmore.link,Force_Direct
-HOST-SUFFIX,cf-npm.leefurmore.link,Force_Direct
-HOST-SUFFIX,cf-alist.leefurmore.link,Force_Direct
-HOST-SUFFIX,cf-emby.leefurmore.link,Force_Direct
-HOST-SUFFIX,cf-sc.leefurmore.link,Force_Direct
-HOST-SUFFIX,cf-su.leefurmore.link,Force_Direct
+HOST-SUFFIX,leefurmore.link,Force_Direct
 
 # Others
 HOST-KEYWORD,printer,Force_Direct
