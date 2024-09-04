@@ -61,6 +61,8 @@ IP6-CIDR,2a10:50c0::bad2:ff/32,Force_Direct
 HOST-KEYWORD,epson,Force_Direct
 HOST-SUFFIX,dyndns.com,Force_Direct
 HOST-SUFFIX,ugreengroup.com,Force_Direct
+HOST-SUFFIX,discovery-v4.syncthing.net,Force_Direct
+HOST-SUFFIX,discovery-v6.syncthing.net,Force_Direct
 HOST-SUFFIX,shuhua.com,Force_Direct
 HOST-SUFFIX,uniugame.com,Force_Direct
 HOST-SUFFIX,api.mguwp.net,Force_Direct

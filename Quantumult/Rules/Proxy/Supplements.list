@@ -25,12 +25,8 @@ HOST-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,Supplements
 HOST-SUFFIX,mnc240.mcc310.pub.3gppnetwork.org,Supplements
 HOST-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org,Supplements
 HOST-KEYWORD,adspower,Supplements
-HOST-SUFFIX,adspower.net,Supplements
-HOST-SUFFIX,adspower.com,Supplements
 HOST-SUFFIX,aptv.app,Supplements
-HOST-SUFFIX,browserleaks.com,Supplements
-HOST-SUFFIX,browserleaks.org,Supplements
-HOST-SUFFIX,browserleaks.net,Supplements
+HOST-KEYWORD,browserleaks,Supplements
 HOST-SUFFIX,cleanmymac.com,Supplements
 HOST-SUFFIX,darkreader.org,Supplements
 HOST-SUFFIX,delldisplaymanagerwindows.com,Supplements
@@ -38,8 +34,6 @@ HOST-SUFFIX,immersivetranslate.com,Supplements
 HOST-SUFFIX,macbartender.com,Supplements
 HOST-SUFFIX,pastenow.app,Supplements
 HOST-SUFFIX,autoverify.pythonanywhere.com,Supplements
-HOST-SUFFIX,discovery-v4.syncthing.net,Supplements
-HOST-SUFFIX,discovery-v6.syncthing.net,Supplements
 HOST-KEYWORD,emby-data,Supplements
 HOST-KEYWORD,embyxiaoya,Supplements
 HOST-SUFFIX,emby.raydoom.tk,Supplements

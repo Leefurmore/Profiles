@@ -62,6 +62,8 @@ payload:
   - DOMAIN-KEYWORD,epson
   - DOMAIN-SUFFIX,dyndns.com
   - DOMAIN-SUFFIX,ugreengroup.com
+  - DOMAIN-SUFFIX,discovery-v4.syncthing.net
+  - DOMAIN-SUFFIX,discovery-v6.syncthing.net
   - DOMAIN-SUFFIX,shuhua.com
   - DOMAIN-SUFFIX,uniugame.com
   - DOMAIN-SUFFIX,api.mguwp.net
