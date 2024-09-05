@@ -36,15 +36,16 @@ DOMAIN-SUFFIX,cf-sc.leefurmore.link
 # Rule-Supplement
 DOMAIN-KEYWORD,adspower
 DOMAIN-SUFFIX,aptv.app
+DOMAIN-SUFFIX,autoverify.pythonanywhere.com
 DOMAIN-SUFFIX,aws.dev
 DOMAIN-KEYWORD,browserleaks
 DOMAIN-SUFFIX,cleanmymac.com
 DOMAIN-SUFFIX,darkreader.org
 DOMAIN-SUFFIX,delldisplaymanagerwindows.com
+DOMAIN-SUFFIX,epg.51zmt.top
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,macbartender.com
 DOMAIN-SUFFIX,pastenow.app
-DOMAIN-SUFFIX,autoverify.pythonanywhere.com
 
 # Docker
 DOMAIN-KEYWORD,docker

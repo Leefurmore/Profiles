@@ -36,15 +36,16 @@ HOST-SUFFIX,cf-sc.leefurmore.link,Special
 # Rule-Supplement
 HOST-KEYWORD,adspower,Special
 HOST-SUFFIX,aptv.app,Special
+HOST-SUFFIX,autoverify.pythonanywhere.com,Special
 HOST-SUFFIX,aws.dev,Special
 HOST-KEYWORD,browserleaks,Special
 HOST-SUFFIX,cleanmymac.com,Special
 HOST-SUFFIX,darkreader.org,Special
 HOST-SUFFIX,delldisplaymanagerwindows.com,Special
+HOST-SUFFIX,epg.51zmt.top,Special
 HOST-SUFFIX,immersivetranslate.com,Special
 HOST-SUFFIX,macbartender.com,Special
 HOST-SUFFIX,pastenow.app,Special
-HOST-SUFFIX,autoverify.pythonanywhere.com,Special
 
 # Docker
 HOST-KEYWORD,docker,Special
