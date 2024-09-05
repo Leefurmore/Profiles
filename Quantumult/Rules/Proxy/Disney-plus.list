@@ -5,3 +5,7 @@ HOST-SUFFIX,go-mpulse.net,Disney-Plus
 HOST-SUFFIX,optimizely.com,Disney-Plus
 HOST-SUFFIX,onetrust.io,Disney-Plus
 HOST-SUFFIX,joinhoney.com,Disney-Plus
+HOST-SUFFIX,browser-intake-datadoghq.com,Disney-Plus
+HOST-SUFFIX,datadoghq-browser-agent.com,Disney-Plus
+HOST-SUFFIX,api.trafficguard.ai,Disney-Plus
+HOST-SUFFIX,tgtag.io,Disney-Plus
