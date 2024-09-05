@@ -60,11 +60,62 @@ IP6-CIDR,2a10:50c0::bad2:ff/32,Force_Direct
 # Personal
 HOST-SUFFIX,leefurmore.link,Force_Direct
 
+# BT
+HOST-SUFFIX,awesome-hd.me,Force_Direct
+HOST-SUFFIX,broadcasthe.net,Force_Direct
+HOST-SUFFIX,chdbits.co,Force_Direct
+HOST-SUFFIX,classix-unlimited.co.uk,Force_Direct
+HOST-SUFFIX,empornium.me,Force_Direct
+HOST-SUFFIX,gazellegames.net,Force_Direct
+HOST-SUFFIX,hdchina.org,Force_Direct
+HOST-SUFFIX,hdsky.me,Force_Direct
+HOST-SUFFIX,icetorrent.org,Force_Direct
+HOST-SUFFIX,jpopsuki.eu,Force_Direct
+HOST-SUFFIX,keepfrds.com,Force_Direct
+HOST-SUFFIX,madsrevolution.net,Force_Direct
+HOST-SUFFIX,m-team.cc,Force_Direct
+HOST-SUFFIX,nanyangpt.com,Force_Direct
+HOST-SUFFIX,ncore.cc,Force_Direct
+HOST-SUFFIX,open.cd,Force_Direct
+HOST-SUFFIX,ourbits.club,Force_Direct
+HOST-SUFFIX,passthepopcorn.me,Force_Direct
+HOST-SUFFIX,privatehd.to,Force_Direct
+HOST-SUFFIX,redacted.ch,Force_Direct
+HOST-SUFFIX,springsunday.net,Force_Direct
+HOST-SUFFIX,tjupt.org,Force_Direct
+HOST-SUFFIX,totheglory.im,Force_Direct
+
+USER-AGENT,aria2c,Force_Direct
+USER-AGENT,BitComet,Force_Direct
+USER-AGENT,fdm,Force_Direct
+USER-AGENT,NetTransport,Force_Direct
+USER-AGENT,qbittorrent,Force_Direct
+USER-AGENT,Thunder,Force_Direct
+USER-AGENT,transmission-daemon,Force_Direct
+USER-AGENT,transmission-qt,Force_Direct
+USER-AGENT,uTorrent,Force_Direct
+USER-AGENT,WebTorrent,Force_Direct
+USER-AGENT,Folx,Force_Direct
+USER-AGENT,Transmission,Force_Direct
+USER-AGENT,WebTorrent Helper,Force_Direct
+USER-AGENT,v2ray,Force_Direct
+USER-AGENT,ss-local,Force_Direct
+USER-AGENT,ssr-local,Force_Direct
+USER-AGENT,ss-redir,Force_Direct
+USER-AGENT,ssr-redir,Force_Direct
+USER-AGENT,ss-server,Force_Direct
+USER-AGENT,trojan-go,Force_Direct
+USER-AGENT,xray,Force_Direct
+USER-AGENT,hysteria,Force_Direct
+USER-AGENT,singbox,Force_Direct
+USER-AGENT,UUBooster,Force_Direct
+USER-AGENT,uugamebooster,Force_Direct
+
 # Others
 HOST-KEYWORD,printer,Force_Direct
 HOST-KEYWORD,canon,Force_Direct
 HOST-KEYWORD,epson,Force_Direct
-HOST-SUFFIX,dyndns.com,Force_Direct
+HOST-KEYWORD,dyndns,Force_Direct
 HOST-SUFFIX,ugreengroup.com,Force_Direct
 HOST-SUFFIX,discovery-v4.syncthing.net,Force_Direct
 HOST-SUFFIX,discovery-v6.syncthing.net,Force_Direct

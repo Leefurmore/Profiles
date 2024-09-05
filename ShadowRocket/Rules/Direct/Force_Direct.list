@@ -60,11 +60,62 @@ IP-CIDR,2a10:50c0::bad2:ff/32
 # Personal
 DOMAIN-SUFFIX,leefurmore.link
 
+# BT
+DOMAIN-SUFFIX,awesome-hd.me
+DOMAIN-SUFFIX,broadcasthe.net
+DOMAIN-SUFFIX,chdbits.co
+DOMAIN-SUFFIX,classix-unlimited.co.uk
+DOMAIN-SUFFIX,empornium.me
+DOMAIN-SUFFIX,gazellegames.net
+DOMAIN-SUFFIX,hdchina.org
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,icetorrent.org
+DOMAIN-SUFFIX,jpopsuki.eu
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,madsrevolution.net
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,nanyangpt.com
+DOMAIN-SUFFIX,ncore.cc
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,passthepopcorn.me
+DOMAIN-SUFFIX,privatehd.to
+DOMAIN-SUFFIX,redacted.ch
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,totheglory.im
+
+USER-AGENT,aria2c
+USER-AGENT,BitComet
+USER-AGENT,fdm
+USER-AGENT,NetTransport
+USER-AGENT,qbittorrent
+USER-AGENT,Thunder
+USER-AGENT,transmission-daemon
+USER-AGENT,transmission-qt
+USER-AGENT,uTorrent
+USER-AGENT,WebTorrent
+USER-AGENT,Folx
+USER-AGENT,Transmission
+USER-AGENT,WebTorrent Helper
+USER-AGENT,v2ray
+USER-AGENT,ss-local
+USER-AGENT,ssr-local
+USER-AGENT,ss-redir
+USER-AGENT,ssr-redir
+USER-AGENT,ss-server
+USER-AGENT,trojan-go
+USER-AGENT,xray
+USER-AGENT,hysteria
+USER-AGENT,singbox
+USER-AGENT,UUBooster
+USER-AGENT,uugamebooster
+
 # Others
 DOMAIN-KEYWORD,printer
 DOMAIN-KEYWORD,canon
 DOMAIN-KEYWORD,epson
-DOMAIN-SUFFIX,dyndns.com
+DOMAIN-KEYWORD,dyndns
 DOMAIN-SUFFIX,ugreengroup.com
 DOMAIN-SUFFIX,discovery-v4.syncthing.net
 DOMAIN-SUFFIX,discovery-v6.syncthing.net
