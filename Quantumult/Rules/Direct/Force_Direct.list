@@ -116,6 +116,7 @@ HOST-KEYWORD,printer,Force_Direct
 HOST-KEYWORD,canon,Force_Direct
 HOST-KEYWORD,epson,Force_Direct
 HOST-KEYWORD,dyndns,Force_Direct
+HOST-SUFFIX,tplinkcloud.com.cn
 HOST-SUFFIX,ugreengroup.com,Force_Direct
 HOST-SUFFIX,discovery-v4.syncthing.net,Force_Direct
 HOST-SUFFIX,discovery-v6.syncthing.net,Force_Direct
