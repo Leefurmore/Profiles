@@ -12,6 +12,12 @@ payload:
   - DOMAIN-SUFFIX,localdomain
   - DOMAIN-SUFFIX,ip6-loopback
   - DOMAIN-SUFFIX,ip6-localhost
+  - DOMAIN-SUFFIX,example
+  - DOMAIN-SUFFIX,invalid
+  - DOMAIN-SUFFIX,internal
+  - DOMAIN-SUFFIX,test
+  - DOMAIN-SUFFIX,home
+  - DOMAIN-SUFFIX,home.arpa
 
   - IP-CIDR,0.0.0.0/8
   - IP-CIDR,10.0.0.0/8

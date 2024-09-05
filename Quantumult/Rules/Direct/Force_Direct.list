@@ -11,6 +11,12 @@ HOST-SUFFIX,localhost,Force_Direct
 HOST-SUFFIX,localdomain,Force_Direct
 HOST-SUFFIX,ip6-loopback,Force_Direct
 HOST-SUFFIX,ip6-localhost,Force_Direct
+HOST-SUFFIX,example,Force_Direct
+HOST-SUFFIX,invalid,Force_Direct
+HOST-SUFFIX,internal,Force_Direct
+HOST-SUFFIX,test,Force_Direct
+HOST-SUFFIX,home,Force_Direct
+HOST-SUFFIX,home.arpa,Force_Direct
 
 IP-CIDR,0.0.0.0/8,Force_Direct
 IP-CIDR,10.0.0.0/8,Force_Direct
