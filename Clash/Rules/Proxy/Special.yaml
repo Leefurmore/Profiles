@@ -25,9 +25,6 @@ payload:
 
 # Github
   - DOMAIN-SUFFIX,raw.githubusercontent.com
-  - DOMAIN-SUFFIX,ghproxy.com
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,fastgit.org
 
 # Personal
   - DOMAIN-SUFFIX,aws-ec2-u.leefurmore.link

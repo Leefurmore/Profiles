@@ -24,9 +24,6 @@ IP-ASN,21928,Special
 
 # Github
 HOST-SUFFIX,raw.githubusercontent.com,Special
-HOST-SUFFIX,ghproxy.com,Special
-HOST-SUFFIX,jsdelivr.net,Special
-HOST-SUFFIX,fastgit.org,Special
 
 # Personal
 HOST-SUFFIX,aws-ec2-u.leefurmore.link,Special

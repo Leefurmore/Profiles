@@ -64,6 +64,11 @@ payload:
   - IP-CIDR6,2a10:50c0::bad1:ff/32
   - IP-CIDR6,2a10:50c0::bad2:ff/32
 
+# Github Mirror
+  - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,fastgit.org
+
 # Personal
   - DOMAIN-SUFFIX,leefurmore.link
 
