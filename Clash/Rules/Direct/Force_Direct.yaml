@@ -16,8 +16,9 @@ payload:
   - DOMAIN-SUFFIX,invalid
   - DOMAIN-SUFFIX,internal
   - DOMAIN-SUFFIX,test
-  - DOMAIN-SUFFIX,home
   - DOMAIN-SUFFIX,home.arpa
+  - DOMAIN-SUFFIX,home
+  - DOMAIN-SUFFIX,arpa
 
   - IP-CIDR,0.0.0.0/8
   - IP-CIDR,10.0.0.0/8
@@ -63,14 +64,6 @@ payload:
   - IP-CIDR,94.140.15.16/32
   - IP-CIDR6,2a10:50c0::bad1:ff/32
   - IP-CIDR6,2a10:50c0::bad2:ff/32
-
-# Github Mirror
-  - DOMAIN-SUFFIX,ghproxy.com
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,fastgit.org
-
-# Personal
-  - DOMAIN-SUFFIX,leefurmore.link
 
 # BT
   - DOMAIN-SUFFIX,awesome-hd.me
@@ -122,6 +115,13 @@ payload:
   - PROCESS-NAME,singbox
   - PROCESS-NAME,UUBooster
   - PROCESS-NAME,uugamebooster
+
+# Github Mirror
+  - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-SUFFIX,jsdelivr.net
+
+# Personal
+  - DOMAIN-SUFFIX,leefurmore.link
 
 # Others
   - DOMAIN-KEYWORD,printer

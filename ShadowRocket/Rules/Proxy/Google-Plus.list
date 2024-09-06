@@ -1,8 +1,0 @@
-# Google-Plus
-DOMAIN-SUFFIX,www.google.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,voice.telephony.goog
-DOMAIN-SUFFIX,adservice.google.com
-IP-CIDR,8.8.8.8/32
-IP-CIDR,8.8.4.4/32
