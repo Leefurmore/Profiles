@@ -10,16 +10,17 @@ IP-CIDR,94.140.14.141/32,Special
 # T-Mobile
 HOST-SUFFIX,config.rcs.mnc240.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,config.rcs.mnc260.mcc310.pub.3gppnetwork.org,Special
-HOST-SUFFIX,epdg.epc.geo.mnc240.mcc310.pub.3gppnetwork.org,Special
-HOST-SUFFIX,epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org,Special
-HOST-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org,Special
-HOST-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,ss.epdg.epc.geo.mnc240.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org,Special
+HOST-SUFFIX,epdg.epc.geo.mnc240.mcc310.pub.3gppnetwork.org,Special
+HOST-SUFFIX,epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,ss.epdg.epc.mnc240.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,Special
+HOST-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org,Special
+HOST-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,mnc240.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org,Special
+HOST-SUFFIX,3gppnetwork.org,Special
 IP-ASN,21928,Special
 
 # Github
