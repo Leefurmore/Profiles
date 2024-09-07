@@ -48,7 +48,6 @@ payload:
   - DOMAIN-KEYWORD,docker
   - DOMAIN-KEYWORD,emby-data
   - DOMAIN-KEYWORD,embyxiaoya
-  - DOMAIN-SUFFIX,emby.raydoom.tk
   - DOMAIN-SUFFIX,xiaoya.pro
   - DOMAIN-SUFFIX,xiaoyahost.com
   - DOMAIN-SUFFIX,ddsrem.com
