@@ -4,8 +4,6 @@ IP-CIDR,1.1.1.1/32,Special
 IP-CIDR,1.0.0.1/32,Special
 IP-CIDR,8.8.8.8/32,Special
 IP-CIDR,8.8.4.4/32,Special
-IP-CIDR,94.140.14.140/32,Special
-IP-CIDR,94.140.14.141/32,Special
 
 # T-Mobile
 HOST-SUFFIX,config.rcs.mnc240.mcc310.pub.3gppnetwork.org,Special
