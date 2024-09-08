@@ -115,6 +115,11 @@ USER-AGENT,singbox
 USER-AGENT,UUBooster
 USER-AGENT,uugamebooster
 
+# Apple NTP
+DOMAIN-SUFFIX,time.apple.com
+DOMAIN-SUFFIX,time-ios.apple.com
+DOMAIN-SUFFIX,time.g.aaplimg.com
+
 # Github Mirror
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,jsdelivr.net

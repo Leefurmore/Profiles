@@ -115,6 +115,11 @@ USER-AGENT,singbox,Force_Direct
 USER-AGENT,UUBooster,Force_Direct
 USER-AGENT,uugamebooster,Force_Direct
 
+# Apple NTP
+HOST-SUFFIX,time.apple.com,Force_Direct
+HOST-SUFFIX,time-ios.apple.com,Force_Direct
+HOST-SUFFIX,time.g.aaplimg.com,Force_Direct
+
 # Github Mirror
 HOST-SUFFIX,ghproxy.com,Force_Direct
 HOST-SUFFIX,jsdelivr.net,Force_Direct
