@@ -116,17 +116,10 @@ payload:
   - PROCESS-NAME,UUBooster
   - PROCESS-NAME,uugamebooster
 
-# Apple
+# Apple NTP
+  - DOMAIN-SUFFIX,time.apple.com,DIRECT
   - DOMAIN-SUFFIX,time-ios.apple.com,DIRECT
   - DOMAIN-SUFFIX,time.g.aaplimg.com,DIRECT
-  - DOMAIN-SUFFIX,updates.cdn-apple.com,DIRECT
-  - DOMAIN-SUFFIX,updates.cdn-apple.com.akadns.net,DIRECT
-  - DOMAIN-SUFFIX,updates.g.aaplimg.com,DIRECT
-  - DOMAIN-SUFFIX,updates.cdn-apple.com.download.ks-cdn.com,DIRECT
-  - DOMAIN-SUFFIX,gslb.ksyuncdn.com,DIRECT
-  - DOMAIN-SUFFIX,iosapps.itunes.apple.com,DIRECT
-  - DOMAIN-SUFFIX,iosapps.itunes.g.aaplimg.com,DIRECT
-  - DOMAIN-SUFFIX,iosapps.itunes.apple.com.m.alikunlun.net,DIRECT
 
 # Github Mirror
   - DOMAIN-SUFFIX,ghproxy.com
