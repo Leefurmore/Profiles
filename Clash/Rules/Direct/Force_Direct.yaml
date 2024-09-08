@@ -116,6 +116,11 @@ payload:
   - PROCESS-NAME,UUBooster
   - PROCESS-NAME,uugamebooster
 
+# Apple
+  - DOMAIN-SUFFIX,time-ios.apple.com,DIRECT
+  - DOMAIN-SUFFIX,updates.cdn-apple.com,DIRECT
+  - DOMAIN-SUFFIX,iosapps.itunes.apple.com,DIRECT
+
 # Github Mirror
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,jsdelivr.net
