@@ -129,6 +129,7 @@ payload:
   - DOMAIN-SUFFIX,iosapps.itunes.apple.com.m.alikunlun.net,DIRECT
 
   - DOMAIN-SUFFIX,mytv.dothome.co.kr,DIRECT
+  - DOMAIN-SUFFIX,gscdn.kbs.co.kr,DIRECT
 
 # Github Mirror
   - DOMAIN-SUFFIX,ghproxy.com
