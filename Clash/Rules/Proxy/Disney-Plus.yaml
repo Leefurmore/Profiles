@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,api.trafficguard.ai
   - DOMAIN-SUFFIX,tgtag.io
   - DOMAIN-SUFFIX,techlab-cdn.com
+  - DOMAIN-SUFFIX,onetrust.io
