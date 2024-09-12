@@ -41,6 +41,8 @@ DOMAIN-SUFFIX,delldisplaymanagerwindows.com
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,macbartender.com
 DOMAIN-SUFFIX,pastenow.app
+DOMAIN-SUFFIX,geolocation.onetrust.com
+DOMAIN-SUFFIX,execute-api.us-west-2.amazonaws.com
 
 # Docker
 DOMAIN-KEYWORD,docker
