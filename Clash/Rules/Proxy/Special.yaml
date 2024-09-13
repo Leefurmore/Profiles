@@ -44,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,pastenow.app
   - DOMAIN-SUFFIX,geolocation.onetrust.com
   - DOMAIN-SUFFIX,execute-api.us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,split.io
 
 # Docker
   - DOMAIN-KEYWORD,docker

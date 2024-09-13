@@ -43,6 +43,7 @@ HOST-SUFFIX,macbartender.com,Special
 HOST-SUFFIX,pastenow.app,Special
 HOST-SUFFIX,geolocation.onetrust.com,Special
 HOST-SUFFIX,execute-api.us-west-2.amazonaws.com,Special
+HOST-SUFFIX,split.io,Special
 
 # Docker
 HOST-KEYWORD,docker,Special
