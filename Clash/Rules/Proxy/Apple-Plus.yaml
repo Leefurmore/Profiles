@@ -5,5 +5,7 @@ payload:
   - DOMAIN-SUFFIX,certs.apple.com
   - DOMAIN-SUFFIX,gsp-ssl.ls.apple.com
   - DOMAIN-SUFFIX,kt-prod.ess.apple.com
+  - DOMAIN-SUFFIX,smoot.apple.com
   - DOMAIN-SUFFIX,smp-device-content.apple.com
+  - DOMAIN-SUFFIX,sps-media.apple.com
   - DOMAIN-SUFFIX,mzstatic.com
