@@ -8,4 +8,5 @@ payload:
   - DOMAIN-SUFFIX,smoot.apple.com
   - DOMAIN-SUFFIX,smp-device-content.apple.com
   - DOMAIN-SUFFIX,sps-media.apple.com
+  - DOMAIN-SUFFIX,valid.apple.com
   - DOMAIN-SUFFIX,mzstatic.com
