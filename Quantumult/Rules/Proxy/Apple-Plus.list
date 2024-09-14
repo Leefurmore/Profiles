@@ -2,6 +2,7 @@
 HOST-SUFFIX,itunes.apple.com,Apple-Plus
 HOST-SUFFIX,videos.apple.com,Apple-Plus
 HOST-SUFFIX,certs.apple.com,Apple-Plus
+HOST-SUFFIX,gs-loc.apple.com,Apple-Plus
 HOST-SUFFIX,gsp-ssl.ls.apple.com,Apple-Plus
 HOST-SUFFIX,kt-prod.ess.apple.com,Apple-Plus
 HOST-SUFFIX,smoot.apple.com,Apple-Plus

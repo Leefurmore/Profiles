@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,itunes.apple.com
   - DOMAIN-SUFFIX,videos.apple.com
   - DOMAIN-SUFFIX,certs.apple.com
+  - DOMAIN-SUFFIX,gs-loc.apple.com
   - DOMAIN-SUFFIX,gsp-ssl.ls.apple.com
   - DOMAIN-SUFFIX,kt-prod.ess.apple.com
   - DOMAIN-SUFFIX,smoot.apple.com
