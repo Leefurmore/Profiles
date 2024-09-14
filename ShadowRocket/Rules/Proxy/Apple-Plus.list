@@ -1,6 +1,8 @@
 # Apple-Plus
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,videos.apple.com
+DOMAIN-SUFFIX,certs.apple.com
 DOMAIN-SUFFIX,gsp-ssl.ls.apple.com
 DOMAIN-SUFFIX,kt-prod.ess.apple.com
+DOMAIN-SUFFIX,smp-device-content.apple.com
 DOMAIN-SUFFIX,mzstatic.com
