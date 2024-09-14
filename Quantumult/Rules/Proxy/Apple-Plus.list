@@ -1,4 +1,6 @@
 # Apple-Plus
 HOST-SUFFIX,bag.itunes.apple.com,Apple-Plus
 HOST-SUFFIX,fpinit.itunes.apple.com,Apple-Plus
+HOST-SUFFIX,musicstatus.itunes.apple.com,Apple-Plus
+HOST-SUFFIX,play.itunes.apple.com,Apple-Plus
 HOST-SUFFIX,upp.itunes.apple.com,Apple-Plus
