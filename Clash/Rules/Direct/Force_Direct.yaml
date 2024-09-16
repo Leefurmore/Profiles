@@ -65,11 +65,6 @@ payload:
   - IP-CIDR6,2a10:50c0::bad1:ff/32
   - IP-CIDR6,2a10:50c0::bad2:ff/32
 
-# Connectivity
-  - DOMAIN-SUFFIX,www.gstatic.com
-  - DOMAIN-SUFFIX,cp.cloudflare.com
-  - DOMAIN-SUFFIX,captive.apple.com
-
 # BT
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,broadcasthe.net
@@ -120,6 +115,11 @@ payload:
   - PROCESS-NAME,singbox
   - PROCESS-NAME,UUBooster
   - PROCESS-NAME,uugamebooster
+
+# Connectivity
+  - DOMAIN-SUFFIX,www.gstatic.com
+  - DOMAIN-SUFFIX,cp.cloudflare.com
+  - DOMAIN-SUFFIX,captive.apple.com
 
 # NTP
   - DOMAIN-SUFFIX,ntp.org

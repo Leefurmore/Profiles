@@ -64,11 +64,6 @@ IP-CIDR,94.140.15.16/32
 IP-CIDR,2a10:50c0::bad1:ff/32
 IP-CIDR,2a10:50c0::bad2:ff/32
 
-# Connectivity
-DOMAIN-SUFFIX,www.gstatic.com
-DOMAIN-SUFFIX,cp.cloudflare.com
-DOMAIN-SUFFIX,captive.apple.com
-
 # BT
 DOMAIN-SUFFIX,awesome-hd.me
 DOMAIN-SUFFIX,broadcasthe.net
@@ -119,6 +114,11 @@ USER-AGENT,hysteria
 USER-AGENT,singbox
 USER-AGENT,UUBooster
 USER-AGENT,uugamebooster
+
+# Connectivity
+DOMAIN-SUFFIX,www.gstatic.com
+DOMAIN-SUFFIX,cp.cloudflare.com
+DOMAIN-SUFFIX,captive.apple.com
 
 # NTP
 DOMAIN-SUFFIX,ntp.org
