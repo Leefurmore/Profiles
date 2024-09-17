@@ -135,6 +135,7 @@ HOST-SUFFIX,updates.cdn-apple.com,Force_Direct
 HOST-SUFFIX,updates.cdn-apple.com.akadns.net,Force_Direct
 HOST-SUFFIX,updates.g.aaplimg.com,Force_Direct
 HOST-SUFFIX,updates.cdn-apple.com.download.ks-cdn.com,Force_Direct
+HOST-SUFFIX,updates.cdn-apple.com.w.kunlunca.com,Force_Direct
 HOST-SUFFIX,gslb.ksyuncdn.com,Force_Direct
 HOST-SUFFIX,swscan.apple.com,Force_Direct
 HOST-SUFFIX,swscan-cdn.apple.com.akadns.net,Force_Direct

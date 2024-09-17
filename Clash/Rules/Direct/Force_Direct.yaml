@@ -136,6 +136,7 @@ payload:
   - DOMAIN-SUFFIX,updates.cdn-apple.com.akadns.net
   - DOMAIN-SUFFIX,updates.g.aaplimg.com
   - DOMAIN-SUFFIX,updates.cdn-apple.com.download.ks-cdn.com
+  - DOMAIN-SUFFIX,updates.cdn-apple.com.w.kunlunca.com
   - DOMAIN-SUFFIX,gslb.ksyuncdn.com
   - DOMAIN-SUFFIX,swscan.apple.com
   - DOMAIN-SUFFIX,swscan-cdn.apple.com.akadns.net
