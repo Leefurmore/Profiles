@@ -130,6 +130,24 @@ DOMAIN-SUFFIX,time.g.aaplimg.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 
+# Apple Software Update
+DOMAIN-SUFFIX,updates.cdn-apple.com
+DOMAIN-SUFFIX,updates.cdn-apple.com.akadns.net
+DOMAIN-SUFFIX,updates.g.aaplimg.com
+DOMAIN-SUFFIX,updates.cdn-apple.com.download.ks-cdn.com
+DOMAIN-SUFFIX,gslb.ksyuncdn.com
+DOMAIN-SUFFIX,swscan.apple.com
+DOMAIN-SUFFIX,swscan-cdn.apple.com.akadns.net
+DOMAIN-SUFFIX,swdist.apple.com.edgekey.net
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,swcdn.apple.com
+DOMAIN-SUFFIX,swcdn.g.aaplimg.com
+DOMAIN-SUFFIX,iosapps.itunes.apple.com
+DOMAIN-SUFFIX,iosapps.itunes.g.aaplimg.com
+DOMAIN-SUFFIX,iosapps.itunes.apple.com.m.alikunlun.net
+DOMAIN-SUFFIX,ns.itunes.apple.com
+DOMAIN-SUFFIX,ns.itunes-apple.com.akadns.net
+
 # Github Mirror
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,jsdelivr.net

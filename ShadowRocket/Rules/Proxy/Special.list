@@ -24,11 +24,6 @@ IP-ASN,21928
 # Github
 DOMAIN-SUFFIX,raw.githubusercontent.com
 
-# Personal
-DOMAIN-SUFFIX,aws-ec2-u.leefurmore.link
-DOMAIN-SUFFIX,cf-ec2-u.leefurmore.link
-DOMAIN-SUFFIX,cf-sc.leefurmore.link
-
 # Rule-Supplement
 DOMAIN-KEYWORD,adspower
 DOMAIN-KEYWORD,browserleaks

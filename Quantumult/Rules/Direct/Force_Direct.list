@@ -130,6 +130,24 @@ HOST-SUFFIX,time.g.aaplimg.com,Force_Direct
 HOST-SUFFIX,msftconnecttest.com,Force_Direct
 HOST-SUFFIX,msftncsi.com,Force_Direct
 
+# Apple Software Update
+HOST-SUFFIX,updates.cdn-apple.com,Force_Direct
+HOST-SUFFIX,updates.cdn-apple.com.akadns.net,Force_Direct
+HOST-SUFFIX,updates.g.aaplimg.com,Force_Direct
+HOST-SUFFIX,updates.cdn-apple.com.download.ks-cdn.com,Force_Direct
+HOST-SUFFIX,gslb.ksyuncdn.com,Force_Direct
+HOST-SUFFIX,swscan.apple.com,Force_Direct
+HOST-SUFFIX,swscan-cdn.apple.com.akadns.net,Force_Direct
+HOST-SUFFIX,swdist.apple.com.edgekey.net,Force_Direct
+HOST-SUFFIX,akamaiedge.net,Force_Direct
+HOST-SUFFIX,swcdn.apple.com,Force_Direct
+HOST-SUFFIX,swcdn.g.aaplimg.com,Force_Direct
+HOST-SUFFIX,iosapps.itunes.apple.com,Force_Direct
+HOST-SUFFIX,iosapps.itunes.g.aaplimg.com,Force_Direct
+HOST-SUFFIX,iosapps.itunes.apple.com.m.alikunlun.net,Force_Direct
+HOST-SUFFIX,ns.itunes.apple.com,Force_Direct
+HOST-SUFFIX,ns.itunes-apple.com.akadns.net,Force_Direct
+
 # Github Mirror
 HOST-SUFFIX,ghproxy.com,Force_Direct
 HOST-SUFFIX,jsdelivr.net,Force_Direct
