@@ -120,15 +120,15 @@ HOST-SUFFIX,www.gstatic.com,Force_Direct
 HOST-SUFFIX,cp.cloudflare.com,Force_Direct
 HOST-SUFFIX,captive.apple.com,Force_Direct
 
+# Windows Network
+HOST-SUFFIX,msftconnecttest.com,Force_Direct
+HOST-SUFFIX,msftncsi.com,Force_Direct
+
 # NTP
 HOST-SUFFIX,ntp.org,Force_Direct
 HOST-SUFFIX,time.apple.com,Force_Direct
 HOST-SUFFIX,time-ios.apple.com,Force_Direct
 HOST-SUFFIX,time.g.aaplimg.com,Force_Direct
-
-# Windows Network
-HOST-SUFFIX,msftconnecttest.com,Force_Direct
-HOST-SUFFIX,msftncsi.com,Force_Direct
 
 # Apple Software Update
 HOST-SUFFIX,updates.cdn-apple.com,Force_Direct

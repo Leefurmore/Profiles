@@ -120,15 +120,15 @@ DOMAIN-SUFFIX,www.gstatic.com
 DOMAIN-SUFFIX,cp.cloudflare.com
 DOMAIN-SUFFIX,captive.apple.com
 
+# Windows Network
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+
 # NTP
 DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,time.apple.com
 DOMAIN-SUFFIX,time-ios.apple.com
 DOMAIN-SUFFIX,time.g.aaplimg.com
-
-# Windows Network
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
 
 # Apple Software Update
 DOMAIN-SUFFIX,updates.cdn-apple.com
