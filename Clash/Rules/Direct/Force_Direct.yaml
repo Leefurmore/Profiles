@@ -1,5 +1,10 @@
 # Force_Direct
 payload:
+  - DOMAIN-SUFFIX,swscan.apple.com
+  - DOMAIN-SUFFIX,swscan-cdn.apple.com.akadns.net
+  - DOMAIN-SUFFIX,swdist.apple.com.edgekey.net
+  - DOMAIN-SUFFIX,swcdn.apple.com,DIRECT
+  - DOMAIN-SUFFIX,swcdn.g.aaplimg.com,DIRECT
 # Local
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
