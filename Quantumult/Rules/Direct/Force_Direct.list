@@ -115,11 +115,6 @@ USER-AGENT,singbox,Force_Direct
 USER-AGENT,UUBooster,Force_Direct
 USER-AGENT,uugamebooster,Force_Direct
 
-# Connectivity
-HOST-SUFFIX,www.gstatic.com,Force_Direct
-HOST-SUFFIX,cp.cloudflare.com,Force_Direct
-HOST-SUFFIX,captive.apple.com,Force_Direct
-
 # Windows Network
 HOST-SUFFIX,msftconnecttest.com,Force_Direct
 HOST-SUFFIX,msftncsi.com,Force_Direct

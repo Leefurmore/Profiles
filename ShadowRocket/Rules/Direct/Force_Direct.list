@@ -115,11 +115,6 @@ USER-AGENT,singbox
 USER-AGENT,UUBooster
 USER-AGENT,uugamebooster
 
-# Connectivity
-DOMAIN-SUFFIX,www.gstatic.com
-DOMAIN-SUFFIX,cp.cloudflare.com
-DOMAIN-SUFFIX,captive.apple.com
-
 # Windows Network
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
