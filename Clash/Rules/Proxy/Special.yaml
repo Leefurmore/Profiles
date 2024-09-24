@@ -6,6 +6,15 @@ payload:
   - IP-CIDR,8.8.8.8/32
   - IP-CIDR,8.8.4.4/32
 
+# Connectivity
+  - DOMAIN-SUFFIX,www.gstatic.com
+  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+  - DOMAIN-SUFFIX,captive.apple.com
+  - DOMAIN-SUFFIX,cp.cloudflare.com
+
+# Github
+  - DOMAIN-SUFFIX,raw.githubusercontent.com
+
 # T-Mobile
   - DOMAIN-SUFFIX,config.rcs.mnc240.mcc310.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,config.rcs.mnc260.mcc310.pub.3gppnetwork.org
@@ -21,9 +30,6 @@ payload:
   - DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,3gppnetwork.org
   - IP-ASN,21928
-
-# Github
-  - DOMAIN-SUFFIX,raw.githubusercontent.com
 
 # Rule-Supplement
   - DOMAIN-KEYWORD,adspower

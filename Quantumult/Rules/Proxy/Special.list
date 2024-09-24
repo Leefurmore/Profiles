@@ -5,6 +5,15 @@ IP-CIDR,1.0.0.1/32,Special
 IP-CIDR,8.8.8.8/32,Special
 IP-CIDR,8.8.4.4/32,Special
 
+# Connectivity
+HOST-SUFFIX,www.gstatic.com,Special
+HOST-SUFFIX,connectivitycheck.gstatic.com,Special
+HOST-SUFFIX,captive.apple.com,Special
+HOST-SUFFIX,cp.cloudflare.com,Special
+
+# Github
+HOST-SUFFIX,raw.githubusercontent.com,Special
+
 # T-Mobile
 HOST-SUFFIX,config.rcs.mnc240.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,config.rcs.mnc260.mcc310.pub.3gppnetwork.org,Special
@@ -20,9 +29,6 @@ HOST-SUFFIX,mnc240.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,3gppnetwork.org,Special
 IP-ASN,21928,Special
-
-# Github
-HOST-SUFFIX,raw.githubusercontent.com,Special
 
 # Rule-Supplement
 HOST-KEYWORD,adspower,Special
