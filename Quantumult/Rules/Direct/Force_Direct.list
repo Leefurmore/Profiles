@@ -162,3 +162,4 @@ HOST-SUFFIX,discovery-v6.syncthing.net,Force_Direct
 HOST-SUFFIX,shuhua.com,Force_Direct
 HOST-SUFFIX,uniugame.com,Force_Direct
 HOST-SUFFIX,api.mguwp.net,Force_Direct
+HOST-SUFFIX,api.themoviedb.org,Force_Direct
