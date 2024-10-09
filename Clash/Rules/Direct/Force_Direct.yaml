@@ -164,3 +164,4 @@ payload:
   - DOMAIN-SUFFIX,uniugame.com
   - DOMAIN-SUFFIX,api.mguwp.net
   - DOMAIN-SUFFIX,api.themoviedb.org
+  - DOMAIN-SUFFIX,test-ipv6.com
