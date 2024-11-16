@@ -35,6 +35,7 @@ payload:
   - DOMAIN-KEYWORD,adspower
   - DOMAIN-KEYWORD,browserleaks
   - DOMAIN-SUFFIX,openwrt.ai
+  - DOMAIN-SUFFIX,istoreos.com
   - DOMAIN-SUFFIX,51zmt.top
   - DOMAIN-SUFFIX,aptv.app
   - DOMAIN-SUFFIX,autoverify.pythonanywhere.com
