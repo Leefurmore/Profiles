@@ -9,6 +9,11 @@ payload:
   - DOMAIN-SUFFIX,youku.com
   - DOMAIN-SUFFIX,v.qq.com
   - DOMAIN-KEYWORD,taptap
+  - DOMAIN-SUFFIX,taptap.cn
   - DOMAIN-KEYWORD,kuioo
+  - DOMAIN-SUFFIX,kuioo.tw
+  - DOMAIN-SUFFIX,kuioo.com
   - DOMAIN-KEYWORD,uniugame
+  - DOMAIN-SUFFIX,uniugame.com
   - DOMAIN-KEYWORD,mguwp
+  - DOMAIN-SUFFIX,mguwp.net

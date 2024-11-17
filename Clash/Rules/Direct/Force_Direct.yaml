@@ -161,7 +161,5 @@ payload:
   - DOMAIN-SUFFIX,discovery-v4.syncthing.net
   - DOMAIN-SUFFIX,discovery-v6.syncthing.net
   - DOMAIN-SUFFIX,shuhua.com
-  - DOMAIN-SUFFIX,uniugame.com
-  - DOMAIN-SUFFIX,api.mguwp.net
   - DOMAIN-SUFFIX,api.themoviedb.org
   - DOMAIN-SUFFIX,test-ipv6.com
