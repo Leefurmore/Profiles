@@ -152,10 +152,8 @@ HOST-SUFFIX,jsdelivr.net,Force_Direct
 HOST-SUFFIX,leefurmore.link,Force_Direct
 
 # Others
-HOST-KEYWORD,printer,Force_Direct
-HOST-KEYWORD,canon,Force_Direct
-HOST-KEYWORD,epson,Force_Direct
-HOST-KEYWORD,dyndns,Force_Direct
+HOST-SUFFIX,dyndns.com,Force_Direct
+HOST-SUFFIX,dl.playstation.net,Force_Direct
 HOST-SUFFIX,ugreengroup.com,Force_Direct
 HOST-SUFFIX,discovery-v4.syncthing.net,Force_Direct
 HOST-SUFFIX,discovery-v6.syncthing.net,Force_Direct
