@@ -154,7 +154,6 @@ payload:
 
 # Others
   - DOMAIN-SUFFIX,dyndns.com
-  - DOMAIN-SUFFIX,dl.playstation.net
   - DOMAIN-SUFFIX,ugreengroup.com
   - DOMAIN-SUFFIX,discovery-v4.syncthing.net
   - DOMAIN-SUFFIX,discovery-v6.syncthing.net
