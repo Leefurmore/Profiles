@@ -160,3 +160,5 @@ payload:
   - DOMAIN-SUFFIX,shuhua.com
   - DOMAIN-SUFFIX,api.themoviedb.org
   - DOMAIN-SUFFIX,test-ipv6.com
+  - DOMAIN-SUFFIX,api-cf.nn.ci
+  - DOMAIN-SUFFIX,api.xhofe.top
