@@ -47,6 +47,7 @@ HOST-SUFFIX,pastenow.app,Special
 HOST-SUFFIX,geolocation.onetrust.com,Special
 HOST-SUFFIX,execute-api.us-west-2.amazonaws.com,Special
 HOST-SUFFIX,split.io,Special
+HOST-SUFFIX,fofa.info,Special
 
 # Docker
 HOST-KEYWORD,docker,Special
