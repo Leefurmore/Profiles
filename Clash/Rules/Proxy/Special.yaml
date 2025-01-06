@@ -48,6 +48,7 @@ payload:
   - DOMAIN-SUFFIX,geolocation.onetrust.com
   - DOMAIN-SUFFIX,execute-api.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,split.io
+  - DOMAIN-SUFFIX,fofa.info
 
 # Docker
   - DOMAIN-KEYWORD,docker
