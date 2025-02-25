@@ -146,6 +146,7 @@ HOST-SUFFIX,ns.itunes-apple.com.akadns.net,Force_Direct
 
 # Github Mirror
 HOST-SUFFIX,ghproxy.com,Force_Direct
+HOST-SUFFIX,gh-proxy.com,Force_Direct
 HOST-SUFFIX,jsdelivr.net,Force_Direct
 
 # Personal

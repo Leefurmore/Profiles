@@ -146,6 +146,7 @@ DOMAIN-SUFFIX,ns.itunes-apple.com.akadns.net
 
 # Github Mirror
 DOMAIN-SUFFIX,ghproxy.com
+DOMAIN-SUFFIX,gh-proxy.com
 DOMAIN-SUFFIX,jsdelivr.net
 
 # Personal
