@@ -47,9 +47,6 @@ payload:
   - IP-CIDR6,fe80::/10
   - IP-CIDR6,ff00::/8
 
-# AdGuard DNS HTTPS
-  - DOMAIN-SUFFIX,adguard-dns.com
-
 # AdGuard DNS Only
   - IP-CIDR,94.140.14.140/32
   - IP-CIDR,94.140.14.141/32
@@ -67,6 +64,9 @@ payload:
   - IP-CIDR,94.140.15.16/32
   - IP-CIDR6,2a10:50c0::bad1:ff/32
   - IP-CIDR6,2a10:50c0::bad2:ff/32
+
+# AdGuard DNS HTTPS
+  - DOMAIN-SUFFIX,adguard-dns.com
 
 # BT
   - DOMAIN-SUFFIX,awesome-hd.me
