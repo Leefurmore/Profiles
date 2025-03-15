@@ -31,6 +31,7 @@ HOST-SUFFIX,3gppnetwork.org,Special
 IP-ASN,21928,Special
 
 # MooMoo
+HOST-KEYWORD,moomoo,Special
 HOST-SUFFIX,moomoo.com,Special
 HOST-SUFFIX,moomooequity.com,Special
 HOST-SUFFIX,moomootrustee.com,Special

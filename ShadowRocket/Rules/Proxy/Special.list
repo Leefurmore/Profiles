@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,3gppnetwork.org
 IP-ASN,21928
 
 # MooMoo
+DOMAIN-KEYWORD,moomoo
 DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,moomooequity.com
 DOMAIN-SUFFIX,moomootrustee.com
