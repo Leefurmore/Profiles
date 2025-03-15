@@ -30,6 +30,11 @@ DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,3gppnetwork.org
 IP-ASN,21928
 
+# MooMoo
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomooequity.com
+DOMAIN-SUFFIX,moomootrustee.com
+
 # Rule-Supplement
 DOMAIN-KEYWORD,adspower
 DOMAIN-KEYWORD,browserleaks

@@ -31,6 +31,11 @@ payload:
   - DOMAIN-SUFFIX,3gppnetwork.org
   - IP-ASN,21928
 
+# MooMoo
+  - DOMAIN-SUFFIX,moomoo.com
+  - DOMAIN-SUFFIX,moomooequity.com
+  - DOMAIN-SUFFIX,moomootrustee.com
+
 # Rule-Supplement
   - DOMAIN-KEYWORD,adspower
   - DOMAIN-KEYWORD,browserleaks
@@ -49,7 +54,6 @@ payload:
   - DOMAIN-SUFFIX,execute-api.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,split.io
   - DOMAIN-SUFFIX,fofa.info
-  - DOMAIN-SUFFIX,moomoo.com
 
 # IPTV
   - IP-CIDR,1.222.207.80/32

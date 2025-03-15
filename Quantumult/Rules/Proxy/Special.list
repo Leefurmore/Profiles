@@ -30,6 +30,11 @@ HOST-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,3gppnetwork.org,Special
 IP-ASN,21928,Special
 
+# MooMoo
+HOST-SUFFIX,moomoo.com,Special
+HOST-SUFFIX,moomooequity.com,Special
+HOST-SUFFIX,moomootrustee.com,Special
+
 # Rule-Supplement
 HOST-KEYWORD,adspower,Special
 HOST-KEYWORD,browserleaks,Special
