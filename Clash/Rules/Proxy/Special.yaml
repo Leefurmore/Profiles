@@ -49,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,execute-api.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,split.io
   - DOMAIN-SUFFIX,fofa.info
+  - DOMAIN-SUFFIX,moomoo.com
 
 # IPTV
   - IP-CIDR,1.222.207.80/32
