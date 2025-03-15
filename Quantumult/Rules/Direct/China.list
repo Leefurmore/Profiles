@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-11-17 02:12:01
+# UPDATED: 2025-03-13 02:13:45
 # HOST: 15
 # HOST-KEYWORD: 9
 # HOST-SUFFIX: 3676
@@ -313,7 +313,6 @@ HOST-SUFFIX,acctdns.com,China
 HOST-SUFFIX,acctdns.net,China
 HOST-SUFFIX,acetaffy.club,China
 HOST-SUFFIX,acfun.tv,China
-HOST-SUFFIX,acg.rip,China
 HOST-SUFFIX,acg.tv,China
 HOST-SUFFIX,acgvideo.com,China
 HOST-SUFFIX,acm.org,China
@@ -618,6 +617,7 @@ HOST-SUFFIX,boosj.com,China
 HOST-SUFFIX,bootcdn.net,China
 HOST-SUFFIX,bootcss.com,China
 HOST-SUFFIX,bosera.com,China
+HOST-SUFFIX,bosszhipin.com,China
 HOST-SUFFIX,broadcasthe.net,China
 HOST-SUFFIX,browserleaks.com,China
 HOST-SUFFIX,bstatic.com,China
@@ -1567,6 +1567,7 @@ HOST-SUFFIX,heytapcs.com,China
 HOST-SUFFIX,heytapdownload.com,China
 HOST-SUFFIX,heytapimage.com,China
 HOST-SUFFIX,heytapmobi.com,China
+HOST-SUFFIX,heytea-co.com,China
 HOST-SUFFIX,heytea.com,China
 HOST-SUFFIX,hftfund.com,China
 HOST-SUFFIX,hhtravel.com,China
@@ -1797,7 +1798,6 @@ HOST-SUFFIX,ipip.net,China
 HOST-SUFFIX,ipplus360.com,China
 HOST-SUFFIX,iprdp.net,China
 HOST-SUFFIX,ipssh.net,China
-HOST-SUFFIX,ipv6-test.com,China
 HOST-SUFFIX,iq.com,China
 HOST-SUFFIX,iqiyi.com,China
 HOST-SUFFIX,iqiyipic.com,China
@@ -2219,6 +2219,8 @@ HOST-SUFFIX,lrts.me,China
 HOST-SUFFIX,lsplayer.com,China
 HOST-SUFFIX,lu.com,China
 HOST-SUFFIX,lucifr.com,China
+HOST-SUFFIX,luckincdn.com,China
+HOST-SUFFIX,luckincoffee.com,China
 HOST-SUFFIX,luckincoffeecdn.com,China
 HOST-SUFFIX,luckyair.net,China
 HOST-SUFFIX,ludashi.com,China
@@ -3038,8 +3040,6 @@ HOST-SUFFIX,tendis.net,China
 HOST-SUFFIX,tenpay.com,China
 HOST-SUFFIX,tenxcloud.com,China
 HOST-SUFFIX,test-cignacmb.com,China
-HOST-SUFFIX,test-ipv4.com,China
-HOST-SUFFIX,test-ipv6.com,China
 HOST-SUFFIX,testwaf.com,China
 HOST-SUFFIX,texasholdemcup.com,China
 HOST-SUFFIX,texasholdemcup.net,China

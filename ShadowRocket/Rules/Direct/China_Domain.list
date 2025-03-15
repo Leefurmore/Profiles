@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-11-17 02:12:02
+# UPDATED: 2025-03-13 02:13:45
 # DOMAIN: 15
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 3676
@@ -296,7 +296,6 @@
 .acctdns.net
 .acetaffy.club
 .acfun.tv
-.acg.rip
 .acg.tv
 .acgvideo.com
 .acm.org
@@ -601,6 +600,7 @@
 .bootcdn.net
 .bootcss.com
 .bosera.com
+.bosszhipin.com
 .broadcasthe.net
 .browserleaks.com
 .bstatic.com
@@ -1549,6 +1549,7 @@
 .heytapdownload.com
 .heytapimage.com
 .heytapmobi.com
+.heytea-co.com
 .heytea.com
 .hftfund.com
 .hhtravel.com
@@ -1779,7 +1780,6 @@
 .ipplus360.com
 .iprdp.net
 .ipssh.net
-.ipv6-test.com
 .iq.com
 .iqiyi.com
 .iqiyipic.com
@@ -2201,6 +2201,8 @@
 .lsplayer.com
 .lu.com
 .lucifr.com
+.luckincdn.com
+.luckincoffee.com
 .luckincoffeecdn.com
 .luckyair.net
 .ludashi.com
@@ -3019,8 +3021,6 @@
 .tenpay.com
 .tenxcloud.com
 .test-cignacmb.com
-.test-ipv4.com
-.test-ipv6.com
 .testwaf.com
 .texasholdemcup.com
 .texasholdemcup.net

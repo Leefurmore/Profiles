@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-11-17 02:12:02
+# UPDATED: 2025-03-13 02:13:45
 # DOMAIN: 15
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 3676
@@ -312,7 +312,6 @@ payload:
   - DOMAIN-SUFFIX,acctdns.net
   - DOMAIN-SUFFIX,acetaffy.club
   - DOMAIN-SUFFIX,acfun.tv
-  - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,acgvideo.com
   - DOMAIN-SUFFIX,acm.org
@@ -617,6 +616,7 @@ payload:
   - DOMAIN-SUFFIX,bootcdn.net
   - DOMAIN-SUFFIX,bootcss.com
   - DOMAIN-SUFFIX,bosera.com
+  - DOMAIN-SUFFIX,bosszhipin.com
   - DOMAIN-SUFFIX,broadcasthe.net
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,bstatic.com
@@ -1189,4 +1189,140 @@ payload:
   - DOMAIN-SUFFIX,dongguantoday.com
   - DOMAIN-SUFFIX,dongting.com
   - DOMAIN-SUFFIX,dopa.com
-  - 
+  - DOMAIN-SUFFIX,doticloud.com
+  - DOMAIN-SUFFIX,douban.com
+  - DOMAIN-SUFFIX,douban.fm
+  - DOMAIN-SUFFIX,doubanio.com
+  - DOMAIN-SUFFIX,douxie.com
+  - DOMAIN-SUFFIX,douyin.com
+  - DOMAIN-SUFFIX,douyincdn.com
+  - DOMAIN-SUFFIX,douyinliving.com
+  - DOMAIN-SUFFIX,douyinpic.com
+  - DOMAIN-SUFFIX,douyinstatic.com
+  - DOMAIN-SUFFIX,douyinvod.com
+  - DOMAIN-SUFFIX,douyu.com
+  - DOMAIN-SUFFIX,douyu.tv
+  - DOMAIN-SUFFIX,douyuscdn.com
+  - DOMAIN-SUFFIX,douyutv.com
+  - DOMAIN-SUFFIX,downcc.com
+  - DOMAIN-SUFFIX,downxia.com
+  - DOMAIN-SUFFIX,downyi.com
+  - DOMAIN-SUFFIX,dpfile.com
+  - DOMAIN-SUFFIX,dratio.com
+  - DOMAIN-SUFFIX,dreamcast.hk
+  - DOMAIN-SUFFIX,dreams-travel.com
+  - DOMAIN-SUFFIX,drivergenius.com
+  - DOMAIN-SUFFIX,dtstatic.com
+  - DOMAIN-SUFFIX,duapps.com
+  - DOMAIN-SUFFIX,duba.com
+  - DOMAIN-SUFFIX,duba.net
+  - DOMAIN-SUFFIX,dui.ai
+  - DOMAIN-SUFFIX,duiopen.com
+  - DOMAIN-SUFFIX,duitang.com
+  - DOMAIN-SUFFIX,duoduocdn.com
+  - DOMAIN-SUFFIX,duokan.com
+  - DOMAIN-SUFFIX,duokanbox.com
+  - DOMAIN-SUFFIX,duolabao.com
+  - DOMAIN-SUFFIX,duomai.com
+  - DOMAIN-SUFFIX,duoshuo.com
+  - DOMAIN-SUFFIX,duote.com
+  - DOMAIN-SUFFIX,duowan.com
+  - DOMAIN-SUFFIX,duxiu.com
+  - DOMAIN-SUFFIX,dwion.com
+  - DOMAIN-SUFFIX,dwstatic.com
+  - DOMAIN-SUFFIX,dxpmedia.com
+  - DOMAIN-SUFFIX,dxycdn.com
+  - DOMAIN-SUFFIX,dxzq.net
+  - DOMAIN-SUFFIX,dyhjw.com
+  - DOMAIN-SUFFIX,dytt8.net
+  - DOMAIN-SUFFIX,dzdvip.com
+  - DOMAIN-SUFFIX,dzsc.com
+  - DOMAIN-SUFFIX,dzw3.com
+  - DOMAIN-SUFFIX,dzwww.com
+  - DOMAIN-SUFFIX,easesale.com
+  - DOMAIN-SUFFIX,easiu.com
+  - DOMAIN-SUFFIX,easou.com
+  - DOMAIN-SUFFIX,eastday.com
+  - DOMAIN-SUFFIX,eastmoney.com
+  - DOMAIN-SUFFIX,eastmoneyfutures.com
+  - DOMAIN-SUFFIX,eastsoo.com
+  - DOMAIN-SUFFIX,easytrip.com
+  - DOMAIN-SUFFIX,eayyou.com
+  - DOMAIN-SUFFIX,eb-ind.com
+  - DOMAIN-SUFFIX,ebasset.com
+  - DOMAIN-SUFFIX,ebchina.com
+  - DOMAIN-SUFFIX,ebchinaintl.com
+  - DOMAIN-SUFFIX,ebfcn.com
+  - DOMAIN-SUFFIX,ebfortune.com
+  - DOMAIN-SUFFIX,ebico.com
+  - DOMAIN-SUFFIX,ebrun.com
+  - DOMAIN-SUFFIX,ebscn-am.com
+  - DOMAIN-SUFFIX,ebscn.com
+  - DOMAIN-SUFFIX,ebscohost.com
+  - DOMAIN-SUFFIX,ebtrust.com
+  - DOMAIN-SUFFIX,ecitic.com
+  - DOMAIN-SUFFIX,ecitic.net
+  - DOMAIN-SUFFIX,ecjobhome.com
+  - DOMAIN-SUFFIX,ecloud-gdu.com
+  - DOMAIN-SUFFIX,ecombdapi.com
+  - DOMAIN-SUFFIX,edu4399.com
+  - DOMAIN-SUFFIX,eduei.com
+  - DOMAIN-SUFFIX,eeyy.com
+  - DOMAIN-SUFFIX,eflycloud.com
+  - DOMAIN-SUFFIX,ele.me
+  - DOMAIN-SUFFIX,elecfans.com
+  - DOMAIN-SUFFIX,elemecdn.com
+  - DOMAIN-SUFFIX,elong.com
+  - DOMAIN-SUFFIX,emarbox.com
+  - DOMAIN-SUFFIX,emas-poc.com
+  - DOMAIN-SUFFIX,emerald.com
+  - DOMAIN-SUFFIX,empornium.me
+  - DOMAIN-SUFFIX,emsec.hk
+  - DOMAIN-SUFFIX,emumax.com
+  - DOMAIN-SUFFIX,engineeringvillage.com
+  - DOMAIN-SUFFIX,enterdesk.com
+  - DOMAIN-SUFFIX,eoeandroid.com
+  - DOMAIN-SUFFIX,eolink.com
+  - DOMAIN-SUFFIX,er07.com
+  - DOMAIN-SUFFIX,erji.net
+  - DOMAIN-SUFFIX,ersjk.com
+  - DOMAIN-SUFFIX,essurl.com
+  - DOMAIN-SUFFIX,etao.com
+  - DOMAIN-SUFFIX,ets100.com
+  - DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com
+  - DOMAIN-SUFFIX,eudic.net
+  - DOMAIN-SUFFIX,everbright.com
+  - DOMAIN-SUFFIX,ewqcxz.com
+  - DOMAIN-SUFFIX,ex.puata.info
+  - DOMAIN-SUFFIX,excelhome.net
+  - DOMAIN-SUFFIX,exmailgz.com
+  - DOMAIN-SUFFIX,expreview.com
+  - DOMAIN-SUFFIX,extfans.com
+  - DOMAIN-SUFFIX,ezpro.pro
+  - DOMAIN-SUFFIX,f.cx
+  - DOMAIN-SUFFIX,faceu.com
+  - DOMAIN-SUFFIX,faceu.mobi
+  - DOMAIN-SUFFIX,fadfunds.com
+  - DOMAIN-SUFFIX,faloo.com
+  - DOMAIN-SUFFIX,famulei.com
+  - DOMAIN-SUFFIX,fang.com
+  - DOMAIN-SUFFIX,fangxiaoer.com
+  - DOMAIN-SUFFIX,fanli.com
+  - DOMAIN-SUFFIX,fanqienovel.com
+  - DOMAIN-SUFFIX,fanxian.com
+  - DOMAIN-SUFFIX,fastapi.net
+  - DOMAIN-SUFFIX,fastcdn.com
+  - DOMAIN-SUFFIX,fbank.com
+  - DOMAIN-SUFFIX,fdcyun.com
+  - DOMAIN-SUFFIX,feidee.com
+  - DOMAIN-SUFFIX,feidee.net
+  - DOMAIN-SUFFIX,feihuo.com
+  - DOMAIN-SUFFIX,feiliao.com
+  - DOMAIN-SUFFIX,feimaoyun.com
+  - DOMAIN-SUFFIX,feiniaomy.com
+  - DOMAIN-SUFFIX,feishu.net
+  - DOMAIN-SUFFIX,feishucdn.com
+  - DOMAIN-SUFFIX,feishupkg.com
+  - DOMAIN-SUFFIX,feizhu.com
+  - DOMAIN-SUFFIX,feng.com
+  - DOMAIN
