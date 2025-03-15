@@ -156,6 +156,7 @@ HOST-SUFFIX,jsdelivr.net,Force_Direct
 HOST-SUFFIX,leefurmore.link,Force_Direct
 
 # Others
+HOST-SUFFIX,immortalwrt.org,Force_Direct
 HOST-SUFFIX,dyndns.com,Force_Direct
 HOST-SUFFIX,ugreengroup.com,Force_Direct
 HOST-SUFFIX,discovery-v4.syncthing.net,Force_Direct
