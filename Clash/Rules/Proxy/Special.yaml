@@ -34,6 +34,7 @@ payload:
 # Rule-Supplement
   - DOMAIN-KEYWORD,adspower
   - DOMAIN-KEYWORD,browserleaks
+  - DOMAIN-SUFFIX,openwrt.ai
   - DOMAIN-SUFFIX,istoreos.com
   - DOMAIN-SUFFIX,51zmt.top
   - DOMAIN-SUFFIX,aptv.app
@@ -48,16 +49,6 @@ payload:
   - DOMAIN-SUFFIX,execute-api.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,split.io
   - DOMAIN-SUFFIX,fofa.info
-
-# Docker
-  - DOMAIN-KEYWORD,docker
-  - DOMAIN-KEYWORD,emby-data
-  - DOMAIN-KEYWORD,embyxiaoya
-  - DOMAIN-SUFFIX,xiaoya.pro
-  - DOMAIN-SUFFIX,xiaoyahost.com
-  - DOMAIN-SUFFIX,ddsrem.com
-  - DOMAIN-SUFFIX,schemastore.org
-  - DOMAIN-SUFFIX,addic7ed.com
 
 # IPTV
   - IP-CIDR,1.222.207.80/32

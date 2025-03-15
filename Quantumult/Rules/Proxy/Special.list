@@ -49,16 +49,6 @@ HOST-SUFFIX,execute-api.us-west-2.amazonaws.com,Special
 HOST-SUFFIX,split.io,Special
 HOST-SUFFIX,fofa.info,Special
 
-# Docker
-HOST-KEYWORD,docker,Special
-HOST-KEYWORD,emby-data,Special
-HOST-KEYWORD,embyxiaoya,Special
-HOST-SUFFIX,xiaoya.pro,Special
-HOST-SUFFIX,xiaoyahost.com,Special
-HOST-SUFFIX,ddsrem.com,Special
-HOST-SUFFIX,schemastore.org,Special
-HOST-SUFFIX,addic7ed.com,Special
-
 # IPTV
 IP-CIDR,1.222.207.80/32,Special
 IP-CIDR,1.245.74.5/32,Special
