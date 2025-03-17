@@ -36,6 +36,11 @@ HOST-SUFFIX,moomoo.com,Special
 HOST-SUFFIX,moomooequity.com,Special
 HOST-SUFFIX,moomootrustee.com,Special
 
+# Docker
+HOST-SUFFIX,xiaoya.pro,Special
+HOST-SUFFIX,xiaoyahost.com,Special
+HOST-SUFFIX,ddsrem.com,Special
+
 # Rule-Supplement
 HOST-KEYWORD,adspower,Special
 HOST-KEYWORD,browserleaks,Special

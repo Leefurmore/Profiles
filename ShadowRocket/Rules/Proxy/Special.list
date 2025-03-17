@@ -36,6 +36,11 @@ DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,moomooequity.com
 DOMAIN-SUFFIX,moomootrustee.com
 
+# Docker
+DOMAIN-SUFFIX,xiaoya.pro
+DOMAIN-SUFFIX,xiaoyahost.com
+DOMAIN-SUFFIX,ddsrem.com
+
 # Rule-Supplement
 DOMAIN-KEYWORD,adspower
 DOMAIN-KEYWORD,browserleaks
