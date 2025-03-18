@@ -130,6 +130,7 @@ HOST-SUFFIX,ns.itunes-apple.com.akadns.net,Force_Direct
 HOST-SUFFIX,ghproxy.com,Force_Direct
 HOST-SUFFIX,gh-proxy.com,Force_Direct
 HOST-SUFFIX,jsdelivr.net,Force_Direct
+HOST-SUFFIX,gh.llkk.cc,Force_Direct
 
 # Personal
 HOST-SUFFIX,leefurmore.link,Force_Direct

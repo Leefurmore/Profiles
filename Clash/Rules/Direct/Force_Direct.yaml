@@ -131,6 +131,7 @@ payload:
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,gh.llkk.cc
 
 # Personal
   - DOMAIN-SUFFIX,leefurmore.link
