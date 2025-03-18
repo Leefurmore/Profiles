@@ -46,27 +46,6 @@ IP6-CIDR,fd00::/8,Force_Direct
 IP6-CIDR,fe80::/10,Force_Direct
 IP6-CIDR,ff00::/8,Force_Direct
 
-# AdGuard DNS Only
-IP-CIDR,94.140.14.140/32,Force_Direct
-IP-CIDR,94.140.14.141/32,Force_Direct
-IP6-CIDR,2a10:50c0::1:ff/32,Force_Direct
-IP6-CIDR,2a10:50c0::2:ff/32,Force_Direct
-
-# AdGuard DNS Protected
-IP-CIDR,94.140.14.14/32,Force_Direct
-IP-CIDR,94.140.15.15/32,Force_Direct
-IP6-CIDR,2a10:50c0::ad1:ff/32,Force_Direct
-IP6-CIDR,2a10:50c0::ad2:ff/32,Force_Direct
-
-# ADGuard DNS Parent Control
-IP-CIDR,94.140.14.15/32,Force_Direct
-IP-CIDR,94.140.15.16/32,Force_Direct
-IP6-CIDR,2a10:50c0::bad1:ff/32,Force_Direct
-IP6-CIDR,2a10:50c0::bad2:ff/32,Force_Direct
-
-# AdGuard DNS HTTPS
-HOST-SUFFIX,adguard-dns.com,Force_Direct
-
 # BT
 HOST-SUFFIX,awesome-hd.me,Force_Direct
 HOST-SUFFIX,broadcasthe.net,Force_Direct
