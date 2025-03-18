@@ -4,6 +4,10 @@ IP-CIDR,1.1.1.1/32,Special
 IP-CIDR,1.0.0.1/32,Special
 IP-CIDR,8.8.8.8/32,Special
 IP-CIDR,8.8.4.4/32,Special
+IP6-CIDR,2606:4700:4700::1111/32,Special
+IP6-CIDR,2606:4700:4700::1001/32,Special
+IP6-CIDR,2001:4860:4860::8888/32,Special
+IP6-CIDR,2001:4860:4860::8844/32,Special
 
 # Connectivity
 HOST-SUFFIX,www.gstatic.com,Special
