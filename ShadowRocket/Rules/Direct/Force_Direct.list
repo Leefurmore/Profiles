@@ -46,6 +46,10 @@ IP-CIDR,fd00::/8
 IP-CIDR,fe80::/10
 IP-CIDR,ff00::/8
 
+# DNS
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,dns.pub
+
 # BT
 DOMAIN-SUFFIX,awesome-hd.me
 DOMAIN-SUFFIX,broadcasthe.net

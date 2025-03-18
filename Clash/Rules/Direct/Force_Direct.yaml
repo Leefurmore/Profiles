@@ -47,6 +47,10 @@ payload:
   - IP-CIDR6,fe80::/10
   - IP-CIDR6,ff00::/8
 
+# DNS
+  - DOMAIN-SUFFIX,dns.alidns.com
+  - DOMAIN-SUFFIX,dns.pub
+
 # BT
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,broadcasthe.net

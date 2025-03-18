@@ -46,6 +46,10 @@ IP6-CIDR,fd00::/8,Force_Direct
 IP6-CIDR,fe80::/10,Force_Direct
 IP6-CIDR,ff00::/8,Force_Direct
 
+# DNS
+HOST-SUFFIX,dns.alidns.com,Force_Direct
+HOST-SUFFIX,dns.pub,Force_Direct
+
 # BT
 HOST-SUFFIX,awesome-hd.me,Force_Direct
 HOST-SUFFIX,broadcasthe.net,Force_Direct
