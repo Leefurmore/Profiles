@@ -113,6 +113,7 @@ payload:
   - DOMAIN-SUFFIX,time.g.aaplimg.com
 
 # Apple Software Update
+  - DOMAIN-SUFFIX,apple.com.cn
   - DOMAIN-SUFFIX,updates.cdn-apple.com
   - DOMAIN-SUFFIX,updates.cdn-apple.com.akadns.net
   - DOMAIN-SUFFIX,updates.g.aaplimg.com

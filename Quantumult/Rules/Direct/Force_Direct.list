@@ -112,6 +112,7 @@ HOST-SUFFIX,time-ios.apple.com,Force_Direct
 HOST-SUFFIX,time.g.aaplimg.com,Force_Direct
 
 # Apple Software Update
+HOST-SUFFIX,apple.com.cn,Force_Direct
 HOST-SUFFIX,updates.cdn-apple.com,Force_Direct
 HOST-SUFFIX,updates.cdn-apple.com.akadns.net,Force_Direct
 HOST-SUFFIX,updates.g.aaplimg.com,Force_Direct
