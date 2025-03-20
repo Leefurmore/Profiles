@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-18 02:13:52
+# UPDATED: 2025-03-20 02:13:56
 # HOST: 582
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 31175
+# HOST-SUFFIX: 31169
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 31955
+# TOTAL: 31949
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
 HOST,3dns-3.adobe.com,Global
@@ -796,137 +796,4 @@ HOST-SUFFIX,2mdn.net,Global
 HOST-SUFFIX,30plusgirls.com,Global
 HOST-SUFFIX,35s4.com,Global
 HOST-SUFFIX,360autodesk.com,Global
-HOST-SUFFIX,360nexus.com,Global
-HOST-SUFFIX,360nexus.net,Global
-HOST-SUFFIX,360plm.com,Global
-HOST-SUFFIX,360trailers.com,Global
-HOST-SUFFIX,365buymy.com,Global
-HOST-SUFFIX,36717.info,Global
-HOST-SUFFIX,3789av.com,Global
-HOST-SUFFIX,39group.info,Global
-HOST-SUFFIX,3aaa.ac.uk,Global
-HOST-SUFFIX,3animalsextube.com,Global
-HOST-SUFFIX,3arabporn.com,Global
-HOST-SUFFIX,3d-comics.com,Global
-HOST-SUFFIX,3d-december.com,Global
-HOST-SUFFIX,3d-fossils.ac.uk,Global
-HOST-SUFFIX,3d-toon.com,Global
-HOST-SUFFIX,3d-xxx.com,Global
-HOST-SUFFIX,3dadultgames.net,Global
-HOST-SUFFIX,3danimeworld.com,Global
-HOST-SUFFIX,3ddecember.com,Global
-HOST-SUFFIX,3december.com,Global
-HOST-SUFFIX,3decemberonline.com,Global
-HOST-SUFFIX,3devilattack.net,Global
-HOST-SUFFIX,3dfuckhouse.com,Global
-HOST-SUFFIX,3dhentai.tv,Global
-HOST-SUFFIX,3dhentaix.com,Global
-HOST-SUFFIX,3drules.com,Global
-HOST-SUFFIX,3dsexgames.biz,Global
-HOST-SUFFIX,3dsexmovies.biz,Global
-HOST-SUFFIX,3dsexplay.xyz,Global
-HOST-SUFFIX,3dsexvilla.com,Global
-HOST-SUFFIX,3dsexy.net,Global
-HOST-SUFFIX,3dstudio.com,Global
-HOST-SUFFIX,3dtin.com,Global
-HOST-SUFFIX,3dtin.net,Global
-HOST-SUFFIX,3go.fun,Global
-HOST-SUFFIX,3hentai.net,Global
-HOST-SUFFIX,3lib.net,Global
-HOST-SUFFIX,3movs.com,Global
-HOST-SUFFIX,3movs.xyz,Global
-HOST-SUFFIX,3naked.com,Global
-HOST-SUFFIX,3pornhere.com,Global
-HOST-SUFFIX,3pornstarmovies.com,Global
-HOST-SUFFIX,3sixty-ucc.ac.uk,Global
-HOST-SUFFIX,3xplanet.com,Global
-HOST-SUFFIX,3xplanet.net,Global
-HOST-SUFFIX,3xplanetimg.com,Global
-HOST-SUFFIX,3xxx.pro,Global
-HOST-SUFFIX,40momporntube.com,Global
-HOST-SUFFIX,40shopping.com,Global
-HOST-SUFFIX,40somethingmag.com,Global
-HOST-SUFFIX,41maonn.com,Global
-HOST-SUFFIX,444.coffee,Global
-HOST-SUFFIX,445gei.com,Global
-HOST-SUFFIX,445jun.com,Global
-HOST-SUFFIX,445nan.com,Global
-HOST-SUFFIX,44yu.cc,Global
-HOST-SUFFIX,4550.fun,Global
-HOST-SUFFIX,45porn.com,Global
-HOST-SUFFIX,47gyosei.jp,Global
-HOST-SUFFIX,47news.jp,Global
-HOST-SUFFIX,4beatsbydre.com,Global
-HOST-SUFFIX,4cdn.org,Global
-HOST-SUFFIX,4chan.org,Global
-HOST-SUFFIX,4channel.org,Global
-HOST-SUFFIX,4club.com,Global
-HOST-SUFFIX,4ebaytraders.com,Global
-HOST-SUFFIX,4ertik.live,Global
-HOST-SUFFIX,4ertik.one,Global
-HOST-SUFFIX,4everland.io,Global
-HOST-SUFFIX,4everoutside.com,Global
-HOST-SUFFIX,4f1v1.top,Global
-HOST-SUFFIX,4gls.ac.uk,Global
-HOST-SUFFIX,4greedy.com,Global
-HOST-SUFFIX,4gtv.tv,Global
-HOST-SUFFIX,4hu.one,Global
-HOST-SUFFIX,4hu.tv,Global
-HOST-SUFFIX,4kporn.xxx,Global
-HOST-SUFFIX,4ksex.me,Global
-HOST-SUFFIX,4kup.net,Global
-HOST-SUFFIX,4myminicard.com,Global
-HOST-SUFFIX,4pcdn.org,Global
-HOST-SUFFIX,4pig.com,Global
-HOST-SUFFIX,4plebs.org,Global
-HOST-SUFFIX,4porn.com,Global
-HOST-SUFFIX,4porn4.com,Global
-HOST-SUFFIX,4tube.com,Global
-HOST-SUFFIX,4tubefree.net,Global
-HOST-SUFFIX,4u4c.com,Global
-HOST-SUFFIX,5-d.com,Global
-HOST-SUFFIX,500caocao.com,Global
-HOST-SUFFIX,50dh.app,Global
-HOST-SUFFIX,50plusmilfs.com,Global
-HOST-SUFFIX,51cg1.com,Global
-HOST-SUFFIX,51dh.site,Global
-HOST-SUFFIX,51luoli.info,Global
-HOST-SUFFIX,51mh.app,Global
-HOST-SUFFIX,51pincha.cc,Global
-HOST-SUFFIX,51tuqiang.com,Global
-HOST-SUFFIX,520aa.tv,Global
-HOST-SUFFIX,520avtv.com,Global
-HOST-SUFFIX,520cc.cc,Global
-HOST-SUFFIX,5238.me,Global
-HOST-SUFFIX,52av.be,Global
-HOST-SUFFIX,52av.com,Global
-HOST-SUFFIX,52av.one,Global
-HOST-SUFFIX,52fuliji.cc,Global
-HOST-SUFFIX,52hyse.com,Global
-HOST-SUFFIX,52kmz.com,Global
-HOST-SUFFIX,531tr.com,Global
-HOST-SUFFIX,53world.com,Global
-HOST-SUFFIX,53worldsweeps.com,Global
-HOST-SUFFIX,54647.global,Global
-HOST-SUFFIX,54647.io,Global
-HOST-SUFFIX,54647.online,Global
-HOST-SUFFIX,54647.org,Global
-HOST-SUFFIX,55dndn.com,Global
-HOST-SUFFIX,567321.online,Global
-HOST-SUFFIX,568xe.com,Global
-HOST-SUFFIX,58avgo.com,Global
-HOST-SUFFIX,592r.com,Global
-HOST-SUFFIX,59mvmv.com,Global
-HOST-SUFFIX,5axis-machining.com,Global
-HOST-SUFFIX,5beatsbydre.com,Global
-HOST-SUFFIX,5ch.net,Global
-HOST-SUFFIX,5fang.cc,Global
-HOST-SUFFIX,5itv.tv,Global
-HOST-SUFFIX,5lml.com,Global
-HOST-SUFFIX,5mb48g.com,Global
-HOST-SUFFIX,5mo.fun,Global
-HOST-SUFFIX,5q5zu9f1.me,Global
-HOST-SUFFIX,5w.ag,Global
-HOST-SUFFIX,5xsq.com,Global
-HOST-SUFFIX,6-ar.com,Global
-HOS
+HOST-SUFFIX,360nexus.com,Glo

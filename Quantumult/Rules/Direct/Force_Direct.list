@@ -138,6 +138,8 @@ HOST-SUFFIX,jsdelivr.net,Force_Direct
 HOST-SUFFIX,gh.llkk.cc,Force_Direct
 
 # Personal
+HOST-SUFFIX,cloudfront.net,Force_Direct
+HOST-SUFFIX,engage.cloudflareclient.com,Force_Direct
 HOST-SUFFIX,leefurmore.link,Force_Direct
 
 # Others

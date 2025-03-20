@@ -138,6 +138,8 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,gh.llkk.cc
 
 # Personal
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,engage.cloudflareclient.com
 DOMAIN-SUFFIX,leefurmore.link
 
 # Others
