@@ -26,9 +26,6 @@ HOST-SUFFIX,connectivitycheck.gstatic.com,Special
 HOST-SUFFIX,captive.apple.com,Special
 HOST-SUFFIX,cp.cloudflare.com,Special
 
-# Github
-HOST-SUFFIX,raw.githubusercontent.com,Special
-
 # T-Mobile
 HOST-SUFFIX,config.rcs.mnc240.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,config.rcs.mnc260.mcc310.pub.3gppnetwork.org,Special
@@ -46,7 +43,6 @@ HOST-SUFFIX,3gppnetwork.org,Special
 IP-ASN,21928,Special
 
 # MooMoo
-HOST-KEYWORD,moomoo,Special
 HOST-SUFFIX,moomoo.com,Special
 HOST-SUFFIX,moomooequity.com,Special
 HOST-SUFFIX,moomootrustee.com,Special
@@ -57,8 +53,6 @@ HOST-SUFFIX,xiaoyahost.com,Special
 HOST-SUFFIX,ddsrem.com,Special
 
 # Rule-Supplement
-HOST-KEYWORD,adspower,Special
-HOST-KEYWORD,browserleaks,Special
 HOST-SUFFIX,istoreos.com,Special
 HOST-SUFFIX,51zmt.top,Special
 HOST-SUFFIX,aptv.app,Special
@@ -73,85 +67,3 @@ HOST-SUFFIX,geolocation.onetrust.com,Special
 HOST-SUFFIX,execute-api.us-west-2.amazonaws.com,Special
 HOST-SUFFIX,split.io,Special
 HOST-SUFFIX,fofa.info,Special
-
-# IPTV
-IP-CIDR,1.222.207.80/32,Special
-IP-CIDR,1.245.74.5/32,Special
-IP-CIDR,119.200.131.11/32,Special
-IP-CIDR,119.77.96.184/32,Special
-IP-CIDR,123.140.197.22/32,Special
-IP-CIDR,123.254.72.24/32,Special
-IP-CIDR,157.245.196.186/32,Special
-IP-CIDR,183.110.27.87/32,Special
-IP-CIDR,202.60.106.14/32,Special
-IP-CIDR,203.251.91.122/32,Special
-IP-CIDR,210.210.155.37/32,Special
-IP-CIDR,211.33.246.4/32,Special
-IP-CIDR,59.23.231.102/32,Special
-IP-CIDR,61.82.49.4/32,Special
-IP-CIDR,61.85.197.53/32,Special
-HOST-SUFFIX,amdlive-ch01.ctnd.com.edgesuite.net,Special
-HOST-SUFFIX,andong.webcasting.co.kr,Special
-HOST-SUFFIX,bbstv.clouducs.com,Special
-HOST-SUFFIX,bloomberg.com,Special
-HOST-SUFFIX,broadcast.tvchosun.com,Special
-HOST-SUFFIX,btn.nowcdn.co.kr,Special
-HOST-SUFFIX,cdn-01.bonus-tv.ru,Special
-HOST-SUFFIX,cdn3.wowza.com,Special
-HOST-SUFFIX,cdn4.skygo.mn,Special
-HOST-SUFFIX,cdnlive179.smartucc.kr,Special
-HOST-SUFFIX,cdntv.tbs.seoul.kr,Special
-HOST-SUFFIX,cgntvliveweb-998.acs.wecandeo.com,Special
-HOST-SUFFIX,channelalive.ktcdn.co.kr,Special
-HOST-SUFFIX,d26sxnc75smwvh.cloudfront.net,Special
-HOST-SUFFIX,d34t5yjz1ooymj.cloudfront.net,Special
-HOST-SUFFIX,dtvstreaming.hyundaihmall.com,Special
-HOST-SUFFIX,ebsonair.ebs.co.kr,Special
-HOST-SUFFIX,etv.publichs.com,Special
-HOST-SUFFIX,fgtvlive.fgtv.com,Special
-HOST-SUFFIX,fhs8036.bd-61.ktcdn.co.kr,Special
-HOST-SUFFIX,gstv-gsshop.gsshop.com,Special
-HOST-SUFFIX,gstv-myshop.gsshop.com,Special
-HOST-SUFFIX,hlive.ktv.go.kr,Special
-HOST-SUFFIX,m-mbcnetlive.imbc.com,Special
-HOST-SUFFIX,jcnonair-1108.acs.wecandeo.com,Special
-HOST-SUFFIX,kbs.co.kr,Special
-HOST-SUFFIX,kbs-dokdo.gscdn.com,Special
-HOST-SUFFIX,kmtvnow-samsung-us.plex.wurl.tv,Special
-HOST-SUFFIX,live-ch1.cjonstyle.net,Special
-HOST-SUFFIX,live-ch2.cjonstyle.net,Special
-HOST-SUFFIX,live.knou.ac.kr,Special
-HOST-SUFFIX,live.kytv.co.kr,Special
-HOST-SUFFIX,live.shoppingntmall.com,Special
-HOST-SUFFIX,live.worktv.or.kr,Special
-HOST-SUFFIX,livejj.hyundaihmall.com,Special
-HOST-SUFFIX,liveout.catenoid.net,Special
-HOST-SUFFIX,livestream.nsmall.com,Special
-HOST-SUFFIX,media.joycorp.co.kr,Special
-HOST-SUFFIX,media.kjmbc.co.kr,Special
-HOST-SUFFIX,mediaworks.dema.mil.kr,Special
-HOST-SUFFIX,mgugaklive.nowcdn.co.kr,Special
-HOST-SUFFIX,mobliestream.c3tv.com,Special
-HOST-SUFFIX,mytv.dothome.co.kr,Special
-HOST-SUFFIX,nonghyup.flive.skcdn.com,Special
-HOST-SUFFIX,ns1.tjmbc.co.kr,Special
-HOST-SUFFIX,onair.cdn.tvchosun.com,Special
-HOST-SUFFIX,onair2.cdn.tvchosun.com,Special
-HOST-SUFFIX,ott.tv5monde.com,Special
-HOST-SUFFIX,pchlslivesw.lotteimall.com,Special
-HOST-SUFFIX,player.smotrim.ru,Special
-HOST-SUFFIX,rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com,Special
-HOST-SUFFIX,rtvelivestream.akamaized.net,Special
-HOST-SUFFIX,s28.qtcdn.co.kr,Special
-HOST-SUFFIX,shoppstream.nsmall.com,Special
-HOST-SUFFIX,stream.bsmbc.com,Special
-HOST-SUFFIX,stream.chmbc.co.kr,Special
-HOST-SUFFIX,stream1.knn.co.kr,Special
-HOST-SUFFIX,streamlock.net,Special
-HOST-SUFFIX,tv.nknews.org,Special
-HOST-SUFFIX,vod.mpmbc.co.kr,Special
-HOST-SUFFIX,vod.obs.co.kr,Special
-HOST-SUFFIX,vod2.abn.co.kr,Special
-HOST-SUFFIX,wowza.jejumbc.com,Special
-HOST-SUFFIX,ythls.armelin.one,Special
-HOST-SUFFIX,zindisorani.zaroktv.com.tr,Special
