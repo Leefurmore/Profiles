@@ -42,6 +42,13 @@ HOST-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,3gppnetwork.org,Special
 IP-ASN,21928,Special
 
+# Privacy
+HOST-SUFFIX,leefurmore.link,Special
+HOST-SUFFIX,ghproxy.com,Special
+HOST-SUFFIX,gh-proxy.com,Special
+HOST-SUFFIX,jsdelivr.net,Special
+HOST-SUFFIX,gh.llkk.cc,Special
+
 # Docker
 HOST-SUFFIX,xiaoya.pro,Special
 HOST-SUFFIX,xiaoyahost.com,Special

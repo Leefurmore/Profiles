@@ -42,6 +42,13 @@ DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,3gppnetwork.org
 IP-ASN,21928
 
+# Privacy
+DOMAIN-SUFFIX,leefurmore.link
+DOMAIN-SUFFIX,ghproxy.com
+DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,gh.llkk.cc
+
 # Docker
 DOMAIN-SUFFIX,xiaoya.pro
 DOMAIN-SUFFIX,xiaoyahost.com
