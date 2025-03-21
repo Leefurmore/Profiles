@@ -133,15 +133,18 @@ payload:
   - DOMAIN-SUFFIX,ns.itunes-apple.com.akadns.net
 
 # Github Mirror
+  - DOMAIN-SUFFIX,ghproxy.cc
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,gh.llkk.cc
+  - DOMAIN-SUFFIX,slink.ltd
+  - DOMAIN-SUFFIX,gitdl.cn
 
 # Personal
+  - DOMAIN-SUFFIX,leefurmore.link
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,engage.cloudflareclient.com
-  - DOMAIN-SUFFIX,leefurmore.link
 
 # Others
   - DOMAIN-SUFFIX,immortalwrt.org

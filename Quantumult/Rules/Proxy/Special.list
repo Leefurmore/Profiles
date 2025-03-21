@@ -44,10 +44,13 @@ IP-ASN,21928,Special
 
 # Privacy
 HOST-SUFFIX,leefurmore.link,Special
+HOST-SUFFIX,ghproxy.cc,Special
 HOST-SUFFIX,ghproxy.com,Special
 HOST-SUFFIX,gh-proxy.com,Special
 HOST-SUFFIX,jsdelivr.net,Special
 HOST-SUFFIX,gh.llkk.cc,Special
+HOST-SUFFIX,slink.ltd,Special
+HOST-SUFFIX,gitdl.cn,Special
 
 # Docker
 HOST-SUFFIX,xiaoya.pro,Special
