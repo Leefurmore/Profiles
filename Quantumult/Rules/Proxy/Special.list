@@ -42,28 +42,21 @@ HOST-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,3gppnetwork.org,Special
 IP-ASN,21928,Special
 
-# MooMoo
-HOST-SUFFIX,moomoo.com,Special
-HOST-SUFFIX,moomooequity.com,Special
-HOST-SUFFIX,moomootrustee.com,Special
-
 # Docker
 HOST-SUFFIX,xiaoya.pro,Special
 HOST-SUFFIX,xiaoyahost.com,Special
 HOST-SUFFIX,ddsrem.com,Special
 
 # Rule-Supplement
-HOST-SUFFIX,istoreos.com,Special
 HOST-SUFFIX,51zmt.top,Special
 HOST-SUFFIX,aptv.app,Special
-HOST-SUFFIX,autoverify.pythonanywhere.com,Special
 HOST-SUFFIX,cleanmymac.com,Special
 HOST-SUFFIX,darkreader.org,Special
 HOST-SUFFIX,delldisplaymanagerwindows.com,Special
 HOST-SUFFIX,immersivetranslate.com,Special
 HOST-SUFFIX,macbartender.com,Special
 HOST-SUFFIX,pastenow.app,Special
-HOST-SUFFIX,geolocation.onetrust.com,Special
-HOST-SUFFIX,execute-api.us-west-2.amazonaws.com,Special
-HOST-SUFFIX,split.io,Special
 HOST-SUFFIX,fofa.info,Special
+HOST-SUFFIX,moomoo.com,Special
+HOST-SUFFIX,moomooequity.com,Special
+HOST-SUFFIX,moomootrustee.com,Special
