@@ -148,6 +148,7 @@ payload:
   - DOMAIN-SUFFIX,openwrt.ai
   - DOMAIN-SUFFIX,dyndns.com
   - DOMAIN-SUFFIX,ugreengroup.com
+  - DOMAIN-SUFFIX,istoreos.com
   - DOMAIN-SUFFIX,discovery-v4.syncthing.net
   - DOMAIN-SUFFIX,discovery-v6.syncthing.net
   - DOMAIN-SUFFIX,shuhua.com
