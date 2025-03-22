@@ -50,6 +50,13 @@ IP6-CIDR,ff00::/8,Force_Direct
 HOST-SUFFIX,dns.alidns.com,Force_Direct
 HOST-SUFFIX,dns.pub,Force_Direct
 
+# CN Site
+HOST-SUFFIX,com.cn,Force_Direct
+HOST-SUFFIX,net.cn,Force_Direct
+HOST-SUFFIX,gov.cn,Force_Direct
+HOST-SUFFIX,org.cn,Force_Direct
+HOST-SUFFIX,edu.cn,Force_Direct
+
 # BT
 HOST-SUFFIX,awesome-hd.me,Force_Direct
 HOST-SUFFIX,broadcasthe.net,Force_Direct
@@ -112,7 +119,6 @@ HOST-SUFFIX,time-ios.apple.com,Force_Direct
 HOST-SUFFIX,time.g.aaplimg.com,Force_Direct
 
 # Apple Software Update
-HOST-SUFFIX,apple.com.cn,Force_Direct
 HOST-SUFFIX,updates.cdn-apple.com,Force_Direct
 HOST-SUFFIX,updates.cdn-apple.com.akadns.net,Force_Direct
 HOST-SUFFIX,updates.g.aaplimg.com,Force_Direct

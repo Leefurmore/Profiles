@@ -51,6 +51,13 @@ payload:
   - DOMAIN-SUFFIX,dns.alidns.com
   - DOMAIN-SUFFIX,dns.pub
 
+# CN Site
+  - DOMAIN-SUFFIX,com.cn
+  - DOMAIN-SUFFIX,net.cn
+  - DOMAIN-SUFFIX,gov.cn
+  - DOMAIN-SUFFIX,org.cn
+  - DOMAIN-SUFFIX,edu.cn
+
 # BT
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,broadcasthe.net
@@ -113,7 +120,6 @@ payload:
   - DOMAIN-SUFFIX,time.g.aaplimg.com
 
 # Apple Software Update
-  - DOMAIN-SUFFIX,apple.com.cn
   - DOMAIN-SUFFIX,updates.cdn-apple.com
   - DOMAIN-SUFFIX,updates.cdn-apple.com.akadns.net
   - DOMAIN-SUFFIX,updates.g.aaplimg.com
