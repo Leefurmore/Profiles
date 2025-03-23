@@ -74,4 +74,6 @@ payload:
   - DOMAIN-SUFFIX,acsbapp.com
   - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,onetrust.io
+  - DOMAIN-SUFFIX,api.aws
+  - DOMAIN-SUFFIX,aws.dev
   - DOMAIN-SUFFIX,amazonaws.com
