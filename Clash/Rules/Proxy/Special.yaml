@@ -71,3 +71,5 @@ payload:
   - DOMAIN-SUFFIX,moomoo.com
   - DOMAIN-SUFFIX,moomooequity.com
   - DOMAIN-SUFFIX,moomootrustee.com
+  - DOMAIN-SUFFIX,onetrust.com
+  - DOMAIN-SUFFIX,amazonaws.com
