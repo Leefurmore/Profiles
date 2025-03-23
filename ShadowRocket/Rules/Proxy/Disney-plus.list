@@ -1,9 +1,8 @@
 # Disney-Plus
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,go-mpulse.net
-DOMAIN-SUFFIX,optimizely.com
-DOMAIN-SUFFIX,joinhoney.com
 DOMAIN-SUFFIX,api.trafficguard.ai
-DOMAIN-SUFFIX,tgtag.io
-DOMAIN-SUFFIX,techlab-cdn.com
+DOMAIN-SUFFIX,assets.adobedtm.com
+DOMAIN-SUFFIX,go-mpulse.net
+DOMAIN-SUFFIX,joinhoney.com
 DOMAIN-SUFFIX,mobile-data.onetrust.io
+DOMAIN-SUFFIX,techlab-cdn.com
+DOMAIN-SUFFIX,tgtag.io
