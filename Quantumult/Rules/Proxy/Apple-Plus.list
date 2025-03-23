@@ -1,12 +1,3 @@
 # Apple-Plus
-HOST-SUFFIX,itunes.apple.com,Apple-Plus
-HOST-SUFFIX,videos.apple.com,Apple-Plus
-HOST-SUFFIX,certs.apple.com,Apple-Plus
-HOST-SUFFIX,ess.apple.com,Apple-Plus
-HOST-SUFFIX,gs-loc.apple.com,Apple-Plus
-HOST-SUFFIX,ls.apple.com,Apple-Plus
-HOST-SUFFIX,smoot.apple.com,Apple-Plus
-HOST-SUFFIX,smp-device-content.apple.com,Apple-Plus
-HOST-SUFFIX,sps-media.apple.com,Apple-Plus
-HOST-SUFFIX,valid.apple.com,Apple-Plus
+HOST-SUFFIX,apple.com,Apple-Plus
 HOST-SUFFIX,mzstatic.com,Apple-Plus
