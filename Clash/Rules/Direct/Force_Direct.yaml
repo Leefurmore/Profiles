@@ -52,11 +52,12 @@ payload:
   - DOMAIN-SUFFIX,dns.pub
 
 # CN Site
-  - DOMAIN-SUFFIX,com.cn
-  - DOMAIN-SUFFIX,net.cn
-  - DOMAIN-SUFFIX,gov.cn
-  - DOMAIN-SUFFIX,org.cn
-  - DOMAIN-SUFFIX,edu.cn
+  - DOMAIN-SUFFIX,cn
+  - DOMAIN-SUFFIX,cn.com
+  - DOMAIN-SUFFIX,cn.net
+  - DOMAIN-SUFFIX,cn.gov
+  - DOMAIN-SUFFIX,cn.org
+  - DOMAIN-SUFFIX,cn.edu
 
 # BT
   - DOMAIN-SUFFIX,awesome-hd.me
