@@ -1,4 +1,5 @@
 # Apple-Plus
 payload:
   - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,mzstatic.com
