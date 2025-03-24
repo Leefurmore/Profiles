@@ -51,11 +51,12 @@ HOST-SUFFIX,dns.alidns.com,Force_Direct
 HOST-SUFFIX,dns.pub,Force_Direct
 
 # CN Site
-HOST-SUFFIX,com.cn,Force_Direct
-HOST-SUFFIX,net.cn,Force_Direct
-HOST-SUFFIX,gov.cn,Force_Direct
-HOST-SUFFIX,org.cn,Force_Direct
-HOST-SUFFIX,edu.cn,Force_Direct
+HOST-SUFFIX,cn,Force_Direct
+HOST-SUFFIX,cn.com,Force_Direct
+HOST-SUFFIX,cn.net,Force_Direct
+HOST-SUFFIX,cn.gov,Force_Direct
+HOST-SUFFIX,cn.org,Force_Direct
+HOST-SUFFIX,cn.edu,Force_Direct
 
 # BT
 HOST-SUFFIX,awesome-hd.me,Force_Direct
