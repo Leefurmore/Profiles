@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,dns.pub
 
 # CN Site
+DOMAIN-KEYWORD,china
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,cn.com
 DOMAIN-SUFFIX,cn.net

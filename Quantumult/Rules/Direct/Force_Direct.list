@@ -51,6 +51,7 @@ HOST-SUFFIX,dns.alidns.com,Force_Direct
 HOST-SUFFIX,dns.pub,Force_Direct
 
 # CN Site
+HOST-KEYWORD,china,Force_Direct
 HOST-SUFFIX,cn,Force_Direct
 HOST-SUFFIX,cn.com,Force_Direct
 HOST-SUFFIX,cn.net,Force_Direct
