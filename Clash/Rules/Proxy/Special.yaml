@@ -77,6 +77,3 @@ payload:
   - DOMAIN-SUFFIX,aws.dev
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,split.io
-  - DOMAIN-SUFFIX,onetrust.io
-  - DOMAIN-SUFFIX,onetrust.com
-  - DOMAIN-SUFFIX,cookielaw.org
