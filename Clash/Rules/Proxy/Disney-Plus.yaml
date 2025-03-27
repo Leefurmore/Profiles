@@ -1,7 +1,5 @@
 # Disney-Plus
 payload:
-  - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,onetrust.io
+  - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,cookielaw.org
-  - DOMAIN-SUFFIX,api.trafficguard.ai
-  - DOMAIN-SUFFIX,tgtag.io
