@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-25 02:13:26
+# UPDATED: 2025-03-27 02:13:40
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31129
+# DOMAIN-SUFFIX: 31130
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31379
+# TOTAL: 31380
 payload:
   - 'adobeereg.com'
   - 'angle.com.tw'
@@ -309,6 +309,7 @@ payload:
   - '+.2kgames.com'
   - '+.2lib.org'
   - '+.2mdn-cn.net'
+  - '+.2mdn.net'
   - '+.30plusgirls.com'
   - '+.35s4.com'
   - '+.360autodesk.com'
@@ -1631,6 +1632,7 @@ payload:
   - '+.apornotube.net'
   - '+.aporntv.com'
   - '+.apornvideo.com'
+  - '+.app-analytics-services.com'
   - '+.app-dynamics.com'
   - '+.app-measurement-cn.com'
   - '+.app-store.wang'
@@ -25053,7 +25055,6 @@ payload:
   - '+.24smile.org'
   - '+.25u.com'
   - '+.2lipstube.com'
-  - '+.2mdn.net'
   - '+.2shared.com'
   - '+.2waky.com'
   - '+.3-a.net'
