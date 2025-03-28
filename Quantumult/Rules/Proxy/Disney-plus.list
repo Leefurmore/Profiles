@@ -1,4 +1,5 @@
 # Disney-Plus
-HOST-SUFFIX,onetrust.io,Disney-Plus
-HOST-SUFFIX,onetrust.com,Disney-Plus
-HOST-SUFFIX,cookielaw.org,Disney-Plus
+HOST-SUFFIX,mobile-data.onetrust.io,Disney-Plus
+HOST-SUFFIX,geolocation.onetrust.com,Disney-Plus
+HOST-SUFFIX,privacyportal.onetrust.com,Disney-Plus
+HOST-SUFFIX,cdn.cookielaw.org,Disney-Plus

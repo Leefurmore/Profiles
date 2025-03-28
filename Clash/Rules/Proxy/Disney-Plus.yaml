@@ -2,4 +2,5 @@
 payload:
   - DOMAIN-SUFFIX,mobile-data.onetrust.io
   - DOMAIN-SUFFIX,geolocation.onetrust.com
+  - DOMAIN-SUFFIX,privacyportal.onetrust.com
   - DOMAIN-SUFFIX,cdn.cookielaw.org
