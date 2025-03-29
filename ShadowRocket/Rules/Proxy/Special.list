@@ -76,3 +76,4 @@ DOMAIN-SUFFIX,api.aws
 DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,split.io
+DOMAIN-SUFFIX,home-assistant.io
