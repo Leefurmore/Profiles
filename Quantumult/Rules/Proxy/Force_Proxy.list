@@ -1,0 +1,18 @@
+# Force_Proxy
+# Privacy
+HOST-SUFFIX,leefurmore.link,Force_Proxy
+HOST-SUFFIX,ghproxy.cc,Force_Proxy
+HOST-SUFFIX,ghproxy.com,Force_Proxy
+HOST-SUFFIX,gh-proxy.com,Force_Proxy
+HOST-SUFFIX,jsdelivr.net,Force_Proxy
+HOST-SUFFIX,gh.llkk.cc,Force_Proxy
+HOST-SUFFIX,slink.ltd,Force_Proxy
+HOST-SUFFIX,gitdl.cn,Force_Proxy
+
+# Docker
+HOST-SUFFIX,xiaoya.pro,Force_Proxy
+HOST-SUFFIX,xiaoyahost.com,Force_Proxy
+HOST-SUFFIX,ddsrem.com,Force_Proxy
+
+# Rule-Supplement
+HOST-SUFFIX,raw.githubusercontent.com,Force_Proxy

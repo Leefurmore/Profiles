@@ -43,21 +43,6 @@ payload:
   - DOMAIN-SUFFIX,3gppnetwork.org
   - IP-ASN,21928
 
-# Privacy
-  - DOMAIN-SUFFIX,leefurmore.link
-  - DOMAIN-SUFFIX,ghproxy.cc
-  - DOMAIN-SUFFIX,ghproxy.com
-  - DOMAIN-SUFFIX,gh-proxy.com
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,gh.llkk.cc
-  - DOMAIN-SUFFIX,slink.ltd
-  - DOMAIN-SUFFIX,gitdl.cn
-
-# Docker
-  - DOMAIN-SUFFIX,xiaoya.pro
-  - DOMAIN-SUFFIX,xiaoyahost.com
-  - DOMAIN-SUFFIX,ddsrem.com
-
 # Rule-Supplement
   - DOMAIN-SUFFIX,51zmt.top
   - DOMAIN-SUFFIX,aptv.app
