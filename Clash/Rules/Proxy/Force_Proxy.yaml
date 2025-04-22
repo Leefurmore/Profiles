@@ -16,4 +16,4 @@ payload:
   - DOMAIN-SUFFIX,ddsrem.com
 
 # Rule-Supplement
-  - DOMAIN-SUFFIX,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,githubusercontent.com
