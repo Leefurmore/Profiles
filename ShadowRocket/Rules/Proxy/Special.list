@@ -20,12 +20,6 @@ IP-CIDR,2a10:50c0::1:ff/32
 IP-CIDR,2a10:50c0::2:ff/32
 DOMAIN-SUFFIX,adguard-dns.com
 
-# Connectivity
-DOMAIN-SUFFIX,www.gstatic.com
-DOMAIN-SUFFIX,connectivitycheck.gstatic.com
-DOMAIN-SUFFIX,captive.apple.com
-DOMAIN-SUFFIX,cp.cloudflare.com
-
 # T-Mobile
 DOMAIN-SUFFIX,config.rcs.mnc240.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,config.rcs.mnc260.mcc310.pub.3gppnetwork.org

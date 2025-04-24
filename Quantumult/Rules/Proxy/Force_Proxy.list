@@ -1,13 +1,9 @@
 # Force_Proxy
-# Privacy
-HOST-SUFFIX,leefurmore.link,Force_Proxy
-HOST-SUFFIX,ghproxy.cc,Force_Proxy
-HOST-SUFFIX,ghproxy.com,Force_Proxy
-HOST-SUFFIX,gh-proxy.com,Force_Proxy
-HOST-SUFFIX,jsdelivr.net,Force_Proxy
-HOST-SUFFIX,gh.llkk.cc,Force_Proxy
-HOST-SUFFIX,slink.ltd,Force_Proxy
-HOST-SUFFIX,gitdl.cn,Force_Proxy
+# Connectivity
+HOST-SUFFIX,www.gstatic.com,Force_Proxy
+HOST-SUFFIX,connectivitycheck.gstatic.com,Force_Proxy
+HOST-SUFFIX,captive.apple.com,Force_Proxy
+HOST-SUFFIX,cp.cloudflare.com,Force_Proxy
 
 # Docker
 HOST-SUFFIX,xiaoya.pro,Force_Proxy

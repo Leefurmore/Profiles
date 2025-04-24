@@ -20,12 +20,6 @@ IP6-CIDR,2a10:50c0::1:ff/32,Special
 IP6-CIDR,2a10:50c0::2:ff/32,Special
 HOST-SUFFIX,adguard-dns.com,Special
 
-# Connectivity
-HOST-SUFFIX,www.gstatic.com,Special
-HOST-SUFFIX,connectivitycheck.gstatic.com,Special
-HOST-SUFFIX,captive.apple.com,Special
-HOST-SUFFIX,cp.cloudflare.com,Special
-
 # T-Mobile
 HOST-SUFFIX,config.rcs.mnc240.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,config.rcs.mnc260.mcc310.pub.3gppnetwork.org,Special
