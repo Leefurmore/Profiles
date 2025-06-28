@@ -57,3 +57,4 @@ payload:
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,split.io
   - DOMAIN-SUFFIX,home-assistant.io
+  - DOMAIN-SUFFIX,haitunt.org
