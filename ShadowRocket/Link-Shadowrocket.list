@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shado
 # Force Proxy
 @Part2=/Users/Leefurmore/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Profiles/ShadowRocket/Rules/Proxy
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Speedtest/Speedtest.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Sony/Sony.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/PlayStation/PlayStation.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Nintendo/Nintendo.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleID/AppleID.list
