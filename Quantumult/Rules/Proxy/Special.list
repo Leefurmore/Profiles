@@ -34,6 +34,7 @@ HOST-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,mnc240.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org,Special
 HOST-SUFFIX,3gppnetwork.org,Special
+HOST-SUFFIX,t-mobile.com,Special
 IP-ASN,21928,Special
 
 # Rule-Supplement
@@ -59,3 +60,5 @@ HOST-SUFFIX,home-assistant.io,Special
 HOST-SUFFIX,netdata.cloud,Special
 HOST-SUFFIX,my-netdata.io,Special
 HOST-SUFFIX,netdata-news.cdn.prismic.io,Special
+HOST-SUFFIX,quantumult.app,Special
+HOST-SUFFIX,quantummetric.com,Special
