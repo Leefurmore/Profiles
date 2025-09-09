@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc240.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,3gppnetwork.org
+DOMAIN-SUFFIX,t-mobile.com
 IP-ASN,21928
 
 # Rule-Supplement
@@ -59,3 +60,5 @@ DOMAIN-SUFFIX,home-assistant.io
 DOMAIN-SUFFIX,netdata.cloud
 DOMAIN-SUFFIX,my-netdata.io
 DOMAIN-SUFFIX,netdata-news.cdn.prismic.io
+DOMAIN-SUFFIX,quantumult.app
+DOMAIN-SUFFIX,quantummetric.com
