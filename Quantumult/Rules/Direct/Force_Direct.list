@@ -149,7 +149,12 @@ HOST-SUFFIX,slink.ltd,Force_Direct
 HOST-SUFFIX,gitdl.cn,Force_Direct
 
 # Personal
-HOST-SUFFIX,leefurmore.link,Force_Direct
+HOST-SUFFIX,alist.leefurmore.com,Force_Direct
+HOST-SUFFIX,alist-v6.leefurmore.com,Force_Direct
+HOST-SUFFIX,nas.leefurmore.com,Force_Direct
+HOST-SUFFIX,nas-v6.leefurmore.com,Force_Direct
+HOST-SUFFIX,wgn.leefurmore.com,Force_Direct
+HOST-SUFFIX,wgn-v6.leefurmore.com,Force_Direct
 HOST-SUFFIX,cloudfront.net,Force_Direct
 HOST-SUFFIX,engage.cloudflareclient.com,Force_Direct
 
