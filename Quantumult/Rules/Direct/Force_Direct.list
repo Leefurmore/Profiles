@@ -155,6 +155,8 @@ HOST-SUFFIX,nas.leefurmore.com,Force_Direct
 HOST-SUFFIX,nas-v6.leefurmore.com,Force_Direct
 HOST-SUFFIX,wgn.leefurmore.com,Force_Direct
 HOST-SUFFIX,wgn-v6.leefurmore.com,Force_Direct
+HOST-SUFFIX,wgn-r5s.leefurmore.com,Force_Direct
+HOST-SUFFIX,wgn-r5s-v6.leefurmore.com,Force_Direct
 HOST-SUFFIX,cloudfront.net,Force_Direct
 HOST-SUFFIX,engage.cloudflareclient.com,Force_Direct
 

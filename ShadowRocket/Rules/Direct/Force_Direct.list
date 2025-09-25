@@ -155,6 +155,8 @@ DOMAIN-SUFFIX,nas.leefurmore.com
 DOMAIN-SUFFIX,nas-v6.leefurmore.com
 DOMAIN-SUFFIX,wgn.leefurmore.com
 DOMAIN-SUFFIX,wgn-v6.leefurmore.com
+DOMAIN-SUFFIX,wgn-r5s.leefurmore.com
+DOMAIN-SUFFIX,wgn-r5s-v6.leefurmore.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,engage.cloudflareclient.com
 
