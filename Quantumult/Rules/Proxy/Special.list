@@ -38,6 +38,7 @@ HOST-SUFFIX,t-mobile.com,Special
 IP-ASN,21928,Special
 
 # Rule-Supplement
+HOST-SUFFIX,leefurmore.com,Special
 HOST-SUFFIX,51zmt.top,Special
 HOST-SUFFIX,aptv.app,Special
 HOST-SUFFIX,cleanmymac.com,Special

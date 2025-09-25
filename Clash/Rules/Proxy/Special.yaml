@@ -39,6 +39,7 @@ payload:
   - IP-ASN,21928
 
 # Rule-Supplement
+  - DOMAIN-SUFFIX,leefurmore.com
   - DOMAIN-SUFFIX,51zmt.top
   - DOMAIN-SUFFIX,aptv.app
   - DOMAIN-SUFFIX,cleanmymac.com
