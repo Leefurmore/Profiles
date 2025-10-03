@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,3gppnetwork.org
   - DOMAIN-SUFFIX,t-mobile.com
+  - DOMAIN-SUFFIX,tmobile.com
   - IP-ASN,21928
 
 # Rule-Supplement
