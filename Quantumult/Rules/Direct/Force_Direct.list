@@ -151,6 +151,8 @@ HOST-SUFFIX,gitdl.cn,Force_Direct
 # Personal
 HOST-SUFFIX,alist.leefurmore.com,Force_Direct
 HOST-SUFFIX,alist-v6.leefurmore.com,Force_Direct
+HOST-SUFFIX,ha.leefurmore.com,Force_Direct
+HOST-SUFFIX,ha-v6.leefurmore.com,Force_Direct
 HOST-SUFFIX,nas.leefurmore.com,Force_Direct
 HOST-SUFFIX,nas-v6.leefurmore.com,Force_Direct
 HOST-SUFFIX,wgn.leefurmore.com,Force_Direct
