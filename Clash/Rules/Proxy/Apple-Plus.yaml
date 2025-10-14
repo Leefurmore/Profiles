@@ -1,5 +1,8 @@
 # Apple-Plus
 payload:
+  - DOMAIN-KEYWORD,apple-relay
   - DOMAIN-SUFFIX,itunes.apple.com
   - DOMAIN-SUFFIX,music.apple.com
   - DOMAIN-SUFFIX,videos.apple.com
+  - DOMAIN-SUFFIX,gateway.icloud.com
+  - DOMAIN-SUFFIX,mzstatic.com

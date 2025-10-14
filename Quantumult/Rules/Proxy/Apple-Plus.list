@@ -1,4 +1,7 @@
 # Apple-Plus
+HOST-KEYWORD,apple-relay,Apple-Plus
 HOST-SUFFIX,itunes.apple.com,Apple-Plus
 HOST-SUFFIX,music.apple.com,Apple-Plus
 HOST-SUFFIX,videos.apple.com,Apple-Plus
+HOST-SUFFIX,gateway.icloud.com,Apple-Plus
+HOST-SUFFIX,mzstatic.com,Apple-Plus
