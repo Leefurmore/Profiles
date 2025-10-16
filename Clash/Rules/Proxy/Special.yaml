@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,3gppnetwork.org
   - DOMAIN-SUFFIX,t-mobile.com
   - DOMAIN-SUFFIX,tmobile.com
+  - DOMAIN-KEYWORD,tmobile
   - IP-ASN,21928
 
 # Rule-Supplement
@@ -64,3 +65,4 @@ payload:
   - DOMAIN-SUFFIX,quantumult.app
   - DOMAIN-SUFFIX,quantummetric.com
   - DOMAIN-SUFFIX,onetrust.com
+  - IP-CIDR,5.28.195.1/32

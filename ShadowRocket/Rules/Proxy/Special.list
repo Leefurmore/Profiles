@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,3gppnetwork.org
 DOMAIN-SUFFIX,t-mobile.com
 DOMAIN-SUFFIX,tmobile.com
+DOMAIN-KEYWORD,tmobile
 IP-ASN,21928
 
 # Rule-Supplement
@@ -63,3 +64,4 @@ DOMAIN-SUFFIX,netdata-news.cdn.prismic.io
 DOMAIN-SUFFIX,quantumult.app
 DOMAIN-SUFFIX,quantummetric.com
 DOMAIN-SUFFIX,onetrust.com
+IP-CIDR,5.28.195.1/32
