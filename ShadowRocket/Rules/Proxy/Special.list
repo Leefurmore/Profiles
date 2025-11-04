@@ -58,11 +58,9 @@ DOMAIN-SUFFIX,api.aws
 DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,split.io
-DOMAIN-SUFFIX,home-assistant.io
 DOMAIN-SUFFIX,netdata.cloud
 DOMAIN-SUFFIX,my-netdata.io
 DOMAIN-SUFFIX,netdata-news.cdn.prismic.io
 DOMAIN-SUFFIX,quantumult.app
 DOMAIN-SUFFIX,quantummetric.com
 DOMAIN-SUFFIX,onetrust.com
-IP-CIDR,5.28.195.1/32

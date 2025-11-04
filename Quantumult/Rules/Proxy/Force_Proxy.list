@@ -1,4 +1,10 @@
 # Force_Proxy
+# Connectivity
+HOST-SUFFIX,www.gstatic.com,Force_Proxy
+HOST-SUFFIX,connectivitycheck.gstatic.com,Force_Proxy
+HOST-SUFFIX,captive.apple.com,Force_Proxy
+HOST-SUFFIX,cp.cloudflare.com,Force_Proxy
+
 # Docker
 HOST-SUFFIX,xiaoya.pro,Force_Proxy
 HOST-SUFFIX,xiaoyahost.com,Force_Proxy

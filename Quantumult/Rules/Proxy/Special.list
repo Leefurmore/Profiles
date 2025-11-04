@@ -58,11 +58,9 @@ HOST-SUFFIX,api.aws,Special
 HOST-SUFFIX,aws.dev,Special
 HOST-SUFFIX,amazonaws.com,Special
 HOST-SUFFIX,split.io,Special
-HOST-SUFFIX,home-assistant.io,Special
 HOST-SUFFIX,netdata.cloud,Special
 HOST-SUFFIX,my-netdata.io,Special
 HOST-SUFFIX,netdata-news.cdn.prismic.io,Special
 HOST-SUFFIX,quantumult.app,Special
 HOST-SUFFIX,quantummetric.com,Special
 HOST-SUFFIX,onetrust.com,Special
-IP-CIDR,5.28.195.1/32,Special

@@ -1,5 +1,11 @@
 # Force_Proxy
 payload:
+# Connectivity
+  - DOMAIN-SUFFIX,www.gstatic.com
+  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+  - DOMAIN-SUFFIX,captive.apple.com
+  - DOMAIN-SUFFIX,cp.cloudflare.com
+
 # Docker
   - DOMAIN-SUFFIX,xiaoya.pro
   - DOMAIN-SUFFIX,xiaoyahost.com

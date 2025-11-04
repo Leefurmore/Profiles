@@ -168,6 +168,7 @@ HOST-SUFFIX,openwrt.ai,Force_Direct
 HOST-SUFFIX,delldisplaymanagermac.com,Force_Direct
 HOST-SUFFIX,delldisplaymanagerwindows.com,Force_Direct
 HOST-SUFFIX,dyndns.com,Force_Direct
+HOST-SUFFIX,home-assistant.io,Force_Direct
 HOST-SUFFIX,ugreengroup.com,Force_Direct
 HOST-SUFFIX,istoreos.com,Force_Direct
 HOST-SUFFIX,discovery-v4.syncthing.net,Force_Direct
