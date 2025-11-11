@@ -1,14 +1,76 @@
 # Force_Proxy
+# Cloudflare DNS
+IP-CIDR,1.1.1.1/32,Force_Proxy
+IP-CIDR,1.0.0.1/32,Force_Proxy
+IP6-CIDR,2606:4700:4700::1111/32,Force_Proxy
+IP6-CIDR,2606:4700:4700::1001/32,Force_Proxy
+HOST-SUFFIX,cloudflare-dns.com,Force_Proxy
+
+# Google DNS
+IP-CIDR,8.8.8.8/32,Force_Proxy
+IP-CIDR,8.8.4.4/32,Force_Proxy
+IP6-CIDR,2001:4860:4860::8888/32,Force_Proxy
+IP6-CIDR,2001:4860:4860::8844/32,Force_Proxy
+HOST-SUFFIX,dns.google,Force_Proxy
+
+# AdGuard DNS
+IP-CIDR,94.140.14.140/32,Force_Proxy
+IP-CIDR,94.140.14.141/32,Force_Proxy
+IP6-CIDR,2a10:50c0::1:ff/32,Force_Proxy
+IP6-CIDR,2a10:50c0::2:ff/32,Force_Proxy
+HOST-SUFFIX,adguard-dns.com,Force_Proxy
+
 # Connectivity
 HOST-SUFFIX,www.gstatic.com,Force_Proxy
 HOST-SUFFIX,connectivitycheck.gstatic.com,Force_Proxy
 HOST-SUFFIX,captive.apple.com,Force_Proxy
 HOST-SUFFIX,cp.cloudflare.com,Force_Proxy
 
-# Docker
+# T-Mobile
+HOST-SUFFIX,config.rcs.mnc240.mcc310.pub.3gppnetwork.org,Force_Proxy
+HOST-SUFFIX,config.rcs.mnc260.mcc310.pub.3gppnetwork.org,Force_Proxy
+HOST-SUFFIX,ss.epdg.epc.geo.mnc240.mcc310.pub.3gppnetwork.org,Force_Proxy
+HOST-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org,Force_Proxy
+HOST-SUFFIX,epdg.epc.geo.mnc240.mcc310.pub.3gppnetwork.org,Force_Proxy
+HOST-SUFFIX,epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org,Force_Proxy
+HOST-SUFFIX,ss.epdg.epc.mnc240.mcc310.pub.3gppnetwork.org,Force_Proxy
+HOST-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,Force_Proxy
+HOST-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org,Force_Proxy
+HOST-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,Force_Proxy
+HOST-SUFFIX,mnc240.mcc310.pub.3gppnetwork.org,Force_Proxy
+HOST-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org,Force_Proxy
+HOST-SUFFIX,3gppnetwork.org,Force_Proxy
+HOST-SUFFIX,t-mobile.com,Force_Proxy
+HOST-SUFFIX,tmobile.com,Force_Proxy
+HOST-KEYWORD,tmobile,Force_Proxy
+IP-ASN,21928,Force_Proxy
+
+# Rule-Supplement
+HOST-SUFFIX,leefurmore.com,Force_Proxy
+HOST-SUFFIX,51zmt.top,Force_Proxy
+HOST-SUFFIX,aptv.app,Force_Proxy
+HOST-SUFFIX,cleanmymac.com,Force_Proxy
+HOST-SUFFIX,darkreader.org,Force_Proxy
+HOST-SUFFIX,darkreader.app,Force_Proxy
+HOST-SUFFIX,immersivetranslate.com,Force_Proxy
+HOST-SUFFIX,macbartender.com,Force_Proxy
+HOST-SUFFIX,pastenow.app,Force_Proxy
+HOST-SUFFIX,fofa.info,Force_Proxy
+HOST-SUFFIX,moomoo.com,Force_Proxy
+HOST-SUFFIX,moomooequity.com,Force_Proxy
+HOST-SUFFIX,moomootrustee.com,Force_Proxy
+HOST-SUFFIX,acsbapp.com,Force_Proxy
+HOST-SUFFIX,api.aws,Force_Proxy
+HOST-SUFFIX,aws.dev,Force_Proxy
+HOST-SUFFIX,amazonaws.com,Force_Proxy
+HOST-SUFFIX,split.io,Force_Proxy
+HOST-SUFFIX,netdata.cloud,Force_Proxy
+HOST-SUFFIX,my-netdata.io,Force_Proxy
+HOST-SUFFIX,netdata-news.cdn.prismic.io,Force_Proxy
+HOST-SUFFIX,quantumult.app,Force_Proxy
+HOST-SUFFIX,quantummetric.com,Force_Proxy
+HOST-SUFFIX,onetrust.com,Force_Proxy
+HOST-SUFFIX,eppo.cloud,Force_Proxy
 HOST-SUFFIX,xiaoya.pro,Force_Proxy
 HOST-SUFFIX,xiaoyahost.com,Force_Proxy
 HOST-SUFFIX,ddsrem.com,Force_Proxy
-
-# Rule-Supplement
-HOST-SUFFIX,raw.githubusercontent.com,Force_Proxy
